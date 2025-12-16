@@ -1,0 +1,472 @@
+path,type
+"/data/user/0/kr.co.april7.buddy",directory
+"/data/user_de/0/kr.co.april7.buddy",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/base.apk!/lib/arm64-v8a",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.ko.apk!/lib/arm64-v8a",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/base.apk",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.arm64_v8a.apk",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.ko.apk",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.xxhdpi.apk",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/oat/arm64/base.odex",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/oat/arm64/base.vdex",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/oat/arm64/base.art",directory
+"/data/misc/profiles/cur/0/kr.co.april7.buddy",directory
+"/data/misc/profiles/cur/0/kr.co.april7.buddy/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/kr.co.april7.buddy/config.ko.split.prof",directory
+"/data/misc/profiles/cur/0/kr.co.april7.buddy/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/kr.co.april7.buddy/primary.prof",directory
+"/data/user/0/kr.co.april7.buddy/cache",directory
+"/data/user_de/0/kr.co.april7.buddy/code_cache",directory
+"/data/user_de/0/kr.co.april7.buddy/code_cache/com.android.opengl.shaders_cache",directory
+"/data/user_de/0/kr.co.april7.buddy/code_cache/com.android.skia.shaders_cache",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/frc_1:138331836632:android:e7841ec57bd4553c_firebase_settings.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/frc_1:138331836632:android:e7841ec57bd4553c_firebase_settings.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/FirebasePerfSharedPrefs.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/FirebasePerfSharedPrefs.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMzgzMzE4MzY2MzI6YW5kcm9pZDplNzg0MWVjNTdiZDQ1NTNj.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMzgzMzE4MzY2MzI6YW5kcm9pZDplNzg0MWVjNTdiZDQ1NTNj.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files",directory
+"/data/user/0/kr.co.april7.buddy/files/frc_1:138331836632:android:e7841ec57bd4553c_firebase_activate.json",file
+"/data/user/0/kr.co.april7.buddy/files/frc_1:138331836632:android:e7841ec57bd4553c_firebase_fetch.json",file
+"/data/user/0/kr.co.april7.buddy/files/frc_1:138331836632:android:e7841ec57bd4553c_firebase_defaults.json",file
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/reports",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/native-reports",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.crashlytics.xml.bak",directory
+"/data/user_de/0/kr.co.april7.buddy/shared_prefs",directory
+"/data/user_de/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMzgzMzE4MzY2MzI6YW5kcm9pZDplNzg0MWVjNTdiZDQ1NTNj.xml",file
+"/data/user_de/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMzgzMzE4MzY2MzI6YW5kcm9pZDplNzg0MWVjNTdiZDQ1NTNj.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/com.crashlytics.settings.json",file
+"/data/user/0/kr.co.april7.buddy/files/datastore/firebase_session_a3IuY28uYXByaWw3LmJ1ZGR5_settings.preferences_pb",directory
+"/data/user/0/kr.co.april7.buddy/databases",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/initialization_marker",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.google.android.datatransport.events",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.google.android.datatransport.events-journal",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/crash_marker",directory
+"/data/user/0/kr.co.april7.buddy/files/generatefid.lock",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/kr.co.april7.buddy/files/.gms-dynamite-code-cache",directory
+"/data/user/0/kr.co.april7.buddy/files/PersistedInstallation.W0RFRkFVTFRd+MToxMzgzMzE4MzY2MzI6YW5kcm9pZDplNzg0MWVjNTdiZDQ1NTNj.json",file
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/userlog",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.firebase.messaging.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.android.gms.appid.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/audience_network.dex",file
+"/data/user/0/kr.co.april7.buddy/no_backup",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/com.google.android.gms.appid-no-backup",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.appEventPreferences.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/start-time",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/kr.co.april7.buddy/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/kr.co.april7.buddy/files/.com.google.firebase.crashlytics.files.v1",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1/aqs.0a8564d8593a4359b9a84088c6dd5878",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E307B0208000107CD175856F1F8D1/report",directory
+"/data/user/0/kr.co.april7.buddy/app_optimized",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/AppEventsLogger.persistedevents",directory
+"/data/user/0/kr.co.april7.buddy/databases/androidx.work.workdb",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/androidx.work.workdb",directory
+"/data/user/0/kr.co.april7.buddy/cache/data/user/0/kr.co.april7.buddy/no_backup/androidx.work.workdb.lck",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/androidx.work.workdb-wal",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/androidx.work.workdb-shm",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/Default.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/Default.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/oat/audience_network.dex.cur.prof",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/DARO_SDK_PREF.xml",file
+"/data/user_de/0/kr.co.april7.buddy/shared_prefs/DARO_SDK_PREF.xml",file
+"/data/user_de/0/kr.co.april7.buddy/shared_prefs/DARO_SDK_PREF.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/phenotype_storage_info/shared/storage-info.pb",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/phenotype/shared/com.google.android.gms.measurement#kr.co.april7.buddy.pb",directory
+"/data/user/0/kr.co.april7.buddy/files/cappedAds.txt",file
+"/data/user/0/kr.co.april7.buddy/files/adsCappingInfo.txt",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/kr.co.april7.buddy_preferences.xml",file
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/internal-keys����������������������������������������������������������������������",directory
+"/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/internal-keys����������������������������������������������������������������������",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�/system/framework/oat/arm64/android.test.runner.odex��������������������6W����8(libhta_controller.so�������������������������������w����8�p��1�������$�����������w���������������������������libLocalTM_wrapper.camera.samsung.so��������������������������������w�����s-���libOpenCL.so�����������������������������������@���w���",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.xxhdpi.apk!/lib/arm64-v8a��������������������������������������������������������������������������������������������������������������������������������������������������������������������A�������?�����������w�����������M��������",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.ko.apk!/lib/arm64-v8a��������������������������������������������������������������������������������������������������������������������������������������������������������������������������b�w�������w���a����������w���_����������?�������������1�w�����P�w����������@",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�����w����B�gf/�1�������&��������=��w���������������������������libvesinterface.videoeditor.samsung.so��������������������������@=��w�����n�\�!��������������@k��w����������������������������=��w���`�K���!��������������@l��w����������������������������>��w���%���Eз�libc.so����������������������������������������@>��w�����P�!Re",directory
+"/data/data/kr.co.april7.buddy���",directory
+"/data/data/kr.co.april7.buddy���@���w��������������������������libxcv.camera.samsung.so��������libexifa.camera.samsung.so������libagifencoder.quram.so���������libjpegsq.media.samsung.so������libBarcode.camera.samsung.so����libBestComposition.polarr.so����libsnap_hidl.snap.samsung.so����@o��w����KIє�đKIє���k>�w����a��w����ބ��E�ބ��E",directory
+"/data/data/kr.co.april7.buddy���libjpega.camera.samsung.so������libBeauty_v3.camera.samsung.so��libOpenCv.camera.samsung.so�����libsecimaging.camera.samsung.so�libhta_hexagon_runtime.so�������libSceneText.camera.samsung.so��libhumantracking.arcsoft.so�����libSmartScan.camera.samsung.so��libjpegsq.media.samsung.so����������w���9ڸ9",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64����������������������������������������������������������������@���w�����P�!Re",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�/data/data/com.google.android.webview���������������������������/system/framework/oat/arm64/scameraximpl.odex�������������������/data/data/com.google.android.webview�������������������������������w���x��r��libmediandk.so���������������������������������/system/framework/oat/arm64/android.test.mock.odex������������������w����p�C",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/kr.co.april7.buddy_preferences.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/databases/google_app_measurement_local.db",file
+"/data/user/0/kr.co.april7.buddy/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/kr.co.april7.buddy/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/kr.co.april7.buddy/databases/google_app_measurement_local.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.attributionTracking.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/app_set_id_storage.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/app_set_id_storage.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/WebViewChromiumPrefs.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/WebViewChromiumPrefs.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/app_webview",directory
+"/data/user/0/kr.co.april7.buddy/app_textures",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/event0000000000_",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/.ae1765683635862",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E319901B100011F86D104B60B7EC1/user-data",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports/693E319901B100011F86D104B60B7EC1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E31B400E800021F86D104B60B7EC1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E31B400E800021F86D104B60B7EC1/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E31B400E800021F86D104B60B7EC1/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E31B400E800021F86D104B60B7EC1/start-time",directory
+"/data/user/0/kr.co.april7.buddy/cache/ad_unit_info_database.lck",directory
+"/data/user/0/kr.co.april7.buddy/databases/ad_unit_info_database",directory
+"/data/user/0/kr.co.april7.buddy/databases/ad_unit_info_database-wal",directory
+"/data/user/0/kr.co.april7.buddy/databases/ad_unit_info_database-shm",directory
+"/data/user/0/kr.co.april7.buddy/databases/ad_unit_info_database-journal",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_s",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.session_pref_file.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.session_pref_file.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.batch_processing_info.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.batch_processing_info.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/inmobiwebassetcache",directory
+"/data/user/0/kr.co.april7.buddy/files/inmobiwebassetcache/journal.bkp",directory
+"/data/user/0/kr.co.april7.buddy/files/inmobiwebassetcache/journal",directory
+"/data/user/0/kr.co.april7.buddy/files/inmobiwebassetcache/journal.tmp",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.web_asset_file_key.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.web_asset_file_key.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.unified_id_info_store.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.unified_id_info_store.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302F023300024B00B6D311A8A6CB",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302F023300024B00B6D311A8A6CB/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302F023300024B00B6D311A8A6CB/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/internal-keys����������������������������������������������������������������������",directory
+"/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/internal-keys����������������������������������������������������������������������",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/event0000000000_",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/.ae1765683313626",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E305B007500017A42A26C1ADF21D1/user-data",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports/693E305B007500017A42A26C1ADF21D1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E3071032800027A42A26C1ADF21D1",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E3071032800027A42A26C1ADF21D1/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E3071032800027A42A26C1ADF21D1/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E3071032800027A42A26C1ADF21D1/start-time",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.im_10.8.3.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/databases/ttopensdk.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.display_info_store.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.display_info_store.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.purchase_store.xml",file
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.0NpCDW",directory
+"/data/user/0/kr.co.april7.buddy/databases/pag_monitor.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.im.keyValueStore.purchase_store.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/pref_store",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/Default������������@F��r������p���@@��r����������P}��t���@�r������������������p��p����F��r����@��r����������",directory
+"/data/data/kr.co.april7.buddy���`���w�����A�y�w-��A�y�w-��>�w�������w���m��",directory
+"/data/data/kr.co.april7.buddy�������w��������������������������libxcv.camera.samsung.so��������libexifa.camera.samsung.so������libagifencoder.quram.so���������libBeauty_v3.camera.samsung.so��libFood.camera.samsung.so�������liblow_light_hdr.arcsoft.so�����libBestComposition.polarr.so����libBestComposition.polarr.so����@o��w����KIє�đKIє���k>�w����a��w����ބ��E�ބ��E",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�/data/data/com.google.android.webview���������������������������/system/framework/oat/arm64/scameraximpl.odex��������������������������",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�����w���x��r��libmediandk.so���������������������������������/system/framework/oat/arm64/android.test.mock.odex��������������",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�/system/framework/oat/arm64/android.test.runner.odex��������������������6W����8(libhta_controller.so���������������������������@��w����8�p��1�������$����������w���������������������������libLocalTM_wrapper.camera.samsung.so�������������������������������w�����s-���libOpenCL.so��������������������������������������w���",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.xxhdpi.apk!/lib/arm64-v8a��������������������������������������������������������������������������������������������������������������������������������������������������������������������A�������?�������@���w�����������M��������",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so�����������������������vndk��������������������������P�w����P�w����P�w����98�w����98�w����98�w�����������������������������7�w�����7�w�����7�w���rs���������������������������@OB�w���pOB�w���pOB�w�����7�w�����7�w�����7�w�����������������������������7�w���p�7�w���p�7�w���default��������������������������������7�w�����������",directory
+"/data/user/0/kr.co.april7.buddy/databases/track_manager_metrics_sdk.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/kr.co.april7.buddy/databases/track_manager_monitor.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/kr.co.april7.buddy/app_pccache/5/9C2BDF6C31122BA43D110BBDCFF136C1C2C1E6F7/oat/pcam.jar.cur.prof",directory
+"/data/user/0/kr.co.april7.buddy/databases/ad_event_log_database",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64/libunity.so",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64/libflutter.so",file
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64/libreactnativejni.so",file
+"/data/user/0/kr.co.april7.buddy/files/encrypt_statistics_file",directory
+"/data/user/0/kr.co.april7.buddy/files/encrypt_statistics_file.bak",directory
+"/data/user/0/kr.co.april7.buddy/cache/buddyApp.db.lck",directory
+"/data/user/0/kr.co.april7.buddy/databases/buddyApp.db",file
+"/data/user/0/kr.co.april7.buddy/databases/buddyApp.db-wal",directory
+"/data/user/0/kr.co.april7.buddy/databases/buddyApp.db-shm",directory
+"/data/user/0/kr.co.april7.buddy/databases/buddyApp.db-journal",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/c179fd889cf35cc02c3f3e8068599ce98bc11cdf67db1ea18ec4c05cacd7e9a9.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/c179fd889cf35cc02c3f3e8068599ce98bc11cdf67db1ea18ec4c05cacd7e9a9.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/cf807959d80e8024611533ad8d4bb98909ee7ab847bf10f024d01d8acf10f44a.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/cf807959d80e8024611533ad8d4bb98909ee7ab847bf10f024d01d8acf10f44a.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/9d4e0a526952175083a76a8047edcbf4905ac5ad7ed0e175b679dec406381194.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/9d4e0a526952175083a76a8047edcbf4905ac5ad7ed0e175b679dec406381194.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/4b3658a06889a6e1dff406ae12fac8172eb2493becf44e2e6bf0510122dde8db.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/4b3658a06889a6e1dff406ae12fac8172eb2493becf44e2e6bf0510122dde8db.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/d0961f46a0cfee5e61f8056709ed9fbc52fff169be24a5801072e19e4a880666.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/d0961f46a0cfee5e61f8056709ed9fbc52fff169be24a5801072e19e4a880666.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/d55993338d01eaec2c46ca201d33365f1b46bb6b6264ad72056a65cc692eec67.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/d55993338d01eaec2c46ca201d33365f1b46bb6b6264ad72056a65cc692eec67.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/91a0b9da667dc113bba91628c1821838aef8cbb9ac023f9a9c6c57ecec16260a.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/91a0b9da667dc113bba91628c1821838aef8cbb9ac023f9a9c6c57ecec16260a.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/5820aaa61d7852cbd3346d40479f75e0fb1283aa6352b2b2f26dc6a45ef24486.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/5820aaa61d7852cbd3346d40479f75e0fb1283aa6352b2b2f26dc6a45ef24486.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/e779f3cb4d88eb13dbd759aaa4cab0ff9f84b50c402eff596756b252fa0967fc.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/e779f3cb4d88eb13dbd759aaa4cab0ff9f84b50c402eff596756b252fa0967fc.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.mlkit.internal.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.google.mlkit.internal.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/43eff7dc4996b474b1e5589f700ad5f51543b5b2457fb149e8e20b57ddbdcf0e.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/e27bbee83a6198897c6ede1cc4a23aa783390c8b982c77cc411ed730ec2f5820.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/377ff6040c760ec1eea305b23b6eb8d429de477fc8ed8bb3cab8d63c881fca66.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/688f4a2ca1fe75d910643abce7ce7bbfb1fd485f9ef6de8af6c8224f8bbab9ab.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/47e0ec7d039221b370e9a083e1e75a5b4b5ad07e4361c44250ec1e7777991ee1.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/47e0ec7d039221b370e9a083e1e75a5b4b5ad07e4361c44250ec1e7777991ee1.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/3a3d4b2fe4e3008fc802650b6cdf8432",directory
+"/data/user/0/kr.co.april7.buddy/files/ttopenadsdk",directory
+"/data/user/0/kr.co.april7.buddy/files/ttopenadsdk.bak",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/aed8fce959eae8232521fe0b36d0ed9f",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_get_ad",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_get_ad.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/admob.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/admob.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/3a3d4b2fe4e3008fc802650b6cdf8432.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/b932a08a68e44d228c234927fac745a4",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/8714deaf779d10c4c4ce4eba675f10ed",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/45bfb92edf6af162a5b29feed6360acd",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/c4e589c805d42f886e5ce960881f4099",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/cf3851a9375cf58fec28a1093723746c",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/d043c7453a689b619bbef7130c36eff0",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/ef95e829ee4eb1c477024988cf2ec70e",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/eb5513ab629d29b7a265992d76fc1c1b",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/efdd8d22b9f03e9f0a79d63428012608",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/dea8a92a915a56ad4eb2f6497210a7fd",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/fb1806c312d32792a83564ad78508576",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/53cacc143ca6d11ab5ce39052f233228",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/a797471acc48bc9501170e6f64f5375a",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/08791d4308bfb214fb42386cb9bc9440",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/3668e4c1d336f81b46537953601f49be",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/892cdce2e343b8b0a2c3e4a3a601e9d8",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/505af0fd0d1a84ea0f4bd86c4e11e23c",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/8b5647fcdcda2b22d53253de0d543ec4",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/7ef506ba773c60389891e59194480ada",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/c592406572c641d2b5cdbf2739382d47",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/5a2a19ae2be20bb3934ba243b03cc5a1",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/8fa24a0e620ed9efaa3a583cadbd9cca",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/2023015f76f3148ddd0ed6708749e9c9",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/3879847ff09def493b7e55f6850c89d7",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/da3bb624de9cec87b87ee0d3a8c13120",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/48e25eb7dbd3cfa2e3886b47d60ad124",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/cbb2d81f140fb3b47da38f1cd5e0a3dc",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/aa430c4c65a7cb036984296893c14e3c",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/5444e954cd97b2d1e142790d6677537d",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/aed8fce959eae8232521fe0b36d0ed9f.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/1221246437-126780510",directory
+"/data/user/0/kr.co.april7.buddy/databases/com.google.android.gms.ads.db",file
+"/data/user/0/kr.co.april7.buddy/cache/volley/745964289-1049526962",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2b17329fb4c138d8_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2b17329fb4c138d8_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2b17329fb4c138d8_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/745964289-1291234312",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/0a528a8ad340c04a_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/0a528a8ad340c04a_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/0a528a8ad340c04a_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2181fb38e4f9cbec_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/6bb16673750bfebc_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-739829977105363728",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-7398299771316199130",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2ccce3f139cd6604_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2ccce3f139cd6604_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/bad99be2c071a714_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/bad99be2c071a714_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/bad99be2c071a714_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2181fb38e4f9cbec_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/6bb16673750bfebc_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2181fb38e4f9cbec_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/6bb16673750bfebc_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/2ccce3f139cd6604_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/f75c9e7186e20e8e_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/f75c9e7186e20e8e_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/f75c9e7186e20e8e_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-14273504051009258015",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-739829977-326458146",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-14273504051239261528",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.7DRYkr",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/a6841edabfb375b3_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/a6841edabfb375b3_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/a6841edabfb375b3_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/368fcfeaf1ab58f7_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/92bdb74a7eb817e2_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/92bdb74a7eb817e2_1",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/92bdb74a7eb817e2_s",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/c3a13890b73d0a61_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/941b5cefeb3d5dee_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/d1ef9e0b95c512b0792e4faf64884add",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/94fdab164f4cd5574e25be8e31a4f600",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/94fdab164f4cd5574e25be8e31a4f600.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/d1ef9e0b95c512b0792e4faf64884add.temp",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.A1Orw3",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/downloads/693e30d05a5dc8de206f3ab2",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/downloads/693e30d05a5dc8de206f3ab2/edsp-privacy.png",file
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/downloads/693e30d05a5dc8de206f3ab2/461_1346aa14440d60f3bc05.jpg",file
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/downloads/693e30d05a5dc8de206f3ab2/218_e91594085777f5788d30.png",file
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/js/mraid_5_3_0",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/js/mraid_5_3_0/mraid.min.js",file
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/54e003b7c7b779360b73dcd47572b2d1.0",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/54e003b7c7b779360b73dcd47572b2d1.1",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/0141e3d1f4529d3e440c7b00e0c0b241.0",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/0141e3d1f4529d3e440c7b00e0c0b241.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/0141e3d1f4529d3e440c7b00e0c0b241.1",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/0141e3d1f4529d3e440c7b00e0c0b241.1.tmp",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/04ceacc049f37009c042ec7264f64e41.0",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/04ceacc049f37009c042ec7264f64e41.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/04ceacc049f37009c042ec7264f64e41.1",directory
+"/data/user/0/kr.co.april7.buddy/no_backup/vungle_cache/clever_cache/04ceacc049f37009c042ec7264f64e41.1.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/bd8672391c823331715d486cac98ff887974b06fa09e807087e71c8cfe312715.0",directory
+"/data/user/0/kr.co.april7.buddy/cache/image_manager_disk_cache/bd8672391c823331715d486cac98ff887974b06fa09e807087e71c8cfe312715.0.tmp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/ab963d2ddd5abae0cfe988fef7323cfc",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/a232581bfc93b01956e12f171672e1b0",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/ab963d2ddd5abae0cfe988fef7323cfc.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/a232581bfc93b01956e12f171672e1b0.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/09920d5eb9f41e93_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_09920d5eb9f41e93_0_1",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.7WfqQW",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/695e69ea42669627ea8ae85e71d527c3",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/1ede2ea3e397a01bc76d0cea99b0a34d",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/1ede2ea3e397a01bc76d0cea99b0a34d.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/695e69ea42669627ea8ae85e71d527c3.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/1470128720-1852553775",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/1358339650214920957",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/c8c3a0eb54e7188f_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/a7e26444a74daae3_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/3ea05fe489df4c2e_0",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.glsTci",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/3c1268993be38757_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/682f0c29a7e53f6bcf7c3894e49af4ac",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/9b9d24b78eb8c7bf2645dadc282679e0",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/9b9d24b78eb8c7bf2645dadc282679e0.temp",directory
+"/data/user/0/kr.co.april7.buddy/cache/tt_ad/image_p/682f0c29a7e53f6bcf7c3894e49af4ac.temp",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_ad",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_ad.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_state",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_state.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_trail",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_net_trail.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_ad",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_ad.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_state",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_state.bak",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_trail",directory
+"/data/user/0/kr.co.april7.buddy/files/tt_sdk_event_db_trail.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/kr.co.april7.buddy.v2.playerprefs.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/kr.co.april7.buddy.v2.playerprefs.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.session_queue.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.session_queue.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/databases/metrics-db",directory
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.updates_queue.xml",file
+"/data/user/0/kr.co.april7.buddy/shared_prefs/com.kochava.tracker.tracker.profile.updates_queue.xml.bak",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-1563404815-1402565012",directory
+"/data/user/0/kr.co.april7.buddy/cache/volley/-1563404815-1091202330",directory
+"/data/user/0/kr.co.april7.buddy/app_webview/.com.google.Chrome.wxuY5W",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/113e2259012b2299_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Code Cache/js/d577b8f6c73d78e9_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/32abe39843fc007c_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/c8547e25e937e226_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/beab2272ac5cf41d_0",directory
+"/data/user/0/kr.co.april7.buddy/cache/WebView/Default/HTTP Cache/Cache_Data/34fe6385b9d5a4be_0",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2C0801B8000216D59595D82DB062",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2C0801B8000216D59595D82DB062/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2C0801B8000216D59595D82DB062/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/event0000000000_",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/.ae1765682948443",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F02013700012798ADF14290180D/user-data",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports/693E2F02013700012798ADF14290180D",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F04024100022798ADF14290180D",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F04024100022798ADF14290180D/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F04024100022798ADF14290180D/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F04024100022798ADF14290180D/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F21000800012ED217232D30625D",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F21000800012ED217232D30625D/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F21000800012ED217232D30625D/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E2F21000800012ED217232D30625D/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/event0000000000_",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/.ae1765683209795",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300801F000013DC946B5A7C7D75B/user-data",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports/693E300801F000013DC946B5A7C7D75B",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300A00A600023DC946B5A7C7D75B",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300A00A600023DC946B5A7C7D75B/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300A00A600023DC946B5A7C7D75B/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300A00A600023DC946B5A7C7D75B/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B/internal-keys",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B/start-time",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B/report",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B/aqs.74b82f995847405a8ff9b9b76946466b",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E300E00F700013EA559447711583B/userlog",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/event0000000000_",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/.ae1765683247309",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302D011F00014B00B6D311A8A6CB/user-data",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/priority-reports/693E302D011F00014B00B6D311A8A6CB",directory
+"/data/user/0/kr.co.april7.buddy/files/.crashlytics.v3/kr.co.april7.buddy/open-sessions/693E302F023300024B00B6D311A8A6CB/userlog",directory
+"/data/user/0/kr.co.april7.buddy�X��o�������.����������P����������������C�o5���������������o��������������������������������������������Jw������������������������������������������C�orZ������p�������o����x�������������������������������������(TOw������������������������������������������C�o@�ď����X���7r��o����`�h�",directory
+"/data/app/kr.co.april7.buddy-pFYpBe6OinzQG1JDmZevsQ==/lib/arm64�/system/framework/oat/arm64/android.test.runner.odex��������������������6W����8(libhta_controller.so����������������������������)��w����8�p��1�������$��������*��w���������������������������libLocalTM_wrapper.camera.samsung.so�����������������������������)��w�����s-���libOpenCL.so�����������������������������������@*��w���",directory
+"/data/data/kr.co.april7.buddy���libjpega.camera.samsung.so������libBeauty_v3.camera.samsung.so��libOpenCv.camera.samsung.so�����libsecimaging.camera.samsung.so�libhta_hexagon_runtime.so�������libSceneText.camera.samsung.so��libhumantracking.arcsoft.so�����libSmartScan.camera.samsung.so��libjpegsq.media.samsung.so����������w���mܹJ�EֵmܹJ�Eֵ@�>�w���libBarcode.camera.samsung.so����libFood.camera.samsung.so�������libsnap_hidl.snap.samsung.so����libBestComposition.polarr.so��������w���",directory

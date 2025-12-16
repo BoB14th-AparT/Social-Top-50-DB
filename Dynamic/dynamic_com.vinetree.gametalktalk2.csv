@@ -1,0 +1,1266 @@
+path,type
+"/data/user/0/com.vinetree.gametalktalk2",directory
+"/data/user_de/0/com.vinetree.gametalktalk2",directory
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/lib/arm64",directory
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/oat/arm64/base.odex",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/oat/arm64/base.vdex",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/oat/arm64/base.art",file
+"/data/misc/profiles/cur/0/com.vinetree.gametalktalk2",directory
+"/data/misc/profiles/cur/0/com.vinetree.gametalktalk2/primary.prof",file
+"/data/user/0/com.vinetree.gametalktalk2/cache",directory
+"/data/user_de/0/com.vinetree.gametalktalk2/code_cache",directory
+"/data/user_de/0/com.vinetree.gametalktalk2/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.vinetree.gametalktalk2/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user_de/0/com.vinetree.gametalktalk2/shared_prefs",directory
+"/data/user_de/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml",file
+"/data/user_de/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/frc_1:1018251067063:android:2b6e29f7d4e8f1c2_firebase_settings.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/reports",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/priority-reports",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/native-reports",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/frc_1:1018251067063:android:2b6e29f7d4e8f1c2_firebase_settings.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.crashlytics.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/com.crashlytics.settings.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/frc_1:1018251067063:android:2b6e29f7d4e8f1c2_firebase_defaults.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/frc_1:1018251067063:android:2b6e29f7d4e8f1c2_firebase_activate.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/frc_1:1018251067063:android:2b6e29f7d4e8f1c2_firebase_fetch.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/initialization_marker",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.google.android.datatransport.events",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/crash_marker",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/files/generatefid.lock",file
+"/data/user/0/com.vinetree.gametalktalk2/files/PersistedInstallation.W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionConfigsDataStore.data",file
+"/data/data/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionConfigsDataStore.data",file
+"/data/user/0/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionDataStore.data",file
+"/data/data/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionDataStore.data",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D/aqs.a908fc49e9d046fdab3bb9bcdec5deb3",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4A37001E00016DB3ED81DA2FA32D/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.com.google.firebase.crashlytics.files.v1",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.preferences_pb",file
+"/data/data/com.vinetree.gametalktalk2/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.preferences_pb",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/aqs.bdd8257a55254a9c9285c799d7337673",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E497001DC0001493858767A4A9A6B/aqs.a908fc49e9d046fdab3bb9bcdec5deb3",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/classes.dex",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.appEventPreferences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/classes2.dex",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/YadPreferenceFile.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/YadPreferenceFile.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-790ba54ab8e69f2f.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-790ba54ab8e69f2f.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_optimized",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/AppEventsLogger.persistedevents",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/StartApp-d6864f2502af7851",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/StartApp-d6864f2502af7851-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/StartApp-d6864f2502af7851-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/StartApp-d6864f2502af7851-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.sdk.extras.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/androidx.work.workdb",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/androidx.work.workdb",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/data/user/0/com.vinetree.gametalktalk2/no_backup/androidx.work.workdb.lck",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.sdk.extras.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.sdk.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.sdk.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/oat/classes.dex.cur.prof",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files/oat/classes2.dex.cur.prof",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartApp-68962b1486d766d9",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2_preferences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2_preferences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.android.publish.CookiePrefsFile.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.startapp.android.publish.CookiePrefsFile.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/gametalktalk2.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/gametalktalk2.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2.v2.playerprefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2.v2.playerprefs.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vinetree.gametalktalk2.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/StartappMetadata",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/FBAdPrefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/FBAdPrefs.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files/cappedAds.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adsCappingInfo.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/phenotype/shared/com.google.android.gms.measurement#com.vinetree.gametalktalk2.pb",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/StartappAdsMetadata",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.attributionTracking.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak",file
+"/data/data/com.vinetree.gametalktalk2����������������������������",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/StartappBannerMetadata",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/WebViewChromiumPrefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/WebViewChromiumPrefs.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/StartappCacheMetadata",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/StartappAdInfoMetadata",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk!/lib/arm64-v8a/libdatastore_shared_counter.so",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk!/lib/arm64-v8a/libapminsighta.so",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk!/lib/arm64-v8a/libnms.so",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/base.apk!/lib/arm64-v8a/libpglarmor.so",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/42e36fc920e663f8_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/42e36fc920e663f8_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/42e36fc920e663f8_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/phenotype/shared/com.google.android.gms.clearcut_client#com.vinetree.gametalktalk2.pb",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/fd4496c34b7c46a1_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/882406f7ea740c2d_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/7ffb54c6b3831e00_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/7ffb54c6b3831e00_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/7ffb54c6b3831e00_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db/component_20799a27-fa80-4b36-b2db-0f8141f24180.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db/service_main.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db/component_main.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b0326248433fe9c0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4e7475b08d6a918a_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4e7475b08d6a918a_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4e7475b08d6a918a_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5246fa53bfa3cf52_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5246fa53bfa3cf52_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5246fa53bfa3cf52_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/unclosed_ad����������(�|p�&p@o�������������������)",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/track_manager_monitor.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/track_manager_metrics_sdk.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.im_11.1.0.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/ttopensdk.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/TrackInfo/20436/70c64afc84d93420G",file
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159/oat/pcam.jar.cur.prof",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.4KFTq5",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/pref_store",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c63d0e7c3804f99b_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c63d0e7c3804f99b_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c63d0e7c3804f99b_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b9c9c50383a7e835_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/eb7add4a4b18a318_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/eb7add4a4b18a318_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/eb7add4a4b18a318_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/9145736d0e384bb5_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/9145736d0e384bb5_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/9145736d0e384bb5_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4bdab4b1f98062e0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4bdab4b1f98062e0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4bdab4b1f98062e0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b35dd9d416b72f21_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b35dd9d416b72f21_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b35dd9d416b72f21_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f248e82e1af2a06c_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f248e82e1af2a06c_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f248e82e1af2a06c_s",directory
+"/data/data/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionDataStore.data.lock",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_app_measurement_local.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_app_measurement_local.db-journal",file
+"/data/data/com.vinetree.gametalktalk2/files/datastore/firebaseSessions/sessionDataStore.data.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/mixpanel",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/mixpanel-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/mixpanel-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/mixpanel-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/identify-intercept",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-57.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-events-$default_instance.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-events-$default_instance.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-internal.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-internal.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/7ee6a2e924d6c3c3c612d08735714d5b51d0b26d352fe85b95feded4005a42a5.0",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.HGQpuW",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d56c410e3d59c3ef982e3ce684b9343cb358d1014f947fe4d6702f46a590a7e5.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/782f192887c5c1a85563a1b11cdccf7de319ee5f90d5f28a3264118691d1b8d3.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/019e625919e989cf580afa4deee077ad478c82864b4da22ced7d9455d5a3f03e.0",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.Jy8yF8",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.UrXjrI",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/BrowserMetrics",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/BrowserMetrics/BrowserMetrics-693E4A56-7024.pma",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a7c3c513cf236d9400eef5c900a2cf200aed16f4bd81af42e1f6dd77b961cbe8.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a7c3c513cf236d9400eef5c900a2cf200aed16f4bd81af42e1f6dd77b961cbe8.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_analytics_v4.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/009a83cefbfb5ac01299b601f2d078c8c2fbfb40aad55af2655cb9e0f59140dc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/009a83cefbfb5ac01299b601f2d078c8c2fbfb40aad55af2655cb9e0f59140dc.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.WYtvXg",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/54f433e47fe75393_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/996b34c1aa24b3e1f18214bd906c7cfff8fe66ce93c6073705984be80a68f2f4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/996b34c1aa24b3e1f18214bd906c7cfff8fe66ce93c6073705984be80a68f2f4.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/f2e167478244f4b9_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/f2e167478244f4b9_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/f2e167478244f4b9_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9cbd32bf92da37abe82ed45e6b9d10066f5c7808489ebce28107c83c67bb1f8a.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9cbd32bf92da37abe82ed45e6b9d10066f5c7808489ebce28107c83c67bb1f8a.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f00dcf4095359e2c_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_f00dcf4095359e2c_0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/6fd2d5c43444d2e0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/6fd2d5c43444d2e0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/6fd2d5c43444d2e0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/55208d48297d8ff7_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/55208d48297d8ff7_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/55208d48297d8ff7_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/421d64798a5a5000_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/421d64798a5a5000_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/421d64798a5a5000_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/bf123c4b0db79440_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/bf123c4b0db79440_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/bf123c4b0db79440_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.analytics.prefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/d297838f80976e72_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/WebStorage",directory
+"/data/data/com.vinetree.gametalktalk2/app_webview/Default/WebStorage/QuotaManager",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/CURRENT",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d297838f80976e72_0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt",file
+"/data/data/com.vinetree.gametalktalk2/app_webview/Default/WebStorage/QuotaManager-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/83f3a51c-c0d7-4af7-8784-ffa6d7726abb",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/83f3a51c-c0d7-4af7-8784-ffa6d7726abb/index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/83f3a51c-c0d7-4af7-8784-ffa6d7726abb/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/83f3a51c-c0d7-4af7-8784-ffa6d7726abb/index-dir",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/83f3a51c-c0d7-4af7-8784-ffa6d7726abb/index-dir/temp-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/VideoDecodeStats/LOG",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/VideoDecodeStats/LOG.old",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/VideoDecodeStats/LOCK",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dab73e0b-397b-4f2c-a679-44e55e7b8784/index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dab73e0b-397b-4f2c-a679-44e55e7b8784/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/d9f10c7c440115a4_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dab73e0b-397b-4f2c-a679-44e55e7b8784/c22d588f4a2f75a0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dab73e0b-397b-4f2c-a679-44e55e7b8784/c22d588f4a2f75a0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dab73e0b-397b-4f2c-a679-44e55e7b8784/c22d588f4a2f75a0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d9f10c7c440115a4_0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/a0f4ccb1bf5e7aa9_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/a0f4ccb1bf5e7aa9_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/a0f4ccb1bf5e7aa9_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/IndexedDB/https_www.youtube.com_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-57",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/54736bc217a7ef28_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_54736bc217a7ef28_0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/1f4f0d52644c1b6e_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.GI9tEZ",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-58.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.dFEfAR",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.0gYZK3",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-58",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/NonNullPackage.xml",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/lib/arm64/libunity.so",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/lib/arm64/libflutter.so",file
+"/data/app/com.vinetree.gametalktalk2-TSWAa5HkZ-dhEeh2NXh7sQ==/lib/arm64/libreactnativejni.so",file
+"/data/user/0/com.vinetree.gametalktalk2/files/encrypt_statistics_file",file
+"/data/user/0/com.vinetree.gametalktalk2/files/encrypt_statistics_file.bak",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files",directory
+"/data/data/com.vinetree.gametalktalk2/app_webview/Default/Cookies-journal",file
+"/data/data/com.vinetree.gametalktalk2/app_webview/Default",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db/component_478cb909-6ad1-4e12-84cc-b3629a789f93.db-journal",file
+"/data/data/com.vinetree.gametalktalk2/app_webview/Default/WebStorage",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/appmetrica_vital_478cb909-6ad1-4e12-84cc-b3629a789f93.dat",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/appmetrica_vital_20799a27-fa80-4b36-b2db-0f8141f24180.dat",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/appmetrica_vital_629a824d-c717-4ba5-bc0f-3f3968554d01.dat",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/appmetrica_vital_main.dat",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-59.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/tjcPrefrences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/tjcPrefrences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-59",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/GameTalkTalk2",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-60.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e51c6fe90571714b6fbad5337840d622981caf1e5bc7d527dd74c60e7c8e51e6.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/65dac2a80475e187f69f4befd0bbc218e336c17a6126ef1af413873d7e6dcd28.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/079590395f6ac3043f86d9221f630e6b86213b358d79589657193ab578a42f32.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f0903f8bd580ff2364e6cca38a44cf2ae6484b9518c87d2772fcac5f00b8a1a1.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6e2ba45a1efd47f9d314147dcc24ea8357050a077254494ee781929b8d18cd42.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6f25620f99c91f0d5e2f737ef5e5acf0162432e022ce7221e1c6b65fb9ba4714.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ecfa982ada99ea69c3997b6064c6f5df982581811fb0816e2afd1c8dc6149284.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/00303adfcf4dc1f1e97e86e4d2cbc05a42873ba7c8fef3ba339c485785006a9b.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c711a7e07dc3b5891505b32a7120dd6e113e57ea88e46f503cfe63a926bd8236.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/23de4929f6573f67d5854fc944dd4b1fc3217f7211831e5056ee240110f0be33.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f60a26fb132ce28615b98de5a4f757114d320cd7906095d17aa71b08f92bd271.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/021dd41f039dbf05d519e97355624d9c127f00a17c6d1e35dbf6f238f2536b6a.0",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/admob.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/admob.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/supersonic_sdk.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/supersonic_sdk.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/supersonic_sdk.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/supersonic_sdk.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-60",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.1.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.1.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/gametalktalk2.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/AppInfo",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/AppVersion",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C/aqs.2ee3d7d8bcb441f4a80adad2e2695d10",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B1903E300010D92E1B9CF7BEB9B",directory
+"/data/data/com.vinetree.gametalktalk2/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.preferences_pb.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B2C0144000124819EDDB86E498C/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B1903E300010D92E1B9CF7BEB9B/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B1903E300010D92E1B9CF7BEB9B/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B1903E300010D92E1B9CF7BEB9B/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4B1903E300010D92E1B9CF7BEB9B/aqs.2ee3d7d8bcb441f4a80adad2e2695d10",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoAssets",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoAssets/wrMiV92bM0oI7BgGo13ZQ3d5ECxXvI1rpBNIlwTgLnU",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoAssets/Q6z9A9j5uXRy3UG0JLwrFuAFQDwzBryAd3f8vH8dBqw",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/shared_prefs_sdk_ad_prefs",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-9b9bfdb86df82dad.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-9b9bfdb86df82dad.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/0d984c0fd975019f_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/0d984c0fd975019f_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/0d984c0fd975019f_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/cd99486b928fe182_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/74e71bfd0851c308_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/aqs.4ea3cbcdfd59440c84eec41259ccd5c3",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/aqs.4ea3cbcdfd59440c84eec41259ccd5c3",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/aqs.8f222e0a8fd747f0a3c6e3476c4e8b3b",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47CB019C000168EFBFB44248264D/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/app_set_id_storage.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/app_set_id_storage.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_textures",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/mobileads_consent.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/mobileads_consent.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.loginManager.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.loginManager.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.api.Store.W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.api.Store.W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.api.crypto.W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.api.crypto.W0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_sp_prop_switch.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_sp_prop_switch.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_sp_bad_par.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_sp_bad_par.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_settings.prop",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_set_mediation.prop",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/ttopenadsdk",file
+"/data/user/0/com.vinetree.gametalktalk2/files/ttopenadsdk.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_set_apm.prop",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_file",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_file.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_privacy",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_privacy.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_app_id",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_app_id.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_icon_id",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_global_icon_id.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_multi_ttadnet_config",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/sp_multi_ttadnet_config.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tpl_fetch_model",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tpl_fetch_model.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sp.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_ad",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_ad.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_state",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_state.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_trail",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_net_trail.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/5ee7fa1948f0add141975dd6dcf32b26.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/5ee7fa1948f0add141975dd6dcf32b26.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_ad",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_ad.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_state",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_state.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_trail",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_db_trail.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/npth_log.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/npth_log.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/npth_log.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/npth_log.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/configCrash/configFile",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/configCrash/configInvalid",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/ProcessTrack/20436/com.vinetree.gametalktalk2.txt",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/AutomationTestInfo.json",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/did",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/device_uuid",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/has_anr_signal_com.vinetree.gametalktalk2",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/CrashCommonLog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/CrashLogJava",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/CrashLogNative",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/alogCrash",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/crashCommand",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765348626407.ctx",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765689145780.ctx",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765689603723.ctx",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765689603723.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765629108981.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765363172635.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765689145780.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765629137688.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765335274873.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765442863452.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765252359230.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765348626407.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765629197532.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765523065514.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765531521983.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765610548815.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765629064361.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765629235767.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765161187654.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765614914457.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765617360539.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765214223859.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765677135389.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1764983891463-1765248065523.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765520998994.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765520862263.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765508403913.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765514647677.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765683067040.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765455370194.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/RuntimeContext/1765363172635-1765623086425.allData",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/gametalktalk2.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/gametalktalk2.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/gametalktalk2.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Hawk2.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Hawk2.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_analytics_v4.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_analytics_v4.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_analytics_v4.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-identify-intercept-$default_instance.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-identify-intercept-$default_instance.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/identity.properties",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_06637f413efa690171647e7c4c8b6e20.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_06637f413efa690171647e7c4c8b6e20.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_06637f413efa690171647e7c4c8b6e20.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_06637f413efa690171647e7c4c8b6e20.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-android-$default_instance.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/amplitude-android-$default_instance.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-install.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-install.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-attribution-data.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-attribution-data.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-info.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-info.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-alias.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-alias.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-attributes.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-attributes.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-attributes-ex.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-user-attributes-ex.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-device-alias.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/airbridge-device-alias.xml.bak",file
+"/data/vendor/gpu/esx_config_com.vinetree.gametalktalk2.txt",file
+"/data/misc/gpu/esx_config_com.vinetree.gametalktalk2.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/identify-intercept/$default_instance-0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-47.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-47",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-54ff24db2aee60b9.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-54ff24db2aee60b9.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/aqs.39c7c89636f545dbb8f46e3350d4418d",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E48F2037400012C01568B28989E8E/userlog.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.internal.btextras.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.internal.btextras.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.idfa.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.idfa.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.internal.ua.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.internal.ua.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/journal.bkp",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/journal.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.preferences.DSyG4d2vgVLIVPHX7m4P25tWLVOu_ah_FV-4JPPv7J1K3LtK-7rzccbqQq04CTAacv-Sufl31buqLAhEmhsQ8w.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.preferences.DSyG4d2vgVLIVPHX7m4P25tWLVOu_ah_FV-4JPPv7J1K3LtK-7rzccbqQq04CTAacv-Sufl31buqLAhEmhsQ8w.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/fyb.vamp.vid.cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/fyb.vamp.vid.cache/journal.bkp",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/fyb.vamp.vid.cache/journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/fyb.vamp.vid.cache/journal.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/assets",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/fyber.ua.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/fyber.ua.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/assets/journal.bkp",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/assets/journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/assets/journal.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/ia-global.config",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.shared.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.applovin.sdk.shared.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/session_details.json",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.flash.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.flash.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Fyber_Shared_File.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Fyber_Shared_File.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/IAConfigurationPreferences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/IAConfigurationPreferences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.AD_REPORTING_CONFIG.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.ads.AD_REPORTING_CONFIG.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Mediation_Shared_Preferences.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/Mediation_Shared_Preferences.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/UnityAdsStorage-public-data.json",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/component_data.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/component_data.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/component_data.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/component_data.db-journal",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/close_button.png",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res/.MBridge_VC",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/back_.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/back_dark.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/browser_icon_dark.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/forward_.png",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/forward_dark.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/x_dark.png",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/img",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/empty_star.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/filled_star.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/half_star.png",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/StartIoImages/logo.png",file
+"/data/user/0/com.vinetree.gametalktalk2/files/UnityAdsStorage-private-data.json",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/picasso",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/html",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/other",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/crashinfo",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/webview_data.lock",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-dfeaf103310003d9.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-dfeaf103310003d9.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-6cd3cac226013e8e.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files/unityAdsDatastore/native_configuration.pb",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-6cd3cac226013e8e.xml.bak",file
+"/data/data/com.vinetree.gametalktalk2/files/unityAdsDatastore/native_configuration.pb",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/share_date.kva",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/share_date.kvb",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-6d5362e8ecc8a910.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-6d5362e8ecc8a910.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/startapp_ads",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/startapp_ads",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/mbridge.kva",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/mbridge.kvb",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/UnityAdsWebViewCache",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/mbridge/6de03e9b336cb1fbdde39f74042019c7",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/UnityAdsWebViewCache/UnityAdsTest.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_monitor_record.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_monitor_record.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_adn_strategy_center.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pag_adn_strategy_center.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/UnityAdsWebViewCache/UnityAdsWebViewConfiguration.json",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/exc_log.kva",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/exc_log.kvb",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/ttopensdk.db",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-b36110d5cb803404.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/ttopensdk.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/ttopensdk.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-b36110d5cb803404.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-fb8245cb9af2e955.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/StartApp-fb8245cb9af2e955.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/libso",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/libso/libnms.so",file
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache/adAssets",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/track_manager_metrics_sdk.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/track_manager_metrics_sdk.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/track_manager_metrics_sdk.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/settings_vungle",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/supersonic_shared_preferen.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/supersonic_shared_preferen.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/gaClientId",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/unityads-installinfo.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files/gaClientIdData",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/unityads-installinfo.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_reward_full",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_reward_full/eef53e856bcf367533fe6dbe001a8ce3",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_reward_full/09a9eb80b9775fe8daecc4878bb1099d",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_splash",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_brand",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/al",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/al/persistent_postback_cache.json",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_default",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_ads_conf",file
+"/data/user/0/com.vinetree.gametalktalk2/files/al/.nomedia",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_settings",file
+"/data/user/0/com.vinetree.gametalktalk2/files/vungle_settings",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vungle.sdk.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.vungle.sdk.xml.bak",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/al/persisted-ads",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/apminsight/TrackInfo/20436/ac0acb82557ac8d9G",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/vungle",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/TTCache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_tmpl_pkg",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_tmpl_pkg/template",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/playable",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/playable/games",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_tmpl_pkg/template/temp_pkg_info.json",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/playable/pregames",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_tmpl_pkg/template/d9907c59f07f2c9879cbb66bae7be3a4",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_tmpl_pkg/template/3b3710f78e1058b291d31d03b5cda12b",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/sdk_logs",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/media/",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/pag_plb_config",file
+"/data/user/0/com.vinetree.gametalktalk2/files/pag_plb_config.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/data/",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/tmp/",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/playable/common",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/sdk_logs/log_176396417351231bea90e-3c20-4aa2-9ea5-59a1e539e47f",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/vungle_db",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/vungle_db-journal",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/026ae9c9824b3e483fa6c71fa88f57ae27816141",file
+"/data/user/0/com.vinetree.gametalktalk2/files/adc3/7bf3a1e7bbd31e612eda3310c2cdb8075c43c6b5",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_get_ad",file
+"/data/user/0/com.vinetree.gametalktalk2/files/tt_sdk_event_get_ad.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/instrument",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad//music",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/music",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/cache_policy_journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/UnityAdsCache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/579bd81dfd5ded4a42ff26eb0ae7fedb.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/e6908cdd10c06dc88a8d2a793dd3f856.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/dca4886fbba96dca65de462eeda6a3d7.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/1438d07f8b31f47dd657a690dd4c4c00.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/4b755dbacab3bf994e824a98df25a5e2.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/bdbbde9a74723e2967147e4488c86da8.0",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/webview_cache",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/cache_touch_timestamp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/unityAdsDatastore/glinfo.pb",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/inneractive.config",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets/syRhhUhX9iAnwZyp6_BYLj1aVjB52klQHnpHNsMaYeU=",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets/4Z8iza30mNJeiHfEi1AraBvcAv77oISYSlHdhHuy9uQ=",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets/kXY0w1HcncISESFN8_cSpT36I9y56o-9rA2rdG02dM8=",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets/meta",directory
+"/data/data/com.vinetree.gametalktalk2/files/unityAdsDatastore/glinfo.pb",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/assets/pBIkLmGdkNxAnYfblsBRyyEPD2BR3LOUw9QZWQxf-9g=",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.im_11.1.0.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.im_11.1.0.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.im_11.1.0.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.sdk_version_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.sdk_version_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/lib",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/im_cached_content",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pcvmspf.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/pcvmspf.xml.bak",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache/cache_failed_to_delete",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.coppa_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.coppa_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159/pcam.jar",file
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159/pcbc",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.MODEL_STORE.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/airbridge.db",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/airbridge.db-wal",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/airbridge.db-shm",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/airbridge.db-journal",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.facebook.internal.MODEL_STORE.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.batch_processing_info.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/app_tmppccache",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.batch_processing_info.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159/pcopt",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.user_info_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.user_info_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.boot_time.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.boot_time.xml.bak",file
+"/data/misc/profiles/ref/com.vinetree.gametalktalk2/primary.prof",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/supersonicads/",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/supersonicads/temp",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.inmobi_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/files/ia-remote.config",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.inmobi_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/profileInstalled",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/paid_storage_sp.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/paid_storage_sp.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.unified_id_info_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.unified_id_info_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.pub_signals_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.pub_signals_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/unityAdsDatastore/privacy.pb",file
+"/data/data/com.vinetree.gametalktalk2/files/unityAdsDatastore/privacy.pb",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.c_data_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.c_data_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.display_info_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.display_info_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.purchase_store.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.purchase_store.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.session_pref_file.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.session_pref_file.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.web_asset_file_key.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.web_asset_file_key.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/aqs.f906c614369748efae3d1c42280c349b",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E493A02AC00013A8424F08F7F5DA2",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E493A02AC00013A8424F08F7F5DA2/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E493A02AC00013A8424F08F7F5DA2/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E493A02AC00013A8424F08F7F5DA2/aqs.f906c614369748efae3d1c42280c349b",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E493A02AC00013A8424F08F7F5DA2/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-49.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/aqs.bdd8257a55254a9c9285c799d7337673",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E49500027000140C0EE051D7559BF/userlog.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/debuglogs",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/DEBUG_PREF.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/DEBUG_PREF.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.imtelemetrydboverflow.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.imtelemetrydboverflow.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/app_pccache/5/570F2F567A7BD29610D50DF58B388F1BEB118159/pcam.jar!/libdFF894CEE81D1.so",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.1WmkDn",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/BrowserMetrics/BrowserMetrics-693E493C-3A84.pma",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b0326248433fe9c0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/b0326248433fe9c0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/71f811cc829dcfc0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/71f811cc829dcfc0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/71f811cc829dcfc0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/52058abf85baa00a_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/52058abf85baa00a_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/692cd6427c0a6875_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/52058abf85baa00a_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/692cd6427c0a6875_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/692cd6427c0a6875_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/com.google.android.gms.ads.db",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/782f192887c5c1a85563a1b11cdccf7de319ee5f90d5f28a3264118691d1b8d3.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/2a898158a73dcee0_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/2a898158a73dcee0_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/2a898158a73dcee0_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/019e625919e989cf580afa4deee077ad478c82864b4da22ced7d9455d5a3f03e.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/13b4f610da15d92b_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/1926bb8d0c562dfc_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/1147c87e3fa8f3dd_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/1147c87e3fa8f3dd_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/1147c87e3fa8f3dd_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f70a79ae690b291e_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/appmetrica/analytics/db/client.db�����8��p�������������lnp����",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/google_app_measurement_local.db��������w�p�����������",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/com.im.keyValueStore.boot_time.xml.bak�������np��������X4",directory
+"/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache����tp������������/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache/adAssets���tp������������/data/user/0/com.vinetree.gametalktalk2/no_backup/vungle_cache/clever_cache������/ɞ����8���4�����������������p",directory
+"/data/data/com.vinetree.gametalktalk2/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDE4MjUxMDY3MDYzOmFuZHJvaWQ6MmI2ZTI5ZjdkNGU4ZjFjMg.preferences_pb�������@��y������>y�����������������������������������j�x����}��y��������������������������������������������������������������������������������������������������@��y������>y���",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.PzcroR",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.RhM0jL",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-51.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.BAjprv",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.KMpEoM",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/54f433e47fe75393_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/54f433e47fe75393_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/1ee4fd56225c837e_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/f26c21bb56b84013_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/38de10fa10306766_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/157feb7c89377f90_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/9a879e576b0f0f2e_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/de7a669e394cda78_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Code Cache/js/83aaf5780b9b578a_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dda6cee1-5cc2-44ed-b8a5-02579b72fcd7",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dda6cee1-5cc2-44ed-b8a5-02579b72fcd7/index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dda6cee1-5cc2-44ed-b8a5-02579b72fcd7/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dda6cee1-5cc2-44ed-b8a5-02579b72fcd7/index-dir",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/dda6cee1-5cc2-44ed-b8a5-02579b72fcd7/index-dir/temp-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/9466ea105b091512_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-51",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.dkWqE3",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-52.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.eKzvMn",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.rZ8Cbk",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-52",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-53.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-53",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-54.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-54",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-55.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7/userlog",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7/aqs.8f222e0a8fd747f0a3c6e3476c4e8b3b",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7/report",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E47AD02580001641DA31017FE65D7/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4738025500014A9FF9432323C8C5",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4738025500014A9FF9432323C8C5/start-time",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4738025500014A9FF9432323C8C5/internal-keys",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4738025500014A9FF9432323C8C5/aqs.8f222e0a8fd747f0a3c6e3476c4e8b3b",directory
+"/data/user/0/com.vinetree.gametalktalk2/files/.crashlytics.v3/com.vinetree.gametalktalk2/open-sessions/693E4738025500014A9FF9432323C8C5/report",directory
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/ow.zip",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/adjoe.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/adjoe.xml.bak",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/asset-manifest.json",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/index.html",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/manifest.json",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/robots.txt",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static",directory
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js",directory
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/726.7e59b153.chunk.js",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/ef514517-db8c-4b75-8186-c7296a916979.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/93c663af-e22d-43f0-a1d9-0286fe1bed3d.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/c15de33c-2564-4f60-be98-04760df56df7.txt",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/main.8775f0f2.js.LICENSE.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/tapjoyCacheData.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/tapjoyCacheData.xml.bak",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/531.9f2e6f50.chunk.js",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/f42e7087-378e-4f5d-9969-07f3b374c578.txt",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/ads.db",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/main.8775f0f2.js",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/ads.db-wal",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/ads.db-shm",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/-1217522046.png",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/BrowserMetrics/BrowserMetrics-693E473A-4A9F.pma",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/BrowserMetrics/BrowserMetrics-693E47CC-68EF.pma",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/-1295516917.png",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/ads.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/c88c03b5d2eae3d03e45adf45182ff64",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/f561ca1e-6978-4c75-96c0-7ed72b1fd4b2.txt",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/317.20f491bd.chunk.js",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/c88c03b5d2eae3d03e45adf45182ff64.download",directory
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/js/531.9f2e6f50.chunk.js.LICENSE.txt",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media",directory
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/unlock_more_games.4ee52530e2c182dc8acbd49fd5f64702.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/Hellix-Regular.5c0d4e438dadd77f269f.woff2",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/empty_boxes.7e13ee56a91949b5800cce5a775cc7bb.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/vpn.0ad964930203be75e92c88cd7dcf36e9.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/locked_game_1.1f9dd4259e5cab32f46f.png",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/promotion.337e5168187d87657c16de601b9b843b.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/locked_image.58262d74787c25a4e00737aefce7a176.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/rewards_connect_logo_small.d93b03d39676fd438bafe84a2ec1dcbb.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/location_screen.956dc3afa66205180c3c.png",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/Hellix-Bold.b27296501e8d81ab58cf.woff2",file
+"/data/user/0/com.vinetree.gametalktalk2/files/Tapjoy/Cache/d16be64b-f8e4-49a3-bcf8-7b8726da67fe.txt",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/Hellix-SemiBold.2e260b4cd25f85b05308.woff2",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/ua_screen_animation_non_gaming.8748d77d12f327802bc3.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/rewards_connect_reminder.4c7c26facfce7b5101e8640ce410e8de.svg",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/ebf46ba39dd708b883a84bcbfbb5a2f5",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/057661781bbde959787f4777b9000b0b",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/4062617fe0629ec75de788b47cde1eeb",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/adnw-file-cache/41598462fa1c4dab3a75fd3761efa5aa",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/standalone_usage_permission_animation.e1dcf08d4bfaec8aa1f6.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/hour_glass_white_animation.d32f87230a82d2a99283.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/rewards_connect_logo.8925a4c969780f95bafc1149a4e9afff.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/ua_screen_animation.de484b2fa6a129bbaa81.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/promotion_coin.5512cc0a048f4735c0325b8041ac2bab.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/Hellix-Medium.413009314c9536236959.woff2",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/reward_coin_dark_background.0d5896cbd1d334701d65871fcee0791e.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/tos_screen_animation.7d65257a37061bc53d29.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/circular_gift_box.14bb1d4826e5771baafb8c3aef272c71.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/locked_game_2.7f01fb361c25dbc4741d.png",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/no_game.b43f233666645495cdf82f5ffb28fba3.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/reward_coin_light_background.8b648b4318daf64206076a7597b0ba2a.svg",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/tos_screen_animation_non_gaming.ac72d361eaff1ac47abd.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/hour_glass_black_animation.29828ee3f8402d21af73.lottie",file
+"/data/data/com.vinetree.gametalktalk2/files/adjoe/ow/static/media/clicked-campaign-loading.4a800857b56dfd18f9e5.lottie",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/adjoe-protection.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-42.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/079590395f6ac3043f86d9221f630e6b86213b358d79589657193ab578a42f32.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f60a26fb132ce28615b98de5a4f757114d320cd7906095d17aa71b08f92bd271.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/mbridge.msdk.db-journal",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/afd1707ad76c449f9c1ce4de75dac80e",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/afd1707ad76c449f9c1ce4de75dac80e/confirmDialog/confirmDialog.html",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res/.MBridge_VC/",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res/.MBridge_VC/.nomedia",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/img/b2f4e85ddde47810fd4b77eaddd5576b",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/img/01a01b9de06cf8dbcaaa56ada491aab0",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res/.MBridge_VC/0d56467f8b50798329e555efbe9bc893",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/021dd41f039dbf05d519e97355624d9c127f00a17c6d1e35dbf6f238f2536b6a.0.tmp",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/__MACOSX",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1.zip",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/__MACOSX/mbridge_reward_layer_floor_v1",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/__MACOSX/mbridge_reward_layer_floor_v1/._mbridge_reward_layer_floor_302_v1.xml",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/mbridge_reward_layer_floor_904_v1.xml",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/mbridge_reward_layer_floor_302_v1.xml",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/mbridge_popup_layout.xml",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/template_config.json",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/mbridge_reward_layer_floor_v1.xml",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/xml/mbridge_reward_layer_floor_v1/mbridge_reward_layer_floor_802_v1.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-42",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/data.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/libs",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/m_en_project_dDH3lt8ud_p_an_ty.html",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/picDesc.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets/meta",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets/css",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets/meta/globalUrlMap.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets/meta/assetCountMap.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/Assets/css/style.css",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/libs/expand",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/libs/expand/languagesMgr",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/libs/expand/languagesMgr/languagesMgr.js",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6e2ba45a1efd47f9d314147dcc24ea8357050a077254494ee781929b8d18cd42.0.tmp",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/PlaySmartEditorData.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/phaser.min.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/Box2D_v2.3.1_min.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/qc-webgl.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/qc-loading-debug.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/webfontloader.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/lib/qc-core-min.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js/package-loading.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js/mw_config.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js/dynamic-loader.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js/mtg-offline-package.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/14878d09d784dbe25fe2cb47f796645f/m_en_project_dDH3lt8ud_p_an_ty/js/game-scripts.min.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/afd1707ad76c449f9c1ce4de75dac80e/confirmDialog",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/afd1707ad76c449f9c1ce4de75dac80e/confirmDialog/confirmDialog.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/afd1707ad76c449f9c1ce4de75dac80e/confirmDialog/m.bundle.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/mbridge",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/share_kv_date.kvc",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.k58EvE",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/65dac2a80475e187f69f4befd0bbc218e336c17a6126ef1af413873d7e6dcd28.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/lottie_network_cache",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/lottie_network_cache/lottie_cache_httpsimggametalktalkcomroulettestarlottie_btn_star_1json.json",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6f25620f99c91f0d5e2f737ef5e5acf0162432e022ce7221e1c6b65fb9ba4714.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e51c6fe90571714b6fbad5337840d622981caf1e5bc7d527dd74c60e7c8e51e6.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/00303adfcf4dc1f1e97e86e4d2cbc05a42873ba7c8fef3ba339c485785006a9b.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/6a1e0b90b8d6814a_0",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/config/share_kv_date.tmp",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/m_en_lovematch0630_UYcfKB81n_p_an_ty.html",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/8154189917c529b7_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/databases/ttopensdk.db���C�wx���",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/AwOriginVisitLoggerPrefs.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/AwOriginVisitLoggerPrefs.xml.bak",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5.zip",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.mqCTHz",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js",directory
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/dynamic-loader.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/mtg-offline-package.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/img/579a8139e09e06951be165cd533a24bc",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/Movies/mb/res/.MBridge_VC/774b26b15d8f9351ed0cdd1137c97392",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/img/b8cbda2cbc32885294db2b5a9cfc0600",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/mw_config.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/package-loading.js",file
+"/storage/emulated/0/Android/data/com.vinetree.gametalktalk2/files/mb/res/.mbridge700/mb/res/res/a3de4d1c256ce5cc59270dde276be3c5/m_en_lovematch0630_UYcfKB81n_p_an_ty/js/web-audio-check.js",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/16c8e35cd0f1ee61_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/f718d1ef630cebeb_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.JPj85j",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/2a2a78e24dae0f09_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/71504966999487ab_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/92a7aa28bd1544ef_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/c8811521cc85e79a_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/5f8176fb3e483adf_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/6a1e0b90b8d6814a_1",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/6a1e0b90b8d6814a_s",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.22GteZ",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-43.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.Cb65bb",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.6DccJN",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-43",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/82fce8ef33b905385ad9b5c350d645b90e5d0e205b03c4f051e91dd50e1e6254.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/82fce8ef33b905385ad9b5c350d645b90e5d0e205b03c4f051e91dd50e1e6254.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/584eb14030946286f13008c68a054f1338e8977e1f0c15dfb8365cf748732d44.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/584eb14030946286f13008c68a054f1338e8977e1f0c15dfb8365cf748732d44.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bd1bc40b96c5900320dd3e695e0b6c8b13ad9f3a1c82d6fc5a06da8a2f98a420.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bd1bc40b96c5900320dd3e695e0b6c8b13ad9f3a1c82d6fc5a06da8a2f98a420.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/0eac5a27-d9fa-49c6-bbe8-a456038dd6d8",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/0eac5a27-d9fa-49c6-bbe8-a456038dd6d8/index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/0eac5a27-d9fa-49c6-bbe8-a456038dd6d8/index-dir/the-real-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/0eac5a27-d9fa-49c6-bbe8-a456038dd6d8/index-dir",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/0eac5a27-d9fa-49c6-bbe8-a456038dd6d8/index-dir/temp-index",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/96c70fc8659c98887bd104b172479354a80156b631ec339371fcbda6a3f17a51.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/96c70fc8659c98887bd104b172479354a80156b631ec339371fcbda6a3f17a51.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/WebView/Default/HTTP Cache/Cache_Data/a953d26755431dca_0",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.lPzKuo",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-44.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.Cpur9K",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_webview/.com.google.Chrome.1Iqg1C",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-44",directory
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/sp_reward_video_cache_982042622.xml",file
+"/data/user/0/com.vinetree.gametalktalk2/shared_prefs/sp_reward_video_cache_982042622.xml.bak",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/video_reward_full/eef53e856bcf367533fe6dbe001a8ce3.temp",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/journal.bkp",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/journal.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/dca4886fbba96dca65de462eeda6a3d7.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/4b755dbacab3bf994e824a98df25a5e2.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/cache/tt_ad/image/1438d07f8b31f47dd657a690dd4c4c00.0.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/databases/pag_monitor.db-journal",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-45.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-45",directory
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-46.tmp",file
+"/data/user/0/com.vinetree.gametalktalk2/app_amplitude/com.vinetree.gametalktalk2/$default_instance/analytics/events/$default_instance-46",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a728dbd80219a0a4095baa334c0baaedd0bb62793dd01e23f7dc37566bf6b5f2.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f92d3b8db25c1da4cbc317ebea23b003b9dd05c22657dd3b7226f7330a4988bc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a31572a7d874166a10a7c868c54062ded95f93cc3dfe0c2298daca55524f156f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/75d1b06731db928d9daceda5b4e2f35a5c6e78e8d34fabcc7b14a676ea8257ab.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/72743fbfcbedaa79e26e361220b11b8b7e5c3a9f410a40ba53b380e7475d24ca.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6d0cbb2bfd6a876967c8bc0188cd76fe9d43cdb298e5262cf905126445308450.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4817f7b0e464c7441f506d852022a7b3f041ab448985d28b958e9cb5ef7ea8e9.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2b21b3f7dff41f07ffb60138e362a8d59a941b4d7c0db14a00cbd72ec4f719ba.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2c8ae7cc2c3c54d6c9d1fb8527c7901f111280c38aadbd96663e7c4b65037278.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/1982b0828e15314ad6fa400ee94dfb581f12f96f3a583beaef5640e3ffd9b8ec.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4d0a78198c6a930698b7c671ac0ee69c8cb6a5f6986dbc942a64fd5bcef7f32d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f2ce4a7d43ba9ff60991db1be5d1aeee03d317a6d97a22387050f4e1a60f9339.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/93a827525f17dc4d8c831d4db7ca0270a3d4d7686d1b864c57c1b3e3638e34b2.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4034f7be5cecf1e2ccfd01a216f8a60615d83d7746b5b119b65a2e7c7327f5db.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3b68cc60f44d0bc3763147f57a58961a0b2a4e8cb5bd4c27f1efa6d2275d6068.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/1cba196350710430f22e4c496590195aad57edf27c8ab8a3e89361975f7d0930.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bc23e3f05886c28ee29bc2b9502e7386eab44a169a75aa6fdabca14f54d9965a.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3196d4066688796d5ef0d2216568dacc9528e672baa8618dd5a9dcf4506c48a5.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/80d262e4c8b8160a6075e5d46a0c55e2ccd40b4646c98fea51a00bef3494f9da.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4b0f6c54dd0887f2963d5d3980ec05d962cb248d49c30e7894d18c9d3d3b3ca6.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4b10ccbd0a176a84f39acef7e59645c84d24b4bd3bec85196c4609d4a48fb0a0.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/29c5a62f20ee949336d7757039040d6e8788ec97ce209a7e3e5aa37217756673.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/33b21addbd74040b77919483c7cb02ef8cabfd0ed7071744ec7adb8d0b44ba47.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9ec856fcc654e388a39fe5584756c8d225ee002c531b559546692eff6456fd3e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/855edc7b2ca5a6092e5b67eec15b2481a172a60603bca6a35e0589c9a9a03a25.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/0290210ece68470de2c0f18d3b1c8056a4a1e7a7782ce3d47b15fc4f4c8df0e5.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/87a73c33f5f5a4efd7b43fbd56ce352ed3c613f28cdc6c7574f791774efc592e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/1dfb59bfc8bef9bcf617c5448e0391e82a9a0fb38943a8b7bd418e7a709096ca.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f0713ca9b652972d8cde8defddffdc2ee0eea96a5bf1a6695443013ef20d4c02.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4f6122b4a138290c1e90841a212df0a13fd7926fea9929983aed753af11dfd89.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c5396a686f3be3649b90d3a1762bc64ddcf77874213f12a39d9dd3d94819838f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4bcfca6c65b3f2852b1806e742da2dd43a853abc5f0a4e6aee63b3c6705c9239.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ac67da7f7a595657bcb81ce9715c56524342ce131565e4ccf8bb91cf59359c9d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/b24dd7a6198956ef47b9f0fbd00b7bcf0b3c9f5833ff396f8735ff7a15839ee9.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a092565668507c49ec018804abe0cc7bf11ba58c555a5fb97cd2e733f349e4ca.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c6048ca0eb2c12e28c5174aeda72ab3c4cd1cf0473a91b2a32db5b4a9710a226.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f9278d2e767ca6c11cff3ad1f64fde19cedf739f4996ce3f5292e1131e012033.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/0ea5558837db90540b5bb3acf6d71a0e3c287556163634db6f0088daf8d1a8af.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6932b96b48d374a7c5b16fe3e8edd7c519391afe4b7c979313ed3de078b53b20.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/15bc31e9c2b2b2c294f29b6c21a112f13a015c3535c7f519d88a347cedfcb33e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e286001f3ed6ba5e851c6f9c6eaa2948305a225961b4733df1ac8a736bc8d727.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/5be4d7496f678bc32c2103cee79988b395dad67dc73d9d2a9a814e05f8624118.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/db326af5d1df6e9084e9739d50b5a6a45cf3e649d014a29dadc5e9768fd5f514.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/4ae7cd9ec494d9463825af19e89c4b34f7fb0b2773835cec675b2fba71f7ea0e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/45ec4514b9a06954d6d6c83abbebc095f5d3060b95809e93d615fa9c3f4c22f3.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c9179d700074501f463c58bf969e8a0e1c9548fda2cb363cb39dc52e181afc5e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/25c47e29f3c1eaffbe7c33dbefc87029a555f902f80462d7aaf7898e35063c16.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/aaf09670e4d3e08c4de68ce488eb8dbbdf1025749d965ca848b9c6975cb89e83.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c93e1ebe1ea7ae9db443e6a578885853d29a057aebbd40475a193d2baa0c80e4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/5c68706be5579f83ae76601b4c9fca15df3183d62b78c1ba4b762fa954ca7556.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ea63483d7d25e4865b8f2dc87a9c0c18610910275d8ea51bd93d1e9f7f9c4ff8.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/539366b204331d6074c0818c6bfb4f6dc15606d870f20345ded0ddbc40b62415.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/0414cdb05139843b1a5cec54cb35369df26af15bc77a0347020fd0ff06a412ef.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/5ae200587212db49f7675ddec519a12b3566f13e3a4a679871ac7a6b03907614.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a57287b6dc48c6ba2f90f90b285878332cf48ae51ae0090464cce23194e6534e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f0921012f2c0f572ba0d584649f3139e2b72d72d1ef9a6d9c3220d0f1c1110fc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9e501b311ef944dec408b3c57b387e519fab68f1473edb258ba5688e7a9cee64.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/51b3c8693c457f89c20cf1a15e89e3994259e1d4c4acd6d1a7e1f13ee1bace85.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/8c29bfe6df5a9e7e7c6fa7d13b016634fe70ad8f6800d793bf87683ccb36ee96.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/515da72a3544b3a5aabf3445fbff135882648408796261bc7fe02ef0e9a7881b.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3034eeccdd844fe54a73467a8863c3056de487dbdf8ad3b31a66e3a694f635ab.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/62fd8f59b69748d8c47f4e09aeb647bfa599031222d9484a6053199a28d8bbc8.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bebd0b6509fc8120de0e613b3b1a5ae20a7bf1dad887af1d7ca8eeb56545c434.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d5949a3c601c8b8865bbfd724de6b02650e068233e9493160239224be3a07020.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6f46c5aae7bd0124fdcb5d624541a7a85f9fa51d82c0262d14b5efc19b7fc2bf.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/262131c2e4f171d5a6a775600cfb2e0ce5413aa1ac15f88b68e6551eab626e7c.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d6c07b3fde6b6f3154a293f1bfd1c8c39cb19ac2c2cb59697d352d3b79849028.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a4077c87b1c57b88a6d5059e2a12e66c1ca76e2e827d6213f4cb4f29cdcdb848.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/5f9a58489bc07301e55a5e1250e89c5c3cd1857331f317136cf117770c2e006b.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3e33826af11783243d96a6f2a769680c649c568a3896853dfba4cb0e6b944a69.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/cd6cc26be598a7f1487ce8f5fef272c36873ec88742d6f2e33bb42226bea820e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/99f4444f229352a566a97109cd575deca80b99484b6675a39bb3af0f2488a852.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ea93196d22a216a68e18885bebc47c625e33d30f869c0251d17bcee2c85dbb95.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/8ecdef684a9e15493c27b110436188ef1f2140931cc572b20b2e981d28704848.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bd8a420b829d4ac929e70b96c7f0b202e40e0e0c39b8abe68e3b55df1991c61c.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/abe9a9bd6aef2ff6f2c732a201de199f355fc1dc9f7017f57c6d18d350f926a3.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d76816dc49d1fe86cb3401b7300b0646ff754eaabdccbffd0fe8bc6e171c244d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/86578aa08e7b1dafe0e14ee6cf8cfd4c247b736e17307181df65ff201de8cb02.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/886b6540dbfcbcceb3fa3b406b96ecb3ceb14f16ac8c4b88bb81a19403b8b838.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/586f7fad8739ef386c31e34445d4f7fde3f5511d6340604551191e9e03961e43.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/35ee71628898773e4fdef49f7146fe95d3620f6eb3d6fa345873271bc7e57944.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/503ffbf83a6473ef56552ab4b428e94c5877222449d481ace61b92315aca135f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a26458ae06835ff479fabf9f7b1c9f99d9eef02e93e02ce05dc3c2b2578885da.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d03d0485f4724b9eb094844e952792b68e12a86bace6084efb1d9d1708a00749.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9ca190db25504dac816a10438165e728736f30214a226b08e92bd2f3fdcc3c88.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/585cb1136cf12bd8b76a814161bd6a8a8b706f0c6449731842c12d5859a3611a.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d6cbae2ecea9b348750c6cef6f5720f0efeda45ac76b90d71a46b22686bfb7c0.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/b9f1994fa418e8ed67f29b716c69b4562aa296d025e53854fc33b1c9190c3933.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e51f45e8505f02228a6b784275a0620eabf6487a78a39bc0dd23cecf937e3f06.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/0f646ce2940c804e6d543e3e13878c6c06186a99866c4d005792bbf8a3cf8435.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/729109feaceb74ff7c4a7b751980c50806475eef5ef1d02b964e01d796496888.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e0580ee32392150bd5bc1e282a1b1d5a1e00d194c0bc486d930a6d95f6201473.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/8fb72ae0825ec3e7f0b3714db4c7c66be1fc1e3f2b450bca265e9c016627a992.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9b482c38591fbdd3e127ba82ad20a2df6b8a5e476d117d85bd66c91a45f5cfc5.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/5624db492aa765afa986abf7684f12ba9c43adf2d1e4bbe1c3300e0f8cc86efa.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c51afc83ac749f0f7b21e3305d3e00a261ddba6140e1141e59ed7622f6c8e5f5.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/918ce66ba5e923a2798991b6862756f88200fe2cc6e692f8fd9b94d147d237a9.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/fb9daa59357351f54f29a99a94ded54b9fb98427d5f65b99fa617fedc1ed3c25.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/232e986d479d2b512ce98d60eb9fd078d2b33464c9d7c731eb8d2a67854e842e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/1cb6714d9fc027690bc334391c2b7f9f1c071dabdf01412b1187196d325fcec8.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e57877f1ff8d8660b6280e15d53df1e2c48acfb79ca7b59c0af4a35e123e3e51.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/bdd03c98c565d06cf36627ef976a5710e89216b1230b483e47d6e99a96331383.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/52d872c348b00d006938463672de81df665ff112409c0f8d660fde7ed635ed91.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3b1ff219cd8af0db4044d5f4e73d7d8094d65550dbdc85dc40a66b180c48538b.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/88460ec0307873d36e76c54785f3cf479fca91241a53389b1110cf569ed02792.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2c6c08e8fc2ea3a6a35ae47ba6c09197da3ec2f6166c0df2a98a8e4bca52317d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/52eaad8081626e810a13d6faf31f84406a0367fec339e86ea42f3262de650f17.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6bb0d19b59235e9cc33f03a219ba1461fe5ce2c04cf6bd948c2406ddac0514e4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/44a5e934b8d03e4d3874abb929d42e929ce1311aa3cbeee82891ae9ba15995ad.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/34869f74293926574f9b11ba939eb29b5f1ed7ada97bc6977b0542aa790e0608.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/aeaaf2d3854cb757d84de2ddc2deeea6c24e7f95aef7e16e5418d7b5066910f1.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/7993ebfd219e94cd76b8afcbb95e5fc09c8d1e946f9aef86fa03bd8de0793964.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2e7961c1e5700a8bb3b82020bf7fa50dac3d86570ec3018db88ae8da5be9c75d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/693aa83785225ab4c4223819abb8051bbcf4c2654b5bbec8b848f2863ac4f2eb.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/889307e47cc09a94d48b5c7f54f47e2a403fac4a59667883d844659b7717ece3.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/b7a47ae28900e9cb681d9bd3781a4b4206fa0d4bd0c989d4c105c644d52f3c85.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/0485ca3ec90ed1c0d27b1c95e91cc32181829b8e878ca9ef0448f1380d8a340a.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9cd3fa8629737d74114fce0e3680ac9e256f268e4fc4f36f1f5f1c6ceec9d0d9.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/432e2d0122b40ae1548c18e361c8057bf121bd82bf6e49ec005d514500f345f7.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2bb53ac1c5ed016038d27b981bca448cc84fd5b8d4995390920aa51601ed83c4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/6083cc49e231e1fdb347dfd56720164227973977b115811006350235f2d2f5b1.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/353ffc35a3fe5abf448ed848c8bdfb2e4d8d6fd3a16efe6432a9e7c90486e410.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/7f115aae627364809c046a6795dfdbfccc6849ecf43a727ec867d169c8dad53c.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a6d4083d1254a2f994fa5c482b16fd807a76578be9029af9387d675eed77476f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3f07f1dfcbece3902e05f3c3eee420cc11a03dfa67b74c0e1699e33f1f8919bc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/db69f63c7401c9278b7994ba7bc5078f5b48f93c2494a4182b73f82b05010cc4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/cfe6550c0000880ef9037601dd1113fbfd65c33f29052f9e19c4c395b6b150a0.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a5f8022d118436c3e9eba4facf23821dc4263d4e9b7f823cf8c0f27f12cbaf31.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/09f163b8797aee55a7e27043db480ba377c5d37d75d98944b3c17deb6e0d9d8f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9a99638e41526b34221197b1aaef0f8fee1e5cc0cbc3a96ebc45b44d0ab64b63.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/fccfcf7fe8da2f11dc436bf7f97f8c3f5052dec8c0114636c1fd9e8bb0c46bbd.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d5f1b10b5424ecc2c926398c97b8517251d273ab10c9a39d142112eabd202a4a.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f15bb05bf4b8d07d872639f0060165ca3b22bbe6a970a66deb466e749b04ea37.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f6758ad125cf4b6851d99b911ec0d1aeb17283628b0480fa0fb5f1a5a952af2f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/d3d5255b1b39d63ed7b133459af5265b66604c85451978678f567d1b6d64a875.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/eab448bc8b9d5eb603699333b47b36c0f8afca5e4b0ff01df18fc201eb3d1b08.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/48d36e50a7ee88a0594d2d35bbf1cdc3499fc9b73f12486d9fcfd5a9c39666ec.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/f65f5870cae3d1e601e69980629cdcee2aeebaabdd36c406ec8e6be55cbf317b.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/8af4b1c1ac69dd5634b3f7d9396ab6cfc90fc2d25d5dcd60ea4d6b734cc80f5e.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/35ea91ee6e231ebc7c75c273f5b9b9f16552f692b53e6f42244802f11db31bdc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c0d624bcb000324cf47440f22f6dad3a53209f4b56b9a30c68c8007c8c122173.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/3769cb14eee72529e01b8f0826e0d58a9a61276c3ef378a68d15d1b9286cbcd8.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ad15a66c2bb698761ecf2ab2967aaa7a459a1019fc02fe1bd77c617426995a88.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/7379a3c866e65bbe83e44c9db1c7df0241de8b6204b7a2f1afe22317e885ce16.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/edd8e744f9473d6cc5c0d5fa3fcaecb62d5dbcfc6b53d4473a7581003b176dba.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ed08b35355bb2c7239d06c51471abca70804ce6a7ad85c1dd0bf60d8c512dc0f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/8e33eadf6a0a82cb12be724bf5a1b21d4e79960d575a0d1b0ba37e135f27d43f.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/eaac56673f5182d9b59d45d5243ea115b3f47061642ef7fe4d4ded1f508530c0.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/ccc2b72937bb53e386c7da5f4eedd0a215ca301b9efbd496568acd3dfc72ebdb.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2fbcce24210de785e26cbaa45286b8b0cd6c39f7ab8ea2f2d71e790c85513d31.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/86fc07649cef8e4202d3a105b8d0729b2d86c9cf40cce4786983e1241a1ad1ab.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/9ef5bcc07e30e8a8feceede08ad7b4b201144a9531920782d724bb9a9d314ad0.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/2f7d7c59682d1394d318860d89619a24ae0d8d5ac94781431bc260e52c330b3d.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/a996c32104dd8d7702e13dc98559bed524355bc211baa74763a556fe64a49efc.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/e4b4a0179c24ddcfaa8651f4326ed47aa0b4c1377d3b9863739970923c7b57c9.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/b399e32f1a87bc1741fddce1591a2a994d5117d2e3d01f28c1886c4bd4524fe4.0",directory
+"/data/user/0/com.vinetree.gametalktalk2/cache/image_manager_disk_cache/c8e132f2fa62e1f342d067f24597ed2ac3329e7a7df61f00b19849179fd9dbe5.0",directory

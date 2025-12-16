@@ -1,0 +1,539 @@
+path,type
+"/data/user/0/com.widgetable.theme.android",directory
+"/data/user_de/0/com.widgetable.theme.android",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/lib/arm64",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/base.apk",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.xxhdpi.apk",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/oat/arm64/base.odex",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/oat/arm64/base.vdex",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/oat/arm64/base.art",file
+"/data/misc/profiles/cur/0/com.widgetable.theme.android",directory
+"/data/misc/profiles/cur/0/com.widgetable.theme.android/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/com.widgetable.theme.android/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/com.widgetable.theme.android/primary.prof",file
+"/data/user/0/com.widgetable.theme.android/cache",directory
+"/data/user_de/0/com.widgetable.theme.android/code_cache",directory
+"/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.widgetable.theme.android/files",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libmmkv.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics-common.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libapminsighta.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libpglarmor.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/db/component_20799a27-fa80-4b36-b2db-0f8141f24180.db-journal",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/db/service_main.db-journal",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/db/component_main.db-journal",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/db",directory
+"/data/user/0/com.widgetable.theme.android/databases/ykit_app_stat-journal",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/lib/arm64/libunity.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/lib/arm64/libflutter.so",file
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/lib/arm64/libreactnativejni.so",file
+"/data/user/0/com.widgetable.theme.android/files/encrypt_statistics_file",file
+"/data/user/0/com.widgetable.theme.android/files/encrypt_statistics_file.bak",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.bulGEw",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/pref_store",file
+"/data/user/0/com.widgetable.theme.android/files/ykit/remote_config.json",file
+"/data/user/0/com.widgetable.theme.android/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.widgetable.theme.android/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f1a174d4a9369ade_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f1a174d4a9369ade_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f1a174d4a9369ade_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/22e3cd33a9a004c0_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/22e3cd33a9a004c0_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/22e3cd33a9a004c0_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/91e7b2d06d8bddef_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dabc12befbf75d65_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b75f4ec13155e82b_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b75f4ec13155e82b_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b75f4ec13155e82b_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/34e5ded9413abdf6_0",directory
+"/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/20438/a3f98ddafe124763G�������p������������X�q�����",directory
+"/data/user/0/com.widgetable.theme.android/files/102028884/database/plant.db�����0C�p����h",directory
+"/data/user/0/com.widgetable.theme.android/files/sp_global_file.bak�������5�p�����ݺ�ݺ�0�p��������������t��t�����������p����������������t������",directory
+"/data/data/com.widgetable.theme.android�������������������������/system/lib64/vndk-sp-29/libhardware.so�������������������������/system/lib64/vndk-sp-29/libprocessgroup.so���������������������/system/lib64/vndk-sp-29/libutils.so������������������������������y�p���",directory
+"/data/data/com.widgetable.theme.android���������������������������Ϊp������������������������������������������������������������Ϊp������������������������������������������������������������Ϊp����������������������������������������������������������@�Ϊp������������������������������������������������������������Ϊp�����",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libpglarmor.so���������rt�p���������������������������������������������������������������������������������������������������������������������������t�p���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",directory
+"/data/user/0/com.widgetable.theme.android/databases/pag_monitor.db-journal",file
+"/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad",directory
+"/data/user/0/com.widgetable.theme.android/databases/track_manager_metrics_sdk.db-journal",file
+"/data/data/com.widgetable.theme.android/app_webview/Default/Cookies-journal",file
+"/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/20438/a3f98ddafe124763G",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index",directory
+"/data/user/0/com.widgetable.theme.android/databases/track_manager_monitor.db-journal",file
+"/data/user/0/com.widgetable.theme.android/databases/imkit_102028884.db-journal",file
+"/data/data/com.widgetable.theme.android/app_webview/Default",directory
+"/data/data/com.widgetable.theme.android/app_webview/Default/WebStorage",directory
+"/data/user/0/com.widgetable.theme.android/databases",directory
+"/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/video/files",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/2ceeab9b4b1ff2a0_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/55b609a53d3fd2c0_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c4cc9870aaa822a3_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/dfe52ab33e1f580d7348c22f77aa0a2ce655bc2c43d8fbc6a44aa0e63cda3d85.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/dfe52ab33e1f580d7348c22f77aa0a2ce655bc2c43d8fbc6a44aa0e63cda3d85.1",file
+"/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/video/vpaid",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/21c87b927cfcf76f3f36c8014145774d38a81c4d7dad84d5830810b907ac0e78.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/21c87b927cfcf76f3f36c8014145774d38a81c4d7dad84d5830810b907ac0e78.1",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.C3vD8a",directory
+"/data/user/0/com.widgetable.theme.android/app_yqzdkcache/rbp/oat/1764815802421.jar.cur.prof",file
+"/data/user/0/com.widgetable.theme.android/files/oat/classes.dex.cur.prof",file
+"/data/user/0/com.widgetable.theme.android/files/oat/classes2.dex.cur.prof",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache",directory
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471719_key_cache_sleep_record__2025-12-10_2025-12-16.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471655_key_cache_timeline_102766550_Sleep_2025-12-10-2025-12-16.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471654_key_cache_sleep_record_102766550_2025-12-10_2025-12-16.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471720_key_cache_timeline__Sleep_2025-12-10-2025-12-16.json",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/8",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear/back.png",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/9",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_c4cc9870aaa822a3_0_1",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bunny/Happy/Happy_cf1.png",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_s",directory
+"/data/user/0/com.widgetable.theme.android/databases/net.db",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/database/net.db-journal",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/database",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/93e16cc1773b5369_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_93e16cc1773b5369_0_1",directory
+"/data/user/0/com.widgetable.theme.android/databases/ttopensdk.db-journal",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.7DGtuw",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1e118a01773b3779_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1e118a01773b3779_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/7460684b46eb3426_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/7460684b46eb3426_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1e118a01773b3779_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/cbd1ab589ff04194_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/cbd1ab589ff04194_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/7460684b46eb3426_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/cbd1ab589ff04194_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/00cba06ed1007d53_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/00cba06ed1007d53_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/00cba06ed1007d53_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/cf7c7a7ec8eb435d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/cf7c7a7ec8eb435d_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/cf7c7a7ec8eb435d_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/3456341de185240e_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/3456341de185240e_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/3456341de185240e_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/85e80e219b4bccce_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/85e80e219b4bccce_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/85e80e219b4bccce_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/082c13ff52427b74_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/082c13ff52427b74_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/082c13ff52427b74_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/be2b45774be4f090_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/be2b45774be4f090_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/be2b45774be4f090_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1f8ef2915d7efbf6_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1f8ef2915d7efbf6_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/1f8ef2915d7efbf6_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d67ecfed5c4dc3f8_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d67ecfed5c4dc3f8_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d67ecfed5c4dc3f8_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/961f6083648b3e9b_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/961f6083648b3e9b_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/961f6083648b3e9b_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/213f9f53f9955336_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/213f9f53f9955336_1",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/7",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/213f9f53f9955336_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/27be4e4d40ae7bbd_0",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/6",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/40f6cfeb9f8eecde_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_40f6cfeb9f8eecde_0_1",directory
+"/data/user/0/com.widgetable.theme.android/shared_prefs/com.lyft.kronos.shared_preferences.xml",file
+"/data/user/0/com.widgetable.theme.android/shared_prefs/com.lyft.kronos.shared_preferences.xml.bak",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765954001_key_cache_timeline_status.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765897200_key_cache_timeline___null.json",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/8a04489a7d8986ce_0",directory
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_app_settings.pb.tmp",file
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_app_settings.pb",file
+"/data/user/0/com.widgetable.theme.android/files/mmkv/notification_ids_storage",file
+"/data/user/0/com.widgetable.theme.android/files/mmkv/notification_ids_storage.crc",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.TsuQth",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000010.log",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000011.ldb",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000007.log",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0ea083101208a6d215f806a10cebc6547cf168095b31e3ffdc1ce5195b40d79c.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0ea083101208a6d215f806a10cebc6547cf168095b31e3ffdc1ce5195b40d79c.1",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/b58f99b9971c89ca44a23f7e4c32c4409694d33ed925dc768b80ed6623d3c919.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/b58f99b9971c89ca44a23f7e4c32c4409694d33ed925dc768b80ed6623d3c919.1",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/appmetrica_vital_20799a27-fa80-4b36-b2db-0f8141f24180.dat",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/appmetrica_vital_629a824d-c717-4ba5-bc0f-3f3968554d01.dat",file
+"/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/appmetrica_vital_main.dat",file
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_sdk_core.pb.tmp",file
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_sdk_core.pb",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_s",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/LOG",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/MANIFEST-000001",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/000001.dbtmp",directory
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/0_key_cache_friend_manager_config.json",file
+"/data/user/0/com.widgetable.theme.android/databases/widgetable.db",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/database/widgetable.db-journal",file
+"/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.renderscript.cache",directory
+"/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.renderscript.cache/IntrinsicsBLUR-adreno.meta",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Sofa_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Sofa_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Carpet_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Carpet_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Fireplace_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Fireplace_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_PhotoFrame_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_PhotoFrame_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Cabinet_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Cabinet_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Door_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Door_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_DoorMat_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_DoorMat_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Plant_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Plant_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Closet_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Closet_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Wall_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Wall_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Floor_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Floor_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Sofa_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Carpet_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.QzHE1s",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Fireplace_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Door_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_DoorMat_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Wall_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Floor_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/pet_space",directory
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1",directory
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1/102028884-102766550",directory
+"/data/user/0/com.widgetable.theme.android/cache/pet_furniture",directory
+"/data/user/0/com.widgetable.theme.android/cache/pet_furniture/wdgt_living_room_small.jpg.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1/102028884-102766550/wdgt_living_room_small.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Fridge_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Stove_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Cupboard_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Wall_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Wall_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Floor_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Cupboard_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Fridge_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Stove_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Floor_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Fridge_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Stove_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Cupboard_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Cupboard_Default/scene_1.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Wall_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Floor_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/cache/pet_furniture/wdgt_dining_room_small.jpg.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1/102028884-102766550/wdgt_dining_room_small.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Floor_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Washer_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Floor_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_TowelRack_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Sink_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Washer_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Wall_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Sink_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Wall_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_TowelRack_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Plant_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Plant_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_TowelRack_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Sink_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Washer_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Plant_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Wall_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Floor_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/cache/pet_furniture/wdgt_bath_room_small.jpg.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1/102028884-102766550/wdgt_bath_room_small.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Clock_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Floor_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Wall_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Table_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_WallArt_Default",directory
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Wall_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Clock_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_WallArt_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Floor_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Table_Default/config.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Table_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_WallArt_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Clock_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Wall_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Floor_Default/scene.png",file
+"/data/user/0/com.widgetable.theme.android/cache/pet_furniture/wdgt_bed_room_small.jpg.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/pet_space/1/102028884-102766550/wdgt_bed_room_small.jpg",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/0_pet_space_image_102028884-102766550_1.json",file
+"/data/user/0/com.widgetable.theme.android/databases/traceback.kv.db.analytics-journal",file
+"/data/user/0/com.widgetable.theme.android/files/imkit",directory
+"/data/user/0/com.widgetable.theme.android/files/imkit/102028884",directory
+"/data/user/0/com.widgetable.theme.android/files/imkit/102028884/764099647919656965",directory
+"/data/user/0/com.widgetable.theme.android/files/imkit/102028884/764099647919656965/649499953533575970_595225871032264758",file
+"/data/user/0/com.widgetable.theme.android/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_flags.pb.tmp",file
+"/data/user/0/com.widgetable.theme.android/files/datastore/google_mobile_ads_flags.pb",file
+"/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db",file
+"/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.widgetable.theme.android/files/generatefid.lock",file
+"/data/user/0/com.widgetable.theme.android/files/PersistedInstallation.W0RFRkFVTFRd+MTo0NDc1NjUxNTQ3MTI6YW5kcm9pZDplMzc2YTMyNzAzY2Y2MjBmYmY0M2Vk.json",file
+"/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db",file
+"/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db-wal",directory
+"/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db-shm",directory
+"/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db-journal",file
+"/data/user/0/com.widgetable.theme.android/no_backup/androidx.work.workdb",file
+"/data/user/0/com.widgetable.theme.android/files/home_new.json",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear/HandSome/HandSome_cf1.png",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear/Sleepy/Sleepy_cf1.png",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache",directory
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/journal.tmp",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/journal",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/aa469af8e2739acf9cab661f0a807b89bd03edd7ec0005046f417758955fe9b1.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/9b4ecc1c0ea0576aa57342fb33b39849cea9680b2b6ffb250db98a8ce992ae4e.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/9b4ecc1c0ea0576aa57342fb33b39849cea9680b2b6ffb250db98a8ce992ae4e.1",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/5116b7bd59843a81232e29aff7ae6c5564ee3c3877139ea37a19069ad08a457d.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/aa469af8e2739acf9cab661f0a807b89bd03edd7ec0005046f417758955fe9b1.1",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/1d4fcfee424ed1062779a439f30072ae806cc87d4a8623281fcc72060e9c2634.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/5116b7bd59843a81232e29aff7ae6c5564ee3c3877139ea37a19069ad08a457d.1",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/1d4fcfee424ed1062779a439f30072ae806cc87d4a8623281fcc72060e9c2634.1",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/c3346b086af3d9e38dfe9eb6a2973f403ab55cebf0a0c4e34edbe64e0d8a559c.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/c3346b086af3d9e38dfe9eb6a2973f403ab55cebf0a0c4e34edbe64e0d8a559c.1",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471719_key_cache_sleep_record__2025-12-10_2025-12-16.jsonon16.jsonon'",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/7ba093d8b0fb37921f711ccc697cb3c450e0c03c5bb8cbc72a0555eb66956807.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/7ba093d8b0fb37921f711ccc697cb3c450e0c03c5bb8cbc72a0555eb66956807.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/7ba093d8b0fb37921f711ccc697cb3c450e0c03c5bb8cbc72a0555eb66956807.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/7ba093d8b0fb37921f711ccc697cb3c450e0c03c5bb8cbc72a0555eb66956807.0�������)�p��������$2",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6f309f0d1baf17f7cc2a6b9169fb430a79088b702c5620259e67191a9b4c105d.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6f309f0d1baf17f7cc2a6b9169fb430a79088b702c5620259e67191a9b4c105d.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6f309f0d1baf17f7cc2a6b9169fb430a79088b702c5620259e67191a9b4c105d.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6f309f0d1baf17f7cc2a6b9169fb430a79088b702c5620259e67191a9b4c105d.0�������)�p��������y�c1c999671a34908efdbd6543ec566b7148f1a4bad3afbe8a51adbafdbbb346d00'�p����p���������",directory
+"/data/data/com.widgetable.theme.android�������������������������/system/lib64/vndk-sp-29/android.hardware.renderscript@1.0.so���/vendor/lib64/libllvm-qcom.so�����������������������������������/system/lib64/vndk-sp-29/libutilscallstack.so�������������������/system/lib64/librs_jni.so����������������������������������������Ϊp�����",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000012.log",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000013.ldb",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.UzauvV",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/404f494dea1f7024_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c2fd19df484584ab_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_c2fd19df484584ab_0_1",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.WVgvxk",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.PChaeI",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/d4fc92e7c57a603d85eeb13981fb0c83812848e7aacb1cd8711f530271fe4e89.0�������)�p������������0fb9194663c8775647f352d56712960f6e5da579f3a507e5dd8f91e1606c5884��A���������(�@���������������8{�p�������������������M��������p�������������������p�������X���������",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0fb9194663c8775647f352d56712960f6e5da579f3a507e5dd8f91e1606c5884.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0fb9194663c8775647f352d56712960f6e5da579f3a507e5dd8f91e1606c5884.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0fb9194663c8775647f352d56712960f6e5da579f3a507e5dd8f91e1606c5884.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/0fb9194663c8775647f352d56712960f6e5da579f3a507e5dd8f91e1606c5884.0������8{�p������������������b���������p�������@�����������p�����������������",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/eda1c1d76f8832493e4d83ae8b5089753e583a149394855f2d6ded5c4f550636.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/eda1c1d76f8832493e4d83ae8b5089753e583a149394855f2d6ded5c4f550636.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/eda1c1d76f8832493e4d83ae8b5089753e583a149394855f2d6ded5c4f550636.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/eda1c1d76f8832493e4d83ae8b5089753e583a149394855f2d6ded5c4f550636.0������8{�p�����������������������������p��������",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/73ecfd48bbc78edec2b5a6874ae1c6d515b66253ee12926c903495e0b5da0620.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/73ecfd48bbc78edec2b5a6874ae1c6d515b66253ee12926c903495e0b5da0620.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/73ecfd48bbc78edec2b5a6874ae1c6d515b66253ee12926c903495e0b5da0620.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/73ecfd48bbc78edec2b5a6874ae1c6d515b66253ee12926c903495e0b5da0620.0������8{�p������������������",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.1.tmp���:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.0.tmp���",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.1�������:",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.0������8{�p������������������ښ���������p�������`�����������p�����������������",directory
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/a732b330194ca7fe2488da0309247d2d5adc08884e2b3f24570fd0b7950d2662.1.tmp���:",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libpglarmor.so���������tt�p���������������������������������������������������������������������������������������������������������������������������t�p���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",directory
+"/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/20438/8bf591180a11630cG",file
+"/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/8bf591180a11630cG/",directory
+"/data/user/0/com.widgetable.theme.android/files/apminsight/CrashCommonLog/8bf591180a11630cG/",directory
+"/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/8bf591180a11630cG/funnel.txt",file
+"/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/8bf591180a11630cG/header.bin",file
+"/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/8bf591180a11630cG//tombstone.txt",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.n7D0O7",directory
+"/data/user/0/com.widgetable.theme.android/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.widgetable.theme.android/files/phenotype/shared/com.google.android.gms.clearcut_client#com.widgetable.theme.android.pb",directory
+"/data/user/0/com.widgetable.theme.android/databases/bigo_ads_sdk.db-journal",file
+"/data/user/0/com.widgetable.theme.android/cache/tt_ad/video_splash/eef53e856bcf367533fe6dbe001a8ce3",file
+"/data/user/0/com.widgetable.theme.android/cache/tt_ad/image_p/e92ba4d3cb7f0eeeadb2a7d7e7b9e090",directory
+"/data/user/0/com.widgetable.theme.android/databases/npth_log.db�8�q�������������",directory
+"/data/user/0/com.widgetable.theme.android/cache������&������",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so�������������vndk�����������������������������p�������p�������p�����t�p�����t�p�����t�p����������������������������zt�p����zt�p����zt�p���rs���������������������������@�~�p���p�~�p���p�~�p����{t�p����{t�p����{t�p����������������������������{t�p���p{t�p���p{t�p���default��������������������������������t�p�����������",directory
+"/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/20438/483e7eb79c220ff3G",file
+"/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/bigoad_config.dat.bak",file
+"/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/bigoad_config.dat",file
+"/data/user/0/com.widgetable.theme.android/files/ttopenadsdk",file
+"/data/user/0/com.widgetable.theme.android/files/ttopenadsdk.bak",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/634618eb41bc5af0ca742ec3033b99ac99db50d1a663f2bad9f9fe56da8f2e4f.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/634618eb41bc5af0ca742ec3033b99ac99db50d1a663f2bad9f9fe56da8f2e4f.1",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/a732b330194ca7fe2488da0309247d2d5adc08884e2b3f24570fd0b7950d2662.0",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/6e121502cfefbee8f54c3168782ba9fd593a1550a56fb5b09db05ebcc297a8d5.1",file
+"/data/user/0/com.widgetable.theme.android/cache/image_cache/a732b330194ca7fe2488da0309247d2d5adc08884e2b3f24570fd0b7950d2662.1",file
+"/data/user/0/com.widgetable.theme.android/files/km_cache_price_config.json",file
+"/data/user/0/com.widgetable.theme.android/databases/cache.db",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/database/cache.db-journal",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.6xegna",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.tonfi5",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/BrowserMetrics",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/BrowserMetrics/BrowserMetrics-693BD97F-32FE.pma",file
+"/data/user/0/com.widgetable.theme.android/app_webview/BrowserMetrics/BrowserMetrics-6940FCEA-2733.pma",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so��������������t�p�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",directory
+"/data/user/0/com.widgetable.theme.android/files/unityAdsDatastore/universal_request.pb.tmp",file
+"/data/user/0/com.widgetable.theme.android/files/unityAdsDatastore/universal_request.pb",file
+"/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/20438/f9bd890891e4bfdfG",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.hyNgKF",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d0a917a85d023ac1_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d0a917a85d023ac1_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d0a917a85d023ac1_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e94b0b2f237dd18d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e94b0b2f237dd18d_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e94b0b2f237dd18d_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/44a5db170d44930f_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/44a5db170d44930f_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/44a5db170d44930f_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/99089bc6c475fe0e_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/99089bc6c475fe0e_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/99089bc6c475fe0e_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/363d73dc11807c5a_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/363d73dc11807c5a_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/363d73dc11807c5a_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dbfa64bfeddf7054_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dbfa64bfeddf7054_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dbfa64bfeddf7054_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5c3e5907aa019695_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5c3e5907aa019695_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5c3e5907aa019695_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e89bdb4da6b855f6_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e89bdb4da6b855f6_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/e89bdb4da6b855f6_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c89441c467bbf81b_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c89441c467bbf81b_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c89441c467bbf81b_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ba85da5c02a4329d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ba85da5c02a4329d_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ba85da5c02a4329d_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/b65b987c9bd8e7c3_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/b65b987c9bd8e7c3_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/b65b987c9bd8e7c3_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b9781a6cb044b1ae_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b9781a6cb044b1ae_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b9781a6cb044b1ae_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0ee4f23df9559265_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0ee4f23df9559265_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0ee4f23df9559265_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/96d81e00cb4d5f17_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/96d81e00cb4d5f17_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/96d81e00cb4d5f17_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/4d944a4cd8b6e0cb_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/453d43028156e10c_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/453d43028156e10c_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/453d43028156e10c_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c4e9bb58e5d26bb5_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c4e9bb58e5d26bb5_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/c4e9bb58e5d26bb5_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/7659751a5e121d9a_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/7659751a5e121d9a_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/7659751a5e121d9a_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5bfb77298c836991_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5bfb77298c836991_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/5bfb77298c836991_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d394e3185a608d9d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/b85eeb1d2655787c_0",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/WebStorage",directory
+"/data/data/com.widgetable.theme.android/app_webview/Default/WebStorage/QuotaManager",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/VideoDecodeStats/LOG",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/VideoDecodeStats/LOG.old",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/VideoDecodeStats/LOCK",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/LOG",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/LOG.old",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/LOCK",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/CURRENT",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000003.log",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0cc799278850f72c_0",directory
+"/data/data/com.widgetable.theme.android/app_webview/Default/WebStorage/QuotaManager-journal",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/1d778f4fe361897a_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/1d778f4fe361897a_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/1d778f4fe361897a_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/9b3c8f4b9e1fdad8_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dabc12befbf75d65_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/dabc12befbf75d65_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0c8b57929f8e0e52_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/e398d77bb017b36c_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/cbacf3a73d80105a_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/77c7decc981cdb8c_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d95206a9a87d7733_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/c77d10ac9b08cf42_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d37d4fbc43dbef9d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/0ba78780dadf96b4_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/acf69c5840af75da_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/d9d1769f64dac063_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/4d3481f6baaa4c7f_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/b1f84ab317ede324_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ff44f430ed29e5b5_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ff44f430ed29e5b5_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ff44f430ed29e5b5_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/b7b24f88258bf426_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/959af2834729a220_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/761a2d57c4b7a2f7_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/761a2d57c4b7a2f7_1",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/761a2d57c4b7a2f7_s",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/376caf5182848dc8_0",directory
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765551600_key_cache_daily_record_list__2025-12-12.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765551600_key_cache_timeline__DailyRecord_6708476_2025-12-06_2025-12-12.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765551600_key_cache_timeline___null.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1765615451_key_cache_timeline_status.json",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.PiUI0V",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ce17c41a9311404d_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_ce17c41a9311404d_0_1",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/4",file
+"/data/user/0/com.widgetable.theme.android/cache/tt_ad/image_p",directory
+"/data/user/0/com.widgetable.theme.android/shared_prefs/tt_openad.xml",file
+"/data/user/0/com.widgetable.theme.android/shared_prefs/tt_openad.xml.bak",file
+"/data/user/0/com.widgetable.theme.android/cache/tt_ad/image_p/431c5cb4b054e75ab2eeb2b9a001adc5",file
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/1/00/5",file
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/ea95540d6b5f2991_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/2ec2dd3b09e2e830_0",directory
+"/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_ea95540d6b5f2991_0_1",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libtt_ugen_layout.so",file
+"/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.YhCNRv",directory
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/1d4fcfee424ed1062779a439f30072ae806cc87d4a8623281fcc72060e9c2634.1���P��p�;)������u�H���<`$��<�������@�p��������`$",directory
+"/data/data/com.widgetable.theme.android�������������������������/system/lib64/vndk-sp-29/android.hardware.renderscript@1.0.so������������������������������������������������������������������/system/lib64/vndk-sp-29/libutilscallstack.so�������������������/system/lib64/librs_jni.so����������������������������������������Ϊp�����",directory
+"/data/app/com.widgetable.theme.android-2rCrQQutCoMPBkqJNXzgEg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so��������������yt�p���������������������������������������������������������������������������������������������������������������������������t�p���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000008.ldb",directory
+"/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/000004.log",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/12ece696aa87aa449e6595873c5026cc7154ef12b7818d8b96a152a804efca69.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/12ece696aa87aa449e6595873c5026cc7154ef12b7818d8b96a152a804efca69.1",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/46eba6a1edab16b6dbd1176b579616ca88f64ae0fb1623a28a883eecbdaa9ce7.0",file
+"/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/46eba6a1edab16b6dbd1176b579616ca88f64ae0fb1623a28a883eecbdaa9ce7.1",file
+"/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bunny/back.png",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471654_key_cache_sleep_record__2025-12-10_2025-12-16.json",file
+"/data/user/0/com.widgetable.theme.android/files/102028884/page_cache/1766471655_key_cache_timeline__Sleep_2025-12-10-2025-12-16.json",file
+"/data/data/com.widgetable.theme.android�������������������������/system/lib64/vndk-sp-29/android.hardware.renderscript@1.0.so���/memfd:frida-agent-64.so",file

@@ -1,0 +1,379 @@
+path,type
+"/data/user/0/com.blockchainvault",directory
+"/data/user_de/0/com.blockchainvault",directory
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64",directory
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/base.apk",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/oat/arm64/base.odex",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/oat/arm64/base.vdex",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/oat/arm64/base.art",file
+"/data/misc/profiles/cur/0/com.blockchainvault",directory
+"/data/misc/profiles/cur/0/com.blockchainvault/primary.prof",file
+"/data/user/0/com.blockchainvault/cache",directory
+"/data/user_de/0/com.blockchainvault/code_cache",directory
+"/data/user_de/0/com.blockchainvault/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.blockchainvault/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.blockchainvault/files",directory
+"/data/user/0/com.blockchainvault/shared_prefs",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user_de/0/com.blockchainvault/shared_prefs",directory
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.xml",file
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.blockchainvault/no_backup",directory
+"/data/user/0/com.blockchainvault/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/com.blockchainvault/databases",directory
+"/data/user/0/com.blockchainvault/databases/androidx.work.workdb",directory
+"/data/user/0/com.blockchainvault/files/audience_network.dex",file
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.appEventPreferences.xml",file
+"/data/user/0/com.blockchainvault/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.preferences_pb",file
+"/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.preferences_pb",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak",file
+"/data/user/0/com.blockchainvault/cache/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb.lck",file
+"/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak",file
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak",file
+"/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.preferences_pb.tmp",file
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak",file
+"/data/user/0/com.blockchainvault/app_optimized",directory
+"/data/user/0/com.blockchainvault/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.blockchainvault/files/AppEventsLogger.persistedevents",file
+"/data/user/0/com.blockchainvault/shared_prefs/OneSignal.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/OneSignal.xml.bak",file
+"/data/user/0/com.blockchainvault/databases/OneSignal.db",file
+"/data/user/0/com.blockchainvault/databases/OneSignal.db-wal",directory
+"/data/user/0/com.blockchainvault/databases/OneSignal.db-shm",directory
+"/data/user/0/com.blockchainvault/databases/OneSignal.db-journal",file
+"/data/user/0/com.blockchainvault/lib-main",directory
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libreactnative.so",file
+"/data/user/0/com.blockchainvault/files/oat/audience_network.dex.cur.prof",file
+"/data/user/0/com.blockchainvault/shared_prefs/GTPlayerPurchases.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/GTPlayerPurchases.xml.bak",file
+"/data/user/0/com.blockchainvault/lib-main/dso_lock",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.v2.playerprefs.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.v2.playerprefs.xml.bak",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libapminsighta.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libapminsightb.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libapplovin-native-crash-reporter.so",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.xml.bak",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libappmodules.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libbuffer_pgl.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libc++_shared.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libdatastore_shared_counter.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libfbjni.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libfile_lock_pgl.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libhermes.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libhermestooling.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libimagepipeline.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libjsi.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libnative-filters.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libnative-imagetranscoder.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libnms.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libpglarmor.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libreact_codegen_safeareacontext.so",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libreanimated.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libtobEmbedPagEncrypt.so",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libtt_ugen_layout.so",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.blockchainvault/files/cappedAds.txt",file
+"/data/user/0/com.blockchainvault/files/adsCappingInfo.txt",file
+"/data/app/com.blockchainvault-WYNay_2aahnrJL7XpY7xrg==/lib/arm64/libworklets.so",file
+"/data/user/0/com.blockchainvault/shared_prefs/FBAdPrefs.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/FBAdPrefs.xml.bak",file
+"/data/user/0/com.blockchainvault/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.blockchainvault/files/datastore/FirebaseHeartBeatT05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.preferences_pb",file
+"/data/user/0/com.blockchainvault/files/phenotype/shared/com.google.android.gms.measurement#com.blockchainvault.pb",file
+"/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeatT05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.preferences_pb",file
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:T05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml",file
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:T05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeatT05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeatT05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml.bak",file
+"/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeatT05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.preferences_pb.tmp",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault_preferences.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault_preferences.xml.bak",file
+"/data/user/0/com.blockchainvault/files/generatefid.lock",file
+"/data/user/0/com.blockchainvault/files/PersistedInstallation.W0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.json",file
+"/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db",file
+"/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.attributionTracking.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.internal.btextras.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.internal.btextras.xml.bak",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.idfa.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.idfa.xml.bak",file
+"/data/user/0/com.blockchainvault��",directory
+"/data/data/com.blockchainvault��",directory
+"/data/data/com.blockchainvault���+=5r���������������������������",directory
+"/data/user/0/com.blockchainvault/shared_prefs/app_set_id_storage.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/app_set_id_storage.xml.bak",file
+"/data/user/0/com.blockchainvault/databases/traceback.kv.db.remotedb-journal",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5ebb2780d900a08d_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d75aae27b567b00e_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_0",directory
+"/data/user/0/com.blockchainvault/databases/track_manager_metrics_sdk.db-journal",file
+"/data/user/0/com.blockchainvault/databases/mbridge.msdk.db",file
+"/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-wal",directory
+"/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-shm",directory
+"/data/user/0/com.blockchainvault/databases/track_manager_monitor.db",file
+"/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-wal",directory
+"/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-shm",directory
+"/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-journal",file
+"/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-journal",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d75aae27b567b00e_0_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c8b053d5e35507ca_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/4a4f34e4cc0a5975_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5480ab3a6460f184_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5480ab3a6460f184_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5480ab3a6460f184_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/a2ed00f176dbc3b8_s",directory
+"/data/user/0/com.blockchainvault/files/UnityAdsStorage-private-data.json",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8d7e2aa5d7e9dc38_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8d7e2aa5d7e9dc38_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8d7e2aa5d7e9dc38_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/cdb04b96d9f20648_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/aa881a411c11fc90_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/aa881a411c11fc90_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/aa881a411c11fc90_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d297838f80976e72_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_s",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/CURRENT",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log",file
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt",file
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d8ff4c04-c312-40c8-9df8-bcb57a1c57c2",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt.tmp",file
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d8ff4c04-c312-40c8-9df8-bcb57a1c57c2/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d8ff4c04-c312-40c8-9df8-bcb57a1c57c2/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d8ff4c04-c312-40c8-9df8-bcb57a1c57c2/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d8ff4c04-c312-40c8-9df8-bcb57a1c57c2/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOG",file
+"/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOG.old",file
+"/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOCK",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d297838f80976e72_0_1",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d07931ab-b6b4-44ad-b33d-b4b9f319e543/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d07931ab-b6b4-44ad-b33d-b4b9f319e543/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d69634fbf918113d_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d69634fbf918113d_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d69634fbf918113d_s",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d07931ab-b6b4-44ad-b33d-b4b9f319e543/c22d588f4a2f75a0_0",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d07931ab-b6b4-44ad-b33d-b4b9f319e543/c22d588f4a2f75a0_1",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d07931ab-b6b4-44ad-b33d-b4b9f319e543/c22d588f4a2f75a0_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d9f10c7c440115a4_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c1756b9e9b6deff4_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c1756b9e9b6deff4_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c1756b9e9b6deff4_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/ed99025717d7aa1a_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d9f10c7c440115a4_0_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/e9f066bf3c1db61e_0",directory
+"/data/user/0/com.blockchainvault/databases/supersonic_sdk.db",file
+"/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-wal",directory
+"/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-shm",directory
+"/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-journal",file
+"/data/user/0/com.blockchainvault/databases/pag_monitor.db-journal",file
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0",directory
+"/data/user/0/com.blockchainvault/app_webview/BrowserMetrics-spare.pma.tmp",file
+"/data/user/0/com.blockchainvault/app_webview/BrowserMetrics-spare.pma",file
+"/data/user/0/com.blockchainvault/app_webview/BrowserMetrics/BrowserMetrics-693E6303-69FA.pma",directory
+"/data/user/0/com.blockchainvault/app_webview/BrowserMetrics/BrowserMetrics-693E64A4-7519.pma",file
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.jwl1os",directory
+"/data/user/0/com.blockchainvault/app_webview/pref_store",file
+"/data/user/0/com.blockchainvault/databases/metrics-db���ऍo����`",directory
+"/data/user/0/com.blockchainvault/files/audience_network.dex�����8[�o�����������0��o����X��o�������o�������o����І�o�������o����",directory
+"/data/user/0/com.blockchainvault/files/.gms-dynamite-code-cache��",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak�XZ�o���������������������������������������������������������������������������Hʆo�������������������/�o������������������������������������������������������������������������������o�����",directory
+"/data/user/0/com.blockchainvault/shared_prefs/app_set_id_storage.xml.bakXZ�o���������������������������������������������������������������������������Hʆo�������������������/�o������������������������������������������������������������������������������o�����",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebo",directory
+"/data/user/0/com.blockchainvault/databases/supersonic_sdk.db����8}�o������������Ц�o�����",directory
+"/data/user/0/com.blockchainvault/app_webview/Default������������������$��Xq����]{Vq����6RXq���x��Xq������n������������������@t�n����g�n���������������������������@l�n�����������������������",directory
+"/data/user/0/com.blockchainvault/cache/su����onic",directory
+"/data/data/com.blockchainvault����6r������M�������M������-7r���@?7r���c�0���yc�0���y��-7r����!=5r��������������������������",directory
+"/data/data/com.blockchainvault���/=5r����܄0)[���܄0)[��е-7r����+=5r���5��^��Ծ5��^��Ծ",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/8a1c47ac42fa1b95_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/8a1c47ac42fa1b95_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/8a1c47ac42fa1b95_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/c1665c9c8925f7b5_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/74ca6f79a190baf4_s",directory
+"/data/user/0/com.blockchainvault/databases/com.im_10.8.7.db-journal",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/c1665c9c8925f7b5_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/c1665c9c8925f7b5_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.RoDOHJ",directory
+"/data/user/0/com.blockchainvault/app_webview/BrowserMetrics",directory
+"/data/user/0/com.blockchainvault/files/phenotype/shared/com.google.android.gms.clearcut_client#com.blockchainvault.pb",directory
+"/data/data/com.blockchainvault/app_webview/Default/Cookies-journal",file
+"/data/data/com.blockchainvault/app_webview/Default",directory
+"/data/data/com.blockchainvault/app_webview/Default/WebStorage",directory
+"/data/user/0/com.blockchainvault/files/apminsight/TrackInfo/20436/63796c81d3a58dd8G",file
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.8eUJuV",directory
+"/data/user/0/com.blockchainvault/databases/ttopensdk.db-journal",file
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.BOFzIV",directory
+"/data/user/0/com.blockchainvault/databases/metrics-db",file
+"/data/user/0/com.blockchainvault/files/tt_sdk_event_net_state",file
+"/data/user/0/com.blockchainvault/files/tt_sdk_event_net_state.bak",file
+"/data/user/0/com.blockchainvault/files/tt_sdk_event_db_state",file
+"/data/user/0/com.blockchainvault/files/tt_sdk_event_db_state.bak",file
+"/data/user/0/com.blockchainvault/databases/traceback.kv.db.analytics-journal",file
+"/data/user/0/com.blockchainvault/app_webview/Default������������������$��Xq����]{Vq����6RXq���x��Xq������n������������������@t�n����g�n���������������������������@l�n������������������Bearer",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/40710a5041a37a3a_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.UdfdxG",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/40710a5041a37a3a_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/40710a5041a37a3a_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/f17b4c4f47e6ae4d_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/f17b4c4f47e6ae4d_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/f17b4c4f47e6ae4d_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c5e4a245ad895e3b_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c5e4a245ad895e3b_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c5e4a245ad895e3b_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/2b6167e6ab64fa6a_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/2b6167e6ab64fa6a_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/2b6167e6ab64fa6a_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/bd34e790bced8d15_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/bd34e790bced8d15_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/bd34e790bced8d15_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/06ea2f043a97a500_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d46e758799069698_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d46e758799069698_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/d46e758799069698_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_06ea2f043a97a500_0_1",directory
+"/data/user/0/com.blockchainvault/databases/RKStorage-journal",file
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/bddef0d72f0ab206_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/cdb04b96d9f20648_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/cdb04b96d9f20648_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/34b187eb0bc86541_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/d84ba902d148656f_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/661d36902c5618ec_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/f175d7c48cb21fdc_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/9adfcac42eb6ce28_0",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/88589247-10e8-4844-b146-9c05fbbd030e",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/88589247-10e8-4844-b146-9c05fbbd030e/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/88589247-10e8-4844-b146-9c05fbbd030e/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/88589247-10e8-4844-b146-9c05fbbd030e/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/88589247-10e8-4844-b146-9c05fbbd030e/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/9068d1faae7f2bc9_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/1fcf02ee842e5f5a_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/5c5a8c68c2b2252d_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.FzRA8C",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8fbe27f77fb9bc59_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_8fbe27f77fb9bc59_0_1",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/110d97b3-dfae-4410-8317-3675098581ba",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/110d97b3-dfae-4410-8317-3675098581ba/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/110d97b3-dfae-4410-8317-3675098581ba/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/110d97b3-dfae-4410-8317-3675098581ba/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/110d97b3-dfae-4410-8317-3675098581ba/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/1fcf02ee842e5f5a_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/1fcf02ee842e5f5a_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/f75fc0a0a531eeac_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.SX1Pqy",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/c9b52b014faa8837_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_c9b52b014faa8837_0_1",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/eb390974-fbbd-47fa-9e5c-529613975d26",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/eb390974-fbbd-47fa-9e5c-529613975d26/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/eb390974-fbbd-47fa-9e5c-529613975d26/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/eb390974-fbbd-47fa-9e5c-529613975d26/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/eb390974-fbbd-47fa-9e5c-529613975d26/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/32eb7274283e381a_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.asnAsb",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.bipvMi",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.nGIcI5",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml",file
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml.bak",file
+"/data/user/0/com.blockchainvault/no_backup/unclosed_ad�����o����6���/data/user/0/com.blockchainvault/no_backup/unclosed_ad�������r�����������hn��������o�u�����(8�o���������������o������������������������������������������������",directory
+"/data/user/0/com.blockchainvault/files/sp_global_file���XZ�o�������_ψz�ݔ�R��OP7��x�����",directory
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb�H�ٝ�����",directory
+"/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb����o����x��������������������������",directory
+"/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo5NjMxNDg4NTIxMDphbmRyb2lkOmZkMTI1ZGRlOThkOGY3MGRkMDA0NjM.xml.bak��",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml.bak������",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak�������",directory
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:T05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml.bak�������",directory
+"/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:T05FU0lHTkFMX1NES19GQ01fQVBQX05BTUU+MTo3NTQ3OTU2MTQwNDI6YW5kcm9pZDpjNjgyYjgxNDRhOGRkNTJiYzFhZDYz.xml���",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.appid.xml.bak�������",directory
+"/data/data/com.blockchainvault����6r���]�y����]�y����е-7r����.=5r���?@������?@������",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.v1WJhA",directory
+"/data/user/0/com.blockchainvault/files/apminsight/TrackInfo/20436/493b7173b594ad8bG",file
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d09dc2c9-aaff-403e-90bf-4ed9e02b4ac0",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d09dc2c9-aaff-403e-90bf-4ed9e02b4ac0/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d09dc2c9-aaff-403e-90bf-4ed9e02b4ac0/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d09dc2c9-aaff-403e-90bf-4ed9e02b4ac0/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/d09dc2c9-aaff-403e-90bf-4ed9e02b4ac0/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/bf3b04e3b19d2664_0",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/bf3b04e3b19d2664_1",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/bf3b04e3b19d2664_s",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/550aca2d583a96c1_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.2IjRU9",directory
+"/data/data/com.blockchainvault/files/datastore",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.97EfMh",directory
+"/data/user/0/com.blockchainvault/cache/supersonicads�����������p��o����I������������O�������o����@*��p����*��p��������������������+O���",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak�������",directory
+"/data/user/0/com.blockchainvault/shared_prefs/FBAdPrefs.xml.bak��",directory
+"/data/user/0/com.blockchainvault/shared_prefs/pag_sp_prop_switch.xml.bak�",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.react.modules.i18nmanager.I18nUtil.xml.bak����",directory
+"/data/user/0/com.blockchainvault/shared_prefs/com.facebook.react.modules.i18nmanager.I18nUtil.xml��������",directory
+"/data/user/0/com.blockchainvault/lib-main����������o�������������",directory
+"/data/user/0/com.blockchainvault/lib-main����������o������������",directory
+"/data/data/com.blockchainvault���?7r����W��",directory
+"/data/user/0/com.blockchainvault/files/apminsight/TrackInfo/20436/6cda33ee38dd0c3bG",file
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/2f4209e3-2330-4e24-8963-b4b65fa2c90b",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/2f4209e3-2330-4e24-8963-b4b65fa2c90b/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/2f4209e3-2330-4e24-8963-b4b65fa2c90b/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/2f4209e3-2330-4e24-8963-b4b65fa2c90b/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/2f4209e3-2330-4e24-8963-b4b65fa2c90b/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/305b51917cf0c6c9_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.M78sDF",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/9077789a-375c-4eee-a715-12c0a4ed564f",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/9077789a-375c-4eee-a715-12c0a4ed564f/index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/9077789a-375c-4eee-a715-12c0a4ed564f/index-dir/the-real-index",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/9077789a-375c-4eee-a715-12c0a4ed564f/index-dir",directory
+"/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/9077789a-375c-4eee-a715-12c0a4ed564f/index-dir/temp-index",directory
+"/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/8852f94faa0f788f_0",directory
+"/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.Gqtinp",directory
