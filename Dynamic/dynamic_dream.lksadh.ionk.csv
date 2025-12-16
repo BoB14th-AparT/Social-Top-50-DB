@@ -1,0 +1,678 @@
+path,type
+"/data/user/0/dream.lksadh.ionk",directory
+"/data/user_de/0/dream.lksadh.ionk",directory
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/base.apk",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/split_config.arm64_v8a.apk",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/split_config.xxhdpi.apk",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/oat/arm64/base.odex",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/oat/arm64/base.vdex",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/oat/arm64/base.art",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/lib/arm64",directory
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/base.apk!/lib/arm64-v8a",directory
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/dream.lksadh.ionk",directory
+"/data/misc/profiles/cur/0/dream.lksadh.ionk/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/dream.lksadh.ionk/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/dream.lksadh.ionk/primary.prof",file
+"/data/user/0/dream.lksadh.ionk/cache",directory
+"/data/user_de/0/dream.lksadh.ionk/code_cache",directory
+"/data/user_de/0/dream.lksadh.ionk/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/dream.lksadh.ionk/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs",directory
+"/data/user/0/dream.lksadh.ionk/shared_prefs/language_uni_sp_file.xml",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/language_uni_sp_file.xml.bak",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/dc_ad_type_key.xml",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/dc_ad_type_key.xml.bak",file
+"/storage/emulated/0/Android/data/dream.lksadh.ionk",directory
+"/storage/emulated/0/Android/data/dream.lksadh.ionk/cache",directory
+"/data/user/0/dream.lksadh.ionk/files",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/manifest.json",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/androidPrivacy.json",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/pdr.xml",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/pdr.xml.bak",file
+"/storage/emulated/0/Android/data/dream.lksadh.ionk/apps/",directory
+"/storage/emulated/0/Android/data/dream.lksadh.ionk/sitemap/",directory
+"/storage/emulated/0/Android/data/dream.lksadh.ionk/cache/dcCrashDump",directory
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/lib/arm64/libbreakpad-core.so",file
+"/data/app/dream.lksadh.ionk-lBoeTKnIM3KAvLiLSbVloA==/lib/arm64/libweexcore.so",file
+"/data/user/0/dream.lksadh.ionk/cache/webview_dream.lksadh.ionk",directory
+"/data/user/0/dream.lksadh.ionk/app_webview_dream.lksadh.ionk",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/SafeBrowsing",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crash Reports",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/d47aea5e0df3c171_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/d647f9a6a07f2a91_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/fbeb5ddb76d5704b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/0bd2606d6a78a59a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/3fa23fcdc89b1d30_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/cbb3435d820e25ba_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search/snapshot.baf",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search/journal.baj",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7703db194848d06a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/60da4bc662d2be6d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/795ebbeecb945b8b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/87015b61a2596b8c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cf3018b07c6469b5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a78d5397303878ff_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f6814d543c3a28a3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6e66f5f9be828c73_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b9d608aeca7f95f9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1fee4c2e84940933_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cfda557535b993aa_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/17581f224d80492d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/82defd679253bc18_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2493b671883814bf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6b2e0bc603e60e89_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b101ecfe725f0bae_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/88f78fbdfe8b31cb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/73a02cb93ddb9d68_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7385eeba89f98506_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5ecb642151c41b6b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9135da9c2738eab3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4d88f530adb0ff8d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9e47af14e8714204_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1bbcea9bf31b2b87_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e42aae7d57d330be_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/635abc712467d5e4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e587e53d9994e88f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/705e787dc81d0480_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f5edfa6b2b70f9e5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b24c145b51b22d0b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6866cd7403d72421_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d71cb50dd9fd9c59_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/18705aec53f170ad_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3562362e1112df3f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/22af01c27939774b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8883865b8817b023_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4466e3c185e2c1ac_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bdecc905a9d3e462_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cc7f16f13c8781f0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2fef334acd2bddc5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/56cdfaf4672ce9a9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a7bafbbc939c19a4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6c58dce2da0d997b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/12eb176e89e6ca3c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/73240dcde049c5bf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/25b017fad5f60839_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/49683b5c9cb78a66_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b623f78d0ac73a25_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b4b4bbd665a8bb1a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a69ccc6ba30d2fd6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4cdd1bacb1631ca6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e9fb14311cb689e8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c0c327c0b6e8c4e4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9cd9d531a1c2a7ae_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5a518010b8351b28_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ceb9fd6c1eaa0d97_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f7cdc0f227304103_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/52e8720acb3ecb93_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cfe288c4ebd1d638_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c1ee272dc54825a2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/43900f7d383fc531_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d93515d9971eb6b9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/70c3472625504006_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4dd6aca28098c39d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8e19cf5f11b294d9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/32d13a544348d654_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e7c8b4ab442cf7d7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/649e55e987ec3df5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fb028a07454c24bb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a7a06ced8bd85ba9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/08cc4fae7cc801eb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5bbbb79264e4a42d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/986d33cb73b7d809_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5fda3c3b29d2fbdf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cb38a03d1382b25e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c9a029e94175f5a7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d8047251832b6f2b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2166aaadfda44ab4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/76d3835acde4a773_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c1638f0b2c168a2e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f0d7fa9fe0e54f65_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/242d206b84535e43_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/613f73ebd0ddd4b8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/49cab9d1b636c967_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b01b4eb16f3413ea_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d6db7e5b807e2289_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/004efbcf264782cd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/52ac3862372ce201_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5c84728c922f2a7a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8ea8bf6df1ffe2ff_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/faade3257d9171e3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9f82081602467753_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d6815b1d095894a9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a269734570ba46b3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a4800734440b5b67_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cd54216d6e3d0dd0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3704ca58dc4d2f83_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/148b04c5804217c6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b8bc57dbda76adfc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7781e3c36a9c59eb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e392331b4faf12fc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bd83d84b89c51109_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/14967b89038edd0c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1eb1ffe5be2e96d0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f59d9fac8e061407_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5b7d8ff557ef786e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/64d8eb8176690078_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e03521729aa369f2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fb6dc3da18a14148_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ed8dddaa5076c033_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d740c5e328f5f7d6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/750cd7ce2f0ac1f0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fa9c457e9dc29bd9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/73325f981047a92d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/45f30767583286a7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/aceb3b0542135638_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/71d43ce5630dc195_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ad3358a580752eb8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/558a6f4f1009901a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4e6a3ed0984b20d1_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4452605c97e7c9d4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b7e54ee20cae2654_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6e4cc9014b3474f4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6e7ee27696e33cc1_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/408a086e6d169ff9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ec9587b5088ac371_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c18d62cd1e333196_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5151f4fdf0baa8af_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/43bbd116d4f80ef0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/51e8072a70bc6702_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/400ab5cbdc8b4be0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6ab6ad801ef187ee_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4b2e345cf44cf2d0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6bcbf82911901e65_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/80b2d74ae2bcc5c3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b5cbdf44f63339ef_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e2689609359c91f0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c2716a3ea0e32bfe_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/dc8dbc373fd80613_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e2de0c9e07e88594_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b29e50d2b2645761_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/96248817ff2013c4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1d141471a4ce7074_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b0450eb65d36d9cb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/89a80b1bda809cce_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7e1a49b27817cf21_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/333e2c019b9ae18d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/475647eec1725fdc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6a30b75ea3f42275_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2fd3ca121aa60c97_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3433b61de393a05e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e20ffc5541233f1f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b0fd80dfe4183e38_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a9f5b6255e6edc24_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/161b5d349754b9b2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3e71931490aa6829_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1ed97d3fe9bd1a62_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f24d4a23e5bdc830_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e03900d77ea8c0a7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/135e87a21522d8e0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ecca412544cc75fc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c2cc807007fcbca2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8d2ab28b6f5661c7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9beab1582b4daf63_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/36e0cabd068f9d41_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/96559f0aaaf79d2f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/94fe06bdf780a2d9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d38df750550757da_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/256836c2d1620728_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9b4094136a89cd32_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3fcf0378f5ab6e5c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1efc237b695c97b4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0a0fad8178fac78d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d65fd2609e5786df_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7e99ddc7132f2206_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/48ad667f9edbb561_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/63163c74fddf8d91_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/db76e4c6f7665a09_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e75e32510a8d7bf7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/38a73abd7cf9d8c2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9602c49884949dae_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0041b3f7e374314e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2a26229a7e23a02a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8da4b0e0d055954e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4ef43dbbe87485e8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b14ff0eb93634132_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/37da01db44ec7322_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c769bb498701cd94_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/811b15c7eab1a876_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f9021b052cd7e5b4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5bbcc2367a6b642f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/10c3b364fc8dff10_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/53140638105ae786_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b9c5b36711310e4c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cfb068670c1125dd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ac73b3ed2c8659cf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1f554025dd147a7c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b7ccba613d7a9320_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/df2214413864e766_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e2ef4e933270cfc8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/49731a4f34b45b5e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/acf3d0dd5fc936ff_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c7cc9e10d987d862_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ed98a9293aec3b32_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f5df90ded6a9f6e5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e516fdc492471f44_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9793ef87c81b003b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e51ed106843f6c71_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/86e36013712b9ae7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/13bcb2c63a8cf740_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c764012df4300c53_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6ca09a2f7ec81123_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ccfed2668233a91c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5ee8de6845b7a1e7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/19f0cba991d0135d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/910ebb0f5cb66c1c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d95601bb5486939d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b7e9fa69c4630b7f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/abf35555d7372614_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b87bfa457a786214_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d0ed4e919a867eb7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8ae12e834fb2d98d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c955c504b25f6207_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/670b411dc8e1b738_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7c9803c4fe70a61a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f0b685e8b3b41fd0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b00489f9adbeac3d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e1456b00b2d5deb8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6dc3408199e6f6a6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0a378f6e08f54547_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1540c7cbe3d45fb2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/83823984305636c2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7ea8ce16b1e83fa9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5b37c9c11e6ae3b5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a8771713af0b6ad7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/edeea21919667484_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9e0ef71e3f51a9fb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cccd7ef3e9038774_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5136d4d0d5e857ac_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e6815f0db344e733_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/67220057b04bf4bf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/65c31d1d9a84e3c1_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/20963a654516a42d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d0b150d234ac6dfc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fbf0026354c7d606_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4ddcf21b553ad163_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9e0dead5f0ef76af_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a5058a8e0283dae5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fd2d145b01067a17_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2a3e5787036cb349_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/97154f3152c6ea3d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f59939551daaf24d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/83daf926d2794581_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5addb76e02367c52_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/33e4561d9176cdf2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/002b732f14b50095_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f4c85f36a308ce15_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/42f818a6b2fa463b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b06e5565994276f2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f66d9eb40ce75e35_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/be9f6ab90a2e873c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ffba0b86c8040171_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8b5ce52454c5d068_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1a6613d12c2ac799_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/149ec77c60823c24_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/163e618daa9f5a79_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7fbeeb824e0442de_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ea41901ab2f16d4c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2e7afc165b67eac9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7842516f9476cb2f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0bebc014fbde99ba_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7e3fcd60bb2487b1_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/730c0ffc08e73506_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c32cd02871917f75_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/70b65132be039e7e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3e2d461b90852013_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1b1d1026e3b476f9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7b776a8cd77b46a8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/268988211ce4c904_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bc4672aa40351e6b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/04d8ef1e6f8f4509_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/698f48f57ba29c3e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8860bd0a5139feca_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b3c89e506bc7c49f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/444ef80941abe506_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/137d4521f14b4cce_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/dc93126b2a8196dc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/53ce2a1536a6aee2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c88e466551594f67_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bd9bcfe6090e5142_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4b2fd450ecc48938_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/47f594a2562d2d3a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/094de26fd845e5f3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/28e3ed88d7276377_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/520243f1084988e9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bb1b4323c11dec9b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3b482168cc30fae9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ec801c2b048ed78e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a705e7a485415437_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2620f03b1e9a4591_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3e003a6a7fa9eae6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c1b84449f8798a0b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d168d4e00bd81873_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/de68f591a53f54a7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/14e7b550935b5199_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7fd394b518561d6d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/718b0d7acb7ec849_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/42651bf32c7c6c50_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8a58dd388b1b04d9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fb78b73226bfb4cb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2264203025cb5a8b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fdeb0cf08ee413d8_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/05ce89dd5718d997_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4134dfc4d0d88120_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9ec3d6aeed157a2e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/577143f3f093a7eb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a4a99bf6ab58c05a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2fbe45d368f600a2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9cc8c2f0df6f317e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f3e93154a8b79cfe_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9617cce3229ea69a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5dd9be2074b2f73b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c97a6ae1a83c2e6b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4122decd2de21d49_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/33f9a667cf0f5b76_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ee4dbfb1d6ed5699_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c1b18db50493126d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d200d10a8473b73d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d181df08f43d658a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5bf6352064f3d469_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d69e44c1098840bf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/8a2600bc321ce855_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cac3904a3ea4a45a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6bfce0d60d412537_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/32f2993b4f9acd47_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/66d316ab81fe102e_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/78de861a6239ae9a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7236810083a22fad_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b77a91326dea8878_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/11dd880a86681195_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/db406fc8e7a8bbd3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3d3961d8e95b550c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/07e00c7f939189c9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0fc60371aa03d365_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bc6eca72752d94fa_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c8569b96cc76a1d2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0797138a42db1b57_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/92fdfc12751b5f39_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ae952f4527a54155_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/56cfde88e29ffc49_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/25fcdc7788df00d3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6c7188c8c9ffe0df_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1146f4464ea6d259_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1b5eff6c9d0f11ee_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a2f55d81a2ade98a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/12abd21311f72ddd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0427241657bd3de5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/81049c05baa7a570_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b6ccc17bdf63cfe5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/750b85fef7fb3841_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6e8f9225c3ce3a86_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2810ca02b6d551f9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/aa8f95904998f3b5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/213337fb22d8b2d9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e3d2937d563d0e5f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e47ebeec896ba558_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c9feaea9fdfd3301_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ef314d162f82acee_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/36b6f28c05720e95_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/def275bd704c78bd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a9b531cbc1db6956_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/24879e81e7098ff0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b3ca53867dacde66_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c0a36d5325ec7f70_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fe20c014eb7ee9cd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/75f0db2bd850349c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/ca6cc195a2c4dbe6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/40b04939a8484cb2_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7ff852d997bc0d5f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2be4d9a68dc739bd_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9e19e7bcaf08611d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3d226f563d5077cf_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4c75a189af17a798_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5c1d1d20a7bf486f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d0926b533c7a913c_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/15ad8e379b948d3f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5f67fe9646a50f6d_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cce0c3e296c5890f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9186983e28afc4d7_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6a6cbcf66bdc0251_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/3e3ca5108186d2c6_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5828068991b9c2f4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/852b9176cee17305_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e32bb7bbdaa727ed_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d4403c2c6930936f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/0c2402c6e9a43690_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6ae11244bcfb58b9_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b60363ce093fd253_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b5b5400f25064c31_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1de4a2a88db5cc4f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1b79c83b4da64487_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1c13d0e1ca06ae6f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f39c2529f940ee61_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/736ffc48eace7ebe_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fe129d7fa545a665_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/229c354b7cb274a0_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a7b8983fb44aad1f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/19ca050a3f7b6db1_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/32391d8ee8184285_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/4f5084d00746e66b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/47e86fe45e17cb7f_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/da4ee2d2aebe7309_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a92341cc91198bce_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/75426ef804202583_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/296c66adea8f00d4_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/9636c12844fce67a_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1c6bdacf0bad33b3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/24a468de33a1b3fc_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6f7ed4efbd67aceb_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/fec78ea58be679db_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/new",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/completed",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/pending",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/dream.lksadh.ionk/app_webview",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/variations_stamp",file
+"/data/user/0/dream.lksadh.ionk/app_webview/webview_data.lock",file
+"/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/variations_seed",file
+"/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics-spare.pma",file
+"/data/user/0/dream.lksadh.ionk/app_webview/pref_store",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Web Data",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Cookies-journal",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Cookies",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Web Data-journal",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/MANIFEST-000030",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOCK",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOG",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/000032.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOG.old",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/CURRENT",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOCK",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000031.ldb",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOG",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000029.ldb",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000035.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000034.ldb",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000033",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOG.old",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/CURRENT",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage/10256beb-1c92-4dd4-897c-50f6c62a8abd",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOCK",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOG",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOG.old",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/MANIFEST-000031",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/000033.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics/BrowserMetrics-693F8876-5334.pma",directory
+"/data/user_de/0/dream.lksadh.ionk/cache/webview_dream.lksadh.ionk",directory
+"/data/user_de/0/dream.lksadh.ionk/app_webview_dream.lksadh.ionk",directory
+"/data/data/dream.lksadh.ionk/app_webview/Default/Cookies-journal",directory
+"/data/data/dream.lksadh.ionk/app_webview/Default",directory
+"/data/user/0/dream.lksadh.ionk/databases/DCStorage-journal",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.AlSo0o",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/220ab00b3d329740_0",directory
+"/data/user/0/dream.lksadh.ionk/databases",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/000029.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/MANIFEST-000027",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000030",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000032.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage/8f54db8a-47df-4448-8c60-8016e950d456",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/MANIFEST-000028",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/000030.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics/BrowserMetrics-693F8746-4A65.pma",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/__uniappview.html������p����&�������plus181765771327144�������p������l�������p�����������NWindow���p����ȶl�������p�����������execMethod��������p������l�������p����������ui������ؼ�p����������",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/contacts.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/recommend-active.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/recommendList.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg2.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/goDetailBtn.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg3.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f39c2529f940ee61_1",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg4.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f39c2529f940ee61_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a8771713af0b6ad7_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a8771713af0b6ad7_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/83823984305636c2_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5bf6352064f3d469_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/5bf6352064f3d469_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/83823984305636c2_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1ed97d3fe9bd1a62_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6c58dce2da0d997b_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/1ed97d3fe9bd1a62_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/6c58dce2da0d997b_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b5b5400f25064c31_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a2f55d81a2ade98a_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2fd3ca121aa60c97_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b5b5400f25064c31_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/a2f55d81a2ade98a_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d6815b1d095894a9_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b06e5565994276f2_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2fd3ca121aa60c97_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b06e5565994276f2_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/d6815b1d095894a9_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c8569b96cc76a1d2_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/c8569b96cc76a1d2_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/04d8ef1e6f8f4509_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/04d8ef1e6f8f4509_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b01b4eb16f3413ea_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7fd394b518561d6d_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/b01b4eb16f3413ea_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2493b671883814bf_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2493b671883814bf_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/7fd394b518561d6d_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/36e0cabd068f9d41_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bd83d84b89c51109_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/bd83d84b89c51109_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/36e0cabd068f9d41_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cfe288c4ebd1d638_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/cfe288c4ebd1d638_s",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2cd2a71fbc8a1682_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f0c16998a295b3d5_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/92cc82a4ea113a7b_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/f333487b1fe622b3_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/43034393541b1356_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/2d18b6e406de1f40_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e301f8d9a3c026f0_0",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/000026.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/MANIFEST-000025",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/000028.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000026",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage/b1e7a3bf-39de-4f20-8316-33b55a123a24",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/000027.log",file
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/MANIFEST-000025",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics/BrowserMetrics-693F85EF-3CE6.pma",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.9mvhFU",directory
+"/data/user/0/dream.lksadh.ionk/files/phenotype_storage_info/shared/storage-info.pb",directory
+"/data/user/0/dream.lksadh.ionk/files/phenotype/shared/com.google.android.gms.clearcut_client#dream.lksadh.ionk.pb",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.0xMSuj",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/message.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/message/chat.css",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/__uniappquill.js",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/__uniappview.html",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/index/index.css",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/message-active.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/22bdeaef5a8b0998_0",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_22bdeaef5a8b0998_0_1",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/MANIFEST-000001",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/000001.dbtmp",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/000002.dbtmp",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e7c8b4ab442cf7d7_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/e7c8b4ab442cf7d7_s",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.0OGC6l",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/empty.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/app-wxs.js",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/uni-app-view.umd.js",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/app.css",file
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.90CZxX",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/compass-active.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/32391d8ee8184285_1",directory
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/32391d8ee8184285_s",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/compass.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/mine-active.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon1.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon2.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon4.png",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon5.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/db76e4c6f7665a09_1",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon3.png",file
+"/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/db76e4c6f7665a09_s",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon6.png",file
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.y5VTdy",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/mine/setting.css",file
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.rnvq1k",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/mine/doc.css",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/assets/uniicons.89ed7d6d.ttf",file
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.0rXTc7",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.3O3qWD",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.LjGNrO",directory
+"/data/user/0/dream.lksadh.ionk/shared_prefs/appsflyer-data.xml",file
+"/data/user/0/dream.lksadh.ionk/shared_prefs/appsflyer-data.xml.bak",file
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/isbackstage_dbfile",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/pauseConnection_dbfile",directory
+"/data/user/0/dream.lksadh.ionk/files/AFRequestCache",directory
+"/data/user/0/dream.lksadh.ionk/files/AFRequestCache/1765771008972",directory
+"/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/backstageTime_dbfile",directory
+"/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.enmuej",directory

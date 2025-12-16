@@ -1,0 +1,1202 @@
+path,type
+"/data/user/0/com.yangpark.connecting",directory
+"/data/user_de/0/com.yangpark.connecting",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/base.apk",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/split_config.arm64_v8a.apk",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/split_config.xxhdpi.apk",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/oat/arm64/base.odex",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/oat/arm64/base.vdex",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/oat/arm64/base.art",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/com.yangpark.connecting",directory
+"/data/misc/profiles/cur/0/com.yangpark.connecting/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/com.yangpark.connecting/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/com.yangpark.connecting/primary.prof",file
+"/data/user/0/com.yangpark.connecting/cache",directory
+"/data/user_de/0/com.yangpark.connecting/code_cache",directory
+"/data/user_de/0/com.yangpark.connecting/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.yangpark.connecting/code_cache/com.android.skia.shaders_cache",file
+"/data/user_de/0/com.yangpark.connecting/shared_prefs",directory
+"/data/user_de/0/com.yangpark.connecting/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.xml",file
+"/data/user_de/0/com.yangpark.connecting/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files",directory
+"/data/user/0/com.yangpark.connecting/files/datastore/firebaseSessions/sessionDataStore.data",file
+"/data/user/0/com.yangpark.connecting/files/datastore/firebaseSessions/sessionConfigsDataStore.data",file
+"/data/data/com.yangpark.connecting/files/datastore/firebaseSessions/sessionConfigsDataStore.data",file
+"/data/data/com.yangpark.connecting/files/datastore/firebaseSessions/sessionDataStore.data",file
+"/data/user/0/com.yangpark.connecting/shared_prefs",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/frc_1:898879441077:android:0e1ea7b76308f0a8_firebase_settings.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/frc_1:898879441077:android:0e1ea7b76308f0a8_firebase_settings.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/reports",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/native-reports",directory
+"/data/user/0/com.yangpark.connecting/files/frc_1:898879441077:android:0e1ea7b76308f0a8_firebase_defaults.json",file
+"/data/user/0/com.yangpark.connecting/files/frc_1:898879441077:android:0e1ea7b76308f0a8_firebase_activate.json",file
+"/data/user/0/com.yangpark.connecting/files/frc_1:898879441077:android:0e1ea7b76308f0a8_firebase_fetch.json",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/FirebasePerfSharedPrefs.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/FirebasePerfSharedPrefs.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.preferences_pb",file
+"/data/data/com.yangpark.connecting/files/datastore/FirebaseHeartBeatW0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.preferences_pb",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.firebase.crashlytics.xml.bak",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/com.crashlytics.settings.json",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.xml.bak",file
+"/data/user/0/com.yangpark.connecting/no_backup",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/initialization_marker",directory
+"/data/user/0/com.yangpark.connecting/databases",directory
+"/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events",file
+"/data/user/0/com.yangpark.connecting/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/crash_marker",directory
+"/data/user/0/com.yangpark.connecting/files/generatefid.lock",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/io.invertase.firebase.xml",file
+"/data/user/0/com.yangpark.connecting/files/PersistedInstallation.W0RFRkFVTFRd+MTo4OTg4Nzk0NDEwNzc6YW5kcm9pZDowZTFlYTdiNzYzMDhmMGE4.json",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/io.invertase.firebase.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.yangpark.connecting/files/phenotype/shared/com.google.android.gms.measurement#com.yangpark.connecting.pb",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/native",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64-v8a",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.appEventPreferences.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/aqs.d0373ce2dd3d4e6b8f7307cb14aed9ea",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/start-time",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.yangpark.connecting_preferences.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.yangpark.connecting_preferences.xml.bak",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics.files.v1",directory
+"/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db",file
+"/data/user/0/com.yangpark.connecting/lib-main",directory
+"/data/user/0/com.yangpark.connecting/databases/androidx.work.workdb",directory
+"/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb",file
+"/data/user/0/com.yangpark.connecting/cache/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb.lck",file
+"/data/user/0/com.yangpark.connecting/files/AppEventsLogger.persistedevents",directory
+"/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/aqs.d0373ce2dd3d4e6b8f7307cb14aed9ea",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/start-time",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libreactnative.so",file
+"/data/user/0/com.yangpark.connecting/lib-main/dso_lock",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767963089",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1A024B000122EA16F972A0057B/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F7B1A024B000122EA16F972A0057B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B/aqs.d0373ce2dd3d4e6b8f7307cb14aed9ea",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B1B0102000222EA16F972A0057B/start-time",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/pending/90606683-74a4-4eca-81ae-89f6415346ae.meta",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/pending/90606683-74a4-4eca-81ae-89f6415346ae.dmp",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/settings.dat",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/new",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/completed",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/attachments",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/supp.device_info",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/aqs.231c885499c1466a82f5eeab252bae1a",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767597000",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/rollouts-state",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/logs",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/metadata",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/session",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/app",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/device",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/os",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/minidump",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/user",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/native/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/aqs.be87fbe4be844b1da4c7fa86effce404",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/aqs.231c885499c1466a82f5eeab252bae1a",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/native-reports/693F799E010900017F825C10BD1566AB",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799E010900017F825C10BD1566AB/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767618050",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C101AE000106ACD8290C851BE4/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F79C101AE000106ACD8290C851BE4",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4/aqs.231c885499c1466a82f5eeab252bae1a",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79C2022D000206ACD8290C851BE4/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/aqs.231c885499c1466a82f5eeab252bae1a",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79CD02120001095C19034F9ABC98/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767665114",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F0027600010B29230B4E73D14B/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F79F0027600010B29230B4E73D14B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F79F1013400020B29230B4E73D14B/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767681949",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A01024400010D3FF5DF4BB20A81/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F7A01024400010D3FF5DF4BB20A81",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A02002100020D3FF5DF4BB20A81/start-time",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libdatastore_shared_counter.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libcrashlytics.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libcrashlytics-common.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libfbjni.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libjsi.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libc++_shared.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libhermes.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libhermestooling.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/librnscreens.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libworklets.so",file
+"/data/user/0/com.yangpark.connecting/databases/RKStorage-journal",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/37abdc2985454a882976e787b647db42.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/37abdc2985454a882976e787b647db42.1",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/OneSignal.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/OneSignal.xml.bak",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/37abdc2985454a882976e787b647db42.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/37abdc2985454a882976e787b647db42.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/741eb7d9417d2dfb549c6b6dc01c759c.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/741eb7d9417d2dfb549c6b6dc01c759c.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d832044b25b11b494f80d2e0dcfec7cb.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d832044b25b11b494f80d2e0dcfec7cb.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9ca915ec4e9031f07c394bfb5355499d.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9ca915ec4e9031f07c394bfb5355499d.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d832044b25b11b494f80d2e0dcfec7cb.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d832044b25b11b494f80d2e0dcfec7cb.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/webview_com.yangpark.connecting",directory
+"/data/user/0/com.yangpark.connecting/app_webview_com.yangpark.connecting",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/SafeBrowsing",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crash Reports",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9ca915ec4e9031f07c394bfb5355499d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/58a826a13076d559_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/a17826ebed65b9c2_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/8c2e06aedfc74fbe_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/d36b8ab7fe151d8b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/bf6a5d60910bc45b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/813073a0ad3772c4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/93c4dbd101d3dc3b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/7f891db0a9ad9513_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/11c17974930dcd15_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9ca915ec4e9031f07c394bfb5355499d.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/a6499e31c13b7b56_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/5e8e1cece4130b62_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/5548f55d60a71383_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/01755d67655e9d0b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/5e523c51a8e2c610_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/f2d395b7231ba86d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/13a5826fdf5949ab_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/2bc4607b34745b73_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/e3c5b49570b3b4bc_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/d8ec1f21949368c0_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/afc2d05c5c824a94_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/6cf2d5a00dec5240_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/00d8869c615168b2_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b8bc01c73233a635_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d61911b0b85937e4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/2f50a58361d5a1bc_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/afa501df34954078_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/c9df890841c271fb_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/9891de7cae455529_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/3f094fdb18c1412f_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/65813749d083002c_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/ad6e568efe7b313d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/fea9343620b38e0f_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/9ec4d7ea2233bf5a_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/4da75b101a0d296c_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/1916b30f783bddd3_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/3082f07641a2b0d0_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3006d7b33391ae8371b0d0c0fa2ceae8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d1ac02e9afeaff64_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/f27c2c21f5221f27_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/4ac9d5593be5623b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/c8154f271990732e_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/e93856aad4c60d68_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/4a3b83558a1ec768_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3006d7b33391ae8371b0d0c0fa2ceae8.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/78a94a3c3519035b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/dde3b5def2f3fd7e_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b173e47fa83dbf62_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/a3af15a507d55e37_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/52e12843e6cb5b1d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d3049739ed2f0353_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/83ba4b86f8de38e1_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/bee327171573552a_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/e847a63a976e6442_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/2ad56d1c8edb7029_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d7dc6f01d31ce419_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/dc92f2d69e0ac158_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/587ac6cc0042afc3_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/ada5d3f079601ab0_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/646777f679241854_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/e58b0bca41ef1438_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/5470e79f3c354138_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/24f7e022dfa2c0fe_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b43eec22d0dfbcd3_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/942a2b66b889190d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/df8ce74a905598b4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/3d8322a076dcd07b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/539bc8787404d2c7_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/180bfd2b15585d32_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/fbf306236a50002d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/0973c61eaf52cd73_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/62ed83d2fda185b6_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/8b95b26a927b67f5_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/8cc914af286ad388_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/4b815b385837f6a9_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/93452c725cd81ff1_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/68f0a6a89a5a4cc7_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/5eede059dcab5f88_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/cf901c6df8c00e42_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b75066d9d1bd7996_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/c8322a71ac465db7_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/8d36b0e207113969_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/47ba4a431831efa6_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/3ebd227848809c91_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/1254e91a5d4ecfd4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/8385de8f48cb8fef_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/12c249c71130d17f_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/29e2539e53c027b2_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d024e2d2583aca41_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/4a3b965998e0e4a3_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/68358e63c2654327_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/07fe8361733bfdd0_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/7fa4363f5066d49d_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/94a99e96255904b4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/40f96c2b08fb9ab7_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b1d963ed6c8471c4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/9a7d42aa231954a8_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/7b612b11453633c0_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/17cdc885512eacb4_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3006d7b33391ae8371b0d0c0fa2ceae8.0",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/95e8fe5970773d4b_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d9abb16a838e4391_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3006d7b33391ae8371b0d0c0fa2ceae8.1",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/d10e8ea1f436f271_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/c08bf2d090c99d0f_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/a625cab6a36cfecd_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/b00b0ed2156b565a_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/66adbf81821401da_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/3d137bc073b92e32_0",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/f6714c763a8f6f33_0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3866f868e2b6fc90a074f55fdd14d9aa.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3866f868e2b6fc90a074f55fdd14d9aa.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ead086200300232510b82534165c6f9a.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ead086200300232510b82534165c6f9a.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3866f868e2b6fc90a074f55fdd14d9aa.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/3866f868e2b6fc90a074f55fdd14d9aa.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/new",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/completed",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/pending",directory
+"/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/com.yangpark.connecting/app_webview",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default",directory
+"/data/user/0/com.yangpark.connecting/app_webview/variations_stamp",file
+"/data/user/0/com.yangpark.connecting/app_webview/webview_data.lock",file
+"/data/user/0/com.yangpark.connecting/app_webview/BrowserMetrics",directory
+"/data/user/0/com.yangpark.connecting/app_webview/variations_seed",file
+"/data/user/0/com.yangpark.connecting/app_webview/BrowserMetrics-spare.pma",file
+"/data/user/0/com.yangpark.connecting/app_webview/pref_store",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/blob_storage",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Web Data",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Cookies-journal",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Cookies",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Web Data-journal",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/LOCK",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/LOG",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/MANIFEST-000010",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/000011.log",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/LOG.old",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/CURRENT",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/LOCK",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/LOG",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/000008.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/MANIFEST-000010",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/000011.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/000005.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/LOG.old",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/CURRENT",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/000012.log",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/blob_storage/5cc156c5-a2a0-44e2-a8ba-56387486e45f",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/PersistentOriginTrials/LOCK",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/PersistentOriginTrials/LOG",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/PersistentOriginTrials/LOG.old",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/000008.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/MANIFEST-000010",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/000011.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/000005.ldb",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/000012.log",file
+"/data/user/0/com.yangpark.connecting/databases/com.amplitude.api",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ead086200300232510b82534165c6f9a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/databases/com.amplitude.api-wal",directory
+"/data/user/0/com.yangpark.connecting/databases/com.amplitude.api-shm",directory
+"/data/user/0/com.yangpark.connecting/databases/com.amplitude.api-journal",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ead086200300232510b82534165c6f9a.1.tmp",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/com.yangpark.connecting/app_webview/BrowserMetrics/BrowserMetrics-693E7C0C-692E.pma",directory
+"/data/user_de/0/com.yangpark.connecting/cache/webview_com.yangpark.connecting",directory
+"/data/user_de/0/com.yangpark.connecting/app_webview_com.yangpark.connecting",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ee36a437aea58312364d71fc51dd3ac8.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ee36a437aea58312364d71fc51dd3ac8.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7110360d67470af531b7b57018e8e3fd.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7110360d67470af531b7b57018e8e3fd.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f6233312d3577138768646e8bc81c8de.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f6233312d3577138768646e8bc81c8de.1",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ee36a437aea58312364d71fc51dd3ac8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/ee36a437aea58312364d71fc51dd3ac8.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f6233312d3577138768646e8bc81c8de.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f6233312d3577138768646e8bc81c8de.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7110360d67470af531b7b57018e8e3fd.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7110360d67470af531b7b57018e8e3fd.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/journal.bkp",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/journal",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/journal.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d07b29270bf5a56a32ba43b4fec5beb0adf81e229b6be353c4bf90037a1787a9.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d07b29270bf5a56a32ba43b4fec5beb0adf81e229b6be353c4bf90037a1787a9.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/234f56945f485556d382351c696971a107a9a32c285756b7cc8ec296caf780d0.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/234f56945f485556d382351c696971a107a9a32c285756b7cc8ec296caf780d0.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/143522cedca297b7e0193be6ee39865b407d21928cdbf940b30fccfd5791d6a3.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/143522cedca297b7e0193be6ee39865b407d21928cdbf940b30fccfd5791d6a3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/881e6441e743570b34b0e593d0d601884e748de5d7d10754ba377457160c947b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/881e6441e743570b34b0e593d0d601884e748de5d7d10754ba377457160c947b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e29cda917fea0a6b79dd159b11f8ca32df499b29709e3f48efd8c8534733553f.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e29cda917fea0a6b79dd159b11f8ca32df499b29709e3f48efd8c8534733553f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fc6ab36c15a86787b438a16721b3cad04df8ec563b0290284b90e1d358bc63f1.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fc6ab36c15a86787b438a16721b3cad04df8ec563b0290284b90e1d358bc63f1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/56920646ef9f58201f0c341f3dc1768529b333530dc9206c9555ec8459bc20af.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/56920646ef9f58201f0c341f3dc1768529b333530dc9206c9555ec8459bc20af.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3fa71b01af1571ba61b6869209d3fdb37bd4215a185f693b69741839a709e1de.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3fa71b01af1571ba61b6869209d3fdb37bd4215a185f693b69741839a709e1de.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/35f5b98792f037a61c48725a1dd47b078bba16f6cb16276ce5bef9cb06d2959c.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/35f5b98792f037a61c48725a1dd47b078bba16f6cb16276ce5bef9cb06d2959c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f7b827eb860cbb5441d007c8f46abbf2f66e1ed88ef546ea5670802dbe8e4019.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f7b827eb860cbb5441d007c8f46abbf2f66e1ed88ef546ea5670802dbe8e4019.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d6acf2ccf312f15aef82680ac37bd199d0217f9b88e8d0d5af5a992f9854d9a5.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d6acf2ccf312f15aef82680ac37bd199d0217f9b88e8d0d5af5a992f9854d9a5.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/573fff78d9154a7ea13c32099bd95a659e9560ef2679c9b5314f4b690162807b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/573fff78d9154a7ea13c32099bd95a659e9560ef2679c9b5314f4b690162807b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c3cf9842b86eb66a9a4d5eca2e0737164f17c2d6d871e30cd50760ea5c404fa2.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c3cf9842b86eb66a9a4d5eca2e0737164f17c2d6d871e30cd50760ea5c404fa2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/01adae43755a51482e4bdf950f56c56e8e7be78ac86871d5123685c35224917c.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/01adae43755a51482e4bdf950f56c56e8e7be78ac86871d5123685c35224917c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/25247715d4d71ae0a3007fc119b922af3d58f992a5919b065ae5a40ff590e07a.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/25247715d4d71ae0a3007fc119b922af3d58f992a5919b065ae5a40ff590e07a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c8bef552e4e7d62478267a9f8a9ecfe8a05dd43bff44d9fe5f13fc7961394b16.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c8bef552e4e7d62478267a9f8a9ecfe8a05dd43bff44d9fe5f13fc7961394b16.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/55a4d7fe3ef75cad246df28f0ca3eb5914901d6f2268a42c958df831c6ba9cff.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/55a4d7fe3ef75cad246df28f0ca3eb5914901d6f2268a42c958df831c6ba9cff.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/06d2c9f285936114466a2b406aaa4979dac50978dcfcf8dd39d5e6f2b1495309.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/06d2c9f285936114466a2b406aaa4979dac50978dcfcf8dd39d5e6f2b1495309.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7d4f7d611374afd594a4616bb2db83e3d32ce57b0c102becd9aa0eff5ee0976a.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7d4f7d611374afd594a4616bb2db83e3d32ce57b0c102becd9aa0eff5ee0976a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/48aee94a364a02a79628b771b2fdd3b5c03d99481bc755576133a5233c101ec2.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/48aee94a364a02a79628b771b2fdd3b5c03d99481bc755576133a5233c101ec2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/875c4585dc886c9fe86e47d07e28bd7961b993b2cd3e2a917fa9da7ebd310d80.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/875c4585dc886c9fe86e47d07e28bd7961b993b2cd3e2a917fa9da7ebd310d80.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/43a12477920848f0253fc05bbc92db880bd683e2b2ab375fadbabb8e325c0046.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/43a12477920848f0253fc05bbc92db880bd683e2b2ab375fadbabb8e325c0046.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0a4390573d5b99a0ceae91fd7eb9131e41da703b6624790166787e4bb25d2df.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0a4390573d5b99a0ceae91fd7eb9131e41da703b6624790166787e4bb25d2df.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9aebefdc51b826dacb0c5d6a17cb36532ff820c0db8b5c362f2577eabcd97017.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9aebefdc51b826dacb0c5d6a17cb36532ff820c0db8b5c362f2577eabcd97017.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7fc5f64d4d41b00c073bff487c4fba46aecc982dcb43b4e6f9f799acf44d9b76.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7fc5f64d4d41b00c073bff487c4fba46aecc982dcb43b4e6f9f799acf44d9b76.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1c9a468943bd6d3b77c418813548021ad0e434e908bedbb8e3ba9515a2759bd0.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1c9a468943bd6d3b77c418813548021ad0e434e908bedbb8e3ba9515a2759bd0.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c7e098c95c1155f76e1100be252d5c812355b0993ed251b0d6135b4319487576.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c7e098c95c1155f76e1100be252d5c812355b0993ed251b0d6135b4319487576.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d2b0e2afa2839d7f71bd1644402db6ac4f6243fb05b1ec8c14173763eb5c9642.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8b632bf8ef1b2e491633006606eceadf.0",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8b632bf8ef1b2e491633006606eceadf.1",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d2b0e2afa2839d7f71bd1644402db6ac4f6243fb05b1ec8c14173763eb5c9642.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1bb19932fb41b2c49ada47d49f54dfb2d4074e495c8d1fb0e74ecf700812b019.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1bb19932fb41b2c49ada47d49f54dfb2d4074e495c8d1fb0e74ecf700812b019.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/adeb453bd7d80ebc467d2455d18cc81390c759e86a455a1295f5dd823a356189.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/adeb453bd7d80ebc467d2455d18cc81390c759e86a455a1295f5dd823a356189.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/92f79dd582841c4a9f2d313c38be0731dcff0f3eeb07c59dccade3df83381d61.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/92f79dd582841c4a9f2d313c38be0731dcff0f3eeb07c59dccade3df83381d61.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/439e8641bd117b924dc11a03e37ee8dd96242b9178848fffb36d7f9ffdca7257.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/439e8641bd117b924dc11a03e37ee8dd96242b9178848fffb36d7f9ffdca7257.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/179b29411ccfa5004b9afda101af57fe3f6f61ac04e82a6d0f79537d1133d373.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/179b29411ccfa5004b9afda101af57fe3f6f61ac04e82a6d0f79537d1133d373.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a2aa3f7fc73be8b2041030b710bf7a549c31411ba176e0819b911976a3a8c4f0.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a2aa3f7fc73be8b2041030b710bf7a549c31411ba176e0819b911976a3a8c4f0.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a5ddfb23ad71db69ed6985b4ce9025978ddad0799e0c1e0504f940abc2ca865d.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a5ddfb23ad71db69ed6985b4ce9025978ddad0799e0c1e0504f940abc2ca865d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/24994df7459a42e887baa8e7c62cd5a3fb40ad57791001336238d294850107d2.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/24994df7459a42e887baa8e7c62cd5a3fb40ad57791001336238d294850107d2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/30a1aaa4d813daae59c9702444215c917e3e048df418fa6e8a72be9e8416f43d.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/30a1aaa4d813daae59c9702444215c917e3e048df418fa6e8a72be9e8416f43d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8b632bf8ef1b2e491633006606eceadf.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8b632bf8ef1b2e491633006606eceadf.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/6c17d70001575e17d32838d67a6928137ae8adfa1cc173177540d1da9b3c2f27.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/6c17d70001575e17d32838d67a6928137ae8adfa1cc173177540d1da9b3c2f27.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/464a2076fd16123a352bda14aed65eed68889858df914875e017bdf36c0bd72f.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/464a2076fd16123a352bda14aed65eed68889858df914875e017bdf36c0bd72f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7ce4a9e8830cd51516dd840ebc53bb2cb59eadfd360a99629a3ac147d986301d.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7ce4a9e8830cd51516dd840ebc53bb2cb59eadfd360a99629a3ac147d986301d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5cccfcbf907ddee78d25b83e5a24bcd94fdbd51fc5aa0c95ba33daba9fcc5df1.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5cccfcbf907ddee78d25b83e5a24bcd94fdbd51fc5aa0c95ba33daba9fcc5df1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a61da7223156c75a93cf981c4c385f48e1252b0e5be07fe125cdbda53289bcae.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a61da7223156c75a93cf981c4c385f48e1252b0e5be07fe125cdbda53289bcae.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/dcf62c5a2e10f95979a3efd9582371349bfaf24300f0a99f5e0d4df42975bece.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/dcf62c5a2e10f95979a3efd9582371349bfaf24300f0a99f5e0d4df42975bece.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1316ba2b1fededc106d741f288e42deb16eda089ea9dfafef7e0765a028e08af.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1316ba2b1fededc106d741f288e42deb16eda089ea9dfafef7e0765a028e08af.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/57796f4511d92400eb94929a4c0b2ed482793716950aa4b742e4614299ccd30b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/57796f4511d92400eb94929a4c0b2ed482793716950aa4b742e4614299ccd30b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1fdd1cfa4277f7b5eb23593aa0faf9b7e8edbd1fd0483ab773bae32699e622b5.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1fdd1cfa4277f7b5eb23593aa0faf9b7e8edbd1fd0483ab773bae32699e622b5.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ec2583ff35d262f1a4e3fab6b60169f4792ed314196dc4415a5efe6ed57a1ee9.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ec2583ff35d262f1a4e3fab6b60169f4792ed314196dc4415a5efe6ed57a1ee9.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5408e8ceb12a126360c4ddb412b5c03ca7d4b04802b152084ad974f2b84f15f6.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5408e8ceb12a126360c4ddb412b5c03ca7d4b04802b152084ad974f2b84f15f6.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/6fe484afd79b6f0e761cdf045a0de1996dad03027d0fecbefa2c05b92eaf5b3b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/6fe484afd79b6f0e761cdf045a0de1996dad03027d0fecbefa2c05b92eaf5b3b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d48cce8d76835d51935ef33f891192c37c4d8bcd42ef06498aecb441cdc2c1b6.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d48cce8d76835d51935ef33f891192c37c4d8bcd42ef06498aecb441cdc2c1b6.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/348e6a006551f4fd006406ab63d5bf88e7eedea017a3db1c4dcd3a573dd7722f.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/348e6a006551f4fd006406ab63d5bf88e7eedea017a3db1c4dcd3a573dd7722f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/255116f1b8a16c730f70ba3c9b35d6cad2ea1db513f6af37a3ee3e71140dc908.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/255116f1b8a16c730f70ba3c9b35d6cad2ea1db513f6af37a3ee3e71140dc908.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/cd4165bc0e6c7b878805ec512e9b8d5a4e593cbd34df0dfbdbfcdb5c76d90a12.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/cd4165bc0e6c7b878805ec512e9b8d5a4e593cbd34df0dfbdbfcdb5c76d90a12.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/90fdef2b503d51aa933960584dc67cbc0d0e04026519cd92e79916a0d97a443b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/90fdef2b503d51aa933960584dc67cbc0d0e04026519cd92e79916a0d97a443b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c84039f2b7ca91eb06b2a98b110ab3b82a2b796ab350d306e0f44056e081b0e3.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c84039f2b7ca91eb06b2a98b110ab3b82a2b796ab350d306e0f44056e081b0e3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eeadf15b88e8454adc001e3d05feec0a953f16ad27dcb191df451bfabe14cb32.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eeadf15b88e8454adc001e3d05feec0a953f16ad27dcb191df451bfabe14cb32.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3239e56b67cd3d230bd8d98bf043d96acb7d50992bcd39f4ee58c517cbcdf390.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3239e56b67cd3d230bd8d98bf043d96acb7d50992bcd39f4ee58c517cbcdf390.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/810140654e13d72fbd80b191f6370b98c21f0dc4ecc3cee6d1d3f1c0d5545532.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/810140654e13d72fbd80b191f6370b98c21f0dc4ecc3cee6d1d3f1c0d5545532.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a35efa6a1824f41d1f15a5909b14dd5953bbda83552db3e77c65b988fdbfc823.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a35efa6a1824f41d1f15a5909b14dd5953bbda83552db3e77c65b988fdbfc823.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0fa6a7d9cba298c36865d2879347d479c49320441c27535fc3568e42abd4ab7.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0fa6a7d9cba298c36865d2879347d479c49320441c27535fc3568e42abd4ab7.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ef6b31ab63a90b30397a7748503dd651622b81ed6425559bf3dcafe4077beac2.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ef6b31ab63a90b30397a7748503dd651622b81ed6425559bf3dcafe4077beac2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/32d589d164de98b9a7def0ac35358dfe1ac7fde52e22774e209cdee2164b4347.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/32d589d164de98b9a7def0ac35358dfe1ac7fde52e22774e209cdee2164b4347.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/604d873aa67a2daab3000eaafc805855874723869207391d06cfa25e96f587ad.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/604d873aa67a2daab3000eaafc805855874723869207391d06cfa25e96f587ad.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/df6729210674f166368a799449bfafca07c1abac4608ac3bf42171a4fcaaf6d8.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/df6729210674f166368a799449bfafca07c1abac4608ac3bf42171a4fcaaf6d8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a95eec0debd8cf6cd58eaa6402e7002ac0e5bbaf64db50181d48b950979642d5.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a95eec0debd8cf6cd58eaa6402e7002ac0e5bbaf64db50181d48b950979642d5.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/57a5a67e563adabb717784fff780cb907b3d0bbf6d8f8abd8644d15a265bc480.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/57a5a67e563adabb717784fff780cb907b3d0bbf6d8f8abd8644d15a265bc480.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/dd31b17020425a1bd73cff1560ed5f57bb47a988ff1c48b6641c1bcd57f974a1.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/dd31b17020425a1bd73cff1560ed5f57bb47a988ff1c48b6641c1bcd57f974a1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5906734d6934a61eadca7359926d977c57029574f78ada4ca5c87ae5252ecf85.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5906734d6934a61eadca7359926d977c57029574f78ada4ca5c87ae5252ecf85.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eba781634399dfb08f90ee8113b7cd02a21bd1dc703df7556685004674a1fd52.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eba781634399dfb08f90ee8113b7cd02a21bd1dc703df7556685004674a1fd52.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/059a1aeaff6485938a220b0b15bedd74e40b8b49e6f4dedd3b92156bfe66438d.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/059a1aeaff6485938a220b0b15bedd74e40b8b49e6f4dedd3b92156bfe66438d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ee6a81309d630ff1f0e6218f27d4ff451f1e39edd055af58baf1673b1d6147fc.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ee6a81309d630ff1f0e6218f27d4ff451f1e39edd055af58baf1673b1d6147fc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1b8506302ca59886129745266c93c458aa0e9d1430a83160f35ddeaeffbb8b49.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1b8506302ca59886129745266c93c458aa0e9d1430a83160f35ddeaeffbb8b49.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ab45eaa2746b58d936d2bed0e543ff6148b3c3de67b0c10ef791c59cb38ca8c7.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ab45eaa2746b58d936d2bed0e543ff6148b3c3de67b0c10ef791c59cb38ca8c7.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fed001f57cc81f8785ed8401aed000f198e5069f4b3ec3bf3c2082498e5e72f3.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fed001f57cc81f8785ed8401aed000f198e5069f4b3ec3bf3c2082498e5e72f3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eb6f3983b68939a662fd99e6bc75d22f5fbbccad1224b57f7c0568df1319ffd7.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eb6f3983b68939a662fd99e6bc75d22f5fbbccad1224b57f7c0568df1319ffd7.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a6384fb3afdc91507bf180d52125387de247cbc82e8377aa3bc92f6e8a36ca8a.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a6384fb3afdc91507bf180d52125387de247cbc82e8377aa3bc92f6e8a36ca8a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5b3dcc33f9cc87cbe5180bde0b5ff044bddde88a2057407e6c345079104719d7.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5b3dcc33f9cc87cbe5180bde0b5ff044bddde88a2057407e6c345079104719d7.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/156759828113a8d4b2125cac634f919888f4432d35f681adec89f541b8916e02.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/156759828113a8d4b2125cac634f919888f4432d35f681adec89f541b8916e02.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ccf06d830aff57bd2a7319845fa9e6b7d258aa252ebb5acae7cd81493a6a3b93.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ccf06d830aff57bd2a7319845fa9e6b7d258aa252ebb5acae7cd81493a6a3b93.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9e9fca74ac41284e16774ae2444418542f6bec927b9a320fddecd02329237041.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9e9fca74ac41284e16774ae2444418542f6bec927b9a320fddecd02329237041.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/97591ed669c4c39d506ec093c556d5ea77959181197366d1764c1b555debdea4.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/97591ed669c4c39d506ec093c556d5ea77959181197366d1764c1b555debdea4.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8b795bd42478e77d18535c4923d5854f4c4db0e7420d0d17be0a7c1cf49893a1.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8b795bd42478e77d18535c4923d5854f4c4db0e7420d0d17be0a7c1cf49893a1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2cd4345474d15f5da95ac13a812f5a90eecf66e00add0389dc7ba3f40bd3a81c.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2cd4345474d15f5da95ac13a812f5a90eecf66e00add0389dc7ba3f40bd3a81c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c5f20c27619f58cfec378bba9c2a48a0deee7b930e1caffc94f03e2e89c81d68.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c5f20c27619f58cfec378bba9c2a48a0deee7b930e1caffc94f03e2e89c81d68.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ebdf69852759df125ff6811f050bc386ba2d6f8a5ef87b5724366bef78cd0e65.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ebdf69852759df125ff6811f050bc386ba2d6f8a5ef87b5724366bef78cd0e65.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/28f58714202399272e8134ab782347c9b7386ff2d95e72fc22e63ac4ff3617fe.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/28f58714202399272e8134ab782347c9b7386ff2d95e72fc22e63ac4ff3617fe.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f11fa660108ca59587ac5d38808178306e8b302f5541d7065557e3ccf2ebf21d.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f11fa660108ca59587ac5d38808178306e8b302f5541d7065557e3ccf2ebf21d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/de27be2fe451b690e83cf9c79d8b25b9b379035c6fa766bec81aa9d766b07a92.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/de27be2fe451b690e83cf9c79d8b25b9b379035c6fa766bec81aa9d766b07a92.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e33e7e2fb7030c23568fb07a87f9c9e8a1873cf094e265bdac67a04b0dd77e31.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e33e7e2fb7030c23568fb07a87f9c9e8a1873cf094e265bdac67a04b0dd77e31.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/188cbda341737c67c990a51a22200a04411011d57460abb29764c1f89193d015.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/188cbda341737c67c990a51a22200a04411011d57460abb29764c1f89193d015.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2d7bc572520ba50f0bbccff221670d4a724f174611f76f3c2dfc9e28a7e0dd50.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2d7bc572520ba50f0bbccff221670d4a724f174611f76f3c2dfc9e28a7e0dd50.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/4b34795fe95dca4ebbfcf332bd8fcb960b8b7f5a2a41b53ed586014f95923466.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/4b34795fe95dca4ebbfcf332bd8fcb960b8b7f5a2a41b53ed586014f95923466.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/61d3e2d8ffab87ba88184b5d0d77033a2169afbdce66c617bba79ea96a459619.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/61d3e2d8ffab87ba88184b5d0d77033a2169afbdce66c617bba79ea96a459619.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2f20a8af469177b675dca2354e361d67f9b8892a826027cb61a9da6b7ab8ca94.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2f20a8af469177b675dca2354e361d67f9b8892a826027cb61a9da6b7ab8ca94.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f35562ffec52f61e9acb29a3c017b4815ac62ac962ba38f0b4d4652c616ae44f.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f35562ffec52f61e9acb29a3c017b4815ac62ac962ba38f0b4d4652c616ae44f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9b567516fefa0f74a5ece91080f451bc44180e03a9b9ba88abc864e55195b91c.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9b567516fefa0f74a5ece91080f451bc44180e03a9b9ba88abc864e55195b91c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9457f6e779231ddeafce8d08203a1fdc0db1e6893cacca8b6eb89b9fc922f8dc.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9457f6e779231ddeafce8d08203a1fdc0db1e6893cacca8b6eb89b9fc922f8dc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9a22fce9df33f48247adcabe2aedd31eefb23873645ed190f0b80481cbfc8dfc.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9a22fce9df33f48247adcabe2aedd31eefb23873645ed190f0b80481cbfc8dfc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/89e217938317bc91671900082cf9890b4d1c37956c2074228fa1dde23e2c6614.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/89e217938317bc91671900082cf9890b4d1c37956c2074228fa1dde23e2c6614.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/36d88fbb4f9809ddd7a726e219a61b18b5e066a5d7ee9cd672dd5e0107bcb023.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/36d88fbb4f9809ddd7a726e219a61b18b5e066a5d7ee9cd672dd5e0107bcb023.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/002ea303db5f8fdfbe9baca4104b9ae6e7b34820f3d4f9a2114396aefb98507b.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/002ea303db5f8fdfbe9baca4104b9ae6e7b34820f3d4f9a2114396aefb98507b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/045a4f2fceaa569faf4774c534ebd03a6f438f0481e45e10598b6784e630886f.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/045a4f2fceaa569faf4774c534ebd03a6f438f0481e45e10598b6784e630886f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9485e7f771457faae4e4405ee090d165aed98febcbf818eb93d110a5a7d9b8b8.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9485e7f771457faae4e4405ee090d165aed98febcbf818eb93d110a5a7d9b8b8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/bdcc6bb577f9d39cbf5cede505db11986c041d034c12a6d95e7af965b8fd2597.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/bdcc6bb577f9d39cbf5cede505db11986c041d034c12a6d95e7af965b8fd2597.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c64b0d03f372da0dfd965def525f5d35b5575d02ba4aeee19791c8d059e3c395.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c64b0d03f372da0dfd965def525f5d35b5575d02ba4aeee19791c8d059e3c395.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/80ff5a488d770987f27becd1b7d9b7b31ce7654a0032232a76b2792e43e46341.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/80ff5a488d770987f27becd1b7d9b7b31ce7654a0032232a76b2792e43e46341.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8b27a0e95d45bbcb0b1934472f9ba6ef022ad13edccd334781610348d44b2c23.0",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8b27a0e95d45bbcb0b1934472f9ba6ef022ad13edccd334781610348d44b2c23.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/25a7f8b92da580ce954f64ef939a82991d0c79d0b9e000cf141b9def5c2e01ac.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/25a7f8b92da580ce954f64ef939a82991d0c79d0b9e000cf141b9def5c2e01ac.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1f18b9fdee87bfb2afef59f61d0580e2b3b5155d11086488ed01c08e6b7de5cd.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1f18b9fdee87bfb2afef59f61d0580e2b3b5155d11086488ed01c08e6b7de5cd.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/84b4fd2ddc40fb30c0b0ff1dd6cf8065c2b4869ec396e9c1ccf11d8ce4fd3071.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/84b4fd2ddc40fb30c0b0ff1dd6cf8065c2b4869ec396e9c1ccf11d8ce4fd3071.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f1c2977a64e3ca038109332194e286d437d8bef089aef418086ea9f0ca5614d4.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f1c2977a64e3ca038109332194e286d437d8bef089aef418086ea9f0ca5614d4.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/805f4e04256a2b366f5ddad320673e12901861ba664e1ee5ced489e72c3b4456.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/805f4e04256a2b366f5ddad320673e12901861ba664e1ee5ced489e72c3b4456.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3cc7b0a723cecab1e1fb07e4a15e737700e2affff96f98814525c8c8e1b873d9.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3cc7b0a723cecab1e1fb07e4a15e737700e2affff96f98814525c8c8e1b873d9.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f92a76c45b5aa00f6121977f1d0ff2f715132f6ac6955fd571e67111129a1c49.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f92a76c45b5aa00f6121977f1d0ff2f715132f6ac6955fd571e67111129a1c49.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/4753e5f260793b4af9a4a3f5635bdd578de7bfb9e6edf568f7beb34cdd938170.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/4753e5f260793b4af9a4a3f5635bdd578de7bfb9e6edf568f7beb34cdd938170.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/85c037670d3aa7cbe6bbae52d41384334aab3054322241ef2e393c167dc7f3e8.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/85c037670d3aa7cbe6bbae52d41384334aab3054322241ef2e393c167dc7f3e8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f71612f0e670be355b11f786be73f0f7cf77f91ed32a4446a710872909ba5a8a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f71612f0e670be355b11f786be73f0f7cf77f91ed32a4446a710872909ba5a8a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/84280ba71c2840309b8505f3eb58813ff38cc611e407714487a51e595734b996.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/84280ba71c2840309b8505f3eb58813ff38cc611e407714487a51e595734b996.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2ac088a19fb5191d5389aae5a4d890717e29db4dbc09cae935fbaaebd212e675.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2ac088a19fb5191d5389aae5a4d890717e29db4dbc09cae935fbaaebd212e675.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/13d3a67882cff21859c02228b66eebe1acf5a3f2538a66f4ea2ec95a02cafd77.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/13d3a67882cff21859c02228b66eebe1acf5a3f2538a66f4ea2ec95a02cafd77.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/124ad2599515a9b6a6fd4ab56340c86ab026702a83892e350ac9591bc04703d9.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/124ad2599515a9b6a6fd4ab56340c86ab026702a83892e350ac9591bc04703d9.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/67dea88a6b7e87b75f23cf146a865e9d0dd666c9e1b0b6e32703e1e32a167ffc.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/67dea88a6b7e87b75f23cf146a865e9d0dd666c9e1b0b6e32703e1e32a167ffc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0c9015f906075afece3a124713d065fbb51de62bd594f8fbe19e2422dbf79d1.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0c9015f906075afece3a124713d065fbb51de62bd594f8fbe19e2422dbf79d1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2aa5df340da62472cee25bb52c0b57a23670bc981b5d6810a65bb77231f83bc8.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2aa5df340da62472cee25bb52c0b57a23670bc981b5d6810a65bb77231f83bc8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fc29c6671082afff863dceaf3e02193239f85b83200a86b220eaf77b50bc1028.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fc29c6671082afff863dceaf3e02193239f85b83200a86b220eaf77b50bc1028.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/07dfc4d20d417bc199f6f72f306a3d7b96564443d081ee83b10f23ed0910eadd.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/07dfc4d20d417bc199f6f72f306a3d7b96564443d081ee83b10f23ed0910eadd.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0a25e3a6402bc8f3382a794386df22ed395db965296676d99821363499d32ad.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a0a25e3a6402bc8f3382a794386df22ed395db965296676d99821363499d32ad.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fea406d5fd77d92cd16776b256e4ca8d2e5c5cf9be2fcc410090caae338c2eda.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fea406d5fd77d92cd16776b256e4ca8d2e5c5cf9be2fcc410090caae338c2eda.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d02286e00b1d7d11494487847a49554a26448aac8bb0313d1efeae8432278ada.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d02286e00b1d7d11494487847a49554a26448aac8bb0313d1efeae8432278ada.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/153e36a792838ec34544ab504beaa9d3a092118353835af24550d84a19afd1fc.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/153e36a792838ec34544ab504beaa9d3a092118353835af24550d84a19afd1fc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/bca976b3fb00cbff4c29ab2f6dea16ad6240f3b556ca4f7c5acf3e1a8ddb11ca.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/bca976b3fb00cbff4c29ab2f6dea16ad6240f3b556ca4f7c5acf3e1a8ddb11ca.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1c3d6b1e7fc56d6c197d232e109837d8836669f6e5424724a7cd1283e61d4e91.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1c3d6b1e7fc56d6c197d232e109837d8836669f6e5424724a7cd1283e61d4e91.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/abecc71bc7ea0419166458eef5ca56a71224b7908980ca771ba117da02163c0b.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/abecc71bc7ea0419166458eef5ca56a71224b7908980ca771ba117da02163c0b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/48188b2494aa2f40160cbc2e48f09f84fa6db73f372685861de4e5640fdb9ba1.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/48188b2494aa2f40160cbc2e48f09f84fa6db73f372685861de4e5640fdb9ba1.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5f61fe8490f1a56a2fd60f4012b978f978ce5a1b43e087aedfc657dd81667ed3.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5f61fe8490f1a56a2fd60f4012b978f978ce5a1b43e087aedfc657dd81667ed3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eb315338a1db84a64c4f5e62cd9298658c3fba87b3e10eb7ae71ba86ce3e83a0.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/eb315338a1db84a64c4f5e62cd9298658c3fba87b3e10eb7ae71ba86ce3e83a0.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f79b677f5b239d682c37ec6622605cc83d6dfa88e8957a670c82b24daa7441c2.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f79b677f5b239d682c37ec6622605cc83d6dfa88e8957a670c82b24daa7441c2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8575a102f90d84cbcc1f8c07c6120c67e30764ee88b9efcbe523d8b5d60314ef.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/8575a102f90d84cbcc1f8c07c6120c67e30764ee88b9efcbe523d8b5d60314ef.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2a92a7fcaf797fe9aa9b86d91d0b6f6aec85784779b48c8f7c9b6a0c515c7469.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2a92a7fcaf797fe9aa9b86d91d0b6f6aec85784779b48c8f7c9b6a0c515c7469.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/807f239dbd06677bfb95b5c98765c639bba0ebbf05137d6795445cd6f80f4311.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/807f239dbd06677bfb95b5c98765c639bba0ebbf05137d6795445cd6f80f4311.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1773c5e6ca1e7d4f800833e804781b37023f3d0cc880c046526bf5babd64761a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1773c5e6ca1e7d4f800833e804781b37023f3d0cc880c046526bf5babd64761a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e29a8a8662fa664fd3b044c563055d0ad8f3b0ca3e01c5b279a47b66060ec499.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/e29a8a8662fa664fd3b044c563055d0ad8f3b0ca3e01c5b279a47b66060ec499.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/89a0e5f161c064781dc74919dad11a566609f4e40be5b65b25f271ec23f0ab51.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/89a0e5f161c064781dc74919dad11a566609f4e40be5b65b25f271ec23f0ab51.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9627d51489a869f918f48e2a835212a8209f64b2defa7243ea76ada76d7071f6.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/9627d51489a869f918f48e2a835212a8209f64b2defa7243ea76ada76d7071f6.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7d575311555c8ba9f2f25a9905f13951753f66c1a548754326d98248a0776746.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/7d575311555c8ba9f2f25a9905f13951753f66c1a548754326d98248a0776746.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1417dad48bf7187043a2d0c27f47f0f66dfbec9f473b18fae70b37dda6e6c3cd.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/1417dad48bf7187043a2d0c27f47f0f66dfbec9f473b18fae70b37dda6e6c3cd.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/0eabc8d8a6fdb404286d4dfd70aac1557620d9f1613671a7a6970e63449403c3.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/0eabc8d8a6fdb404286d4dfd70aac1557620d9f1613671a7a6970e63449403c3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c79fb1377c346bcfa1f39fda3efa16af4d4f45ed5d82c1c089f970b80b02772f.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c79fb1377c346bcfa1f39fda3efa16af4d4f45ed5d82c1c089f970b80b02772f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3d17ad23f2f7008686844d5293e918b437b200a1e5f5629123dac8d1b98bbe5d.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/3d17ad23f2f7008686844d5293e918b437b200a1e5f5629123dac8d1b98bbe5d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c916028eb8fa6e5281f46e022d5af4a885370fd0e59664ea984a25eb4fc8226a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/c916028eb8fa6e5281f46e022d5af4a885370fd0e59664ea984a25eb4fc8226a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/93c134e20319edd463b5252819165129bbd47fb72d12f9f5c5c46556a8e5b2c7.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/93c134e20319edd463b5252819165129bbd47fb72d12f9f5c5c46556a8e5b2c7.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/47e6003c3f6c641117cc6f5d7e92a1f7c7a31dc0925b411b9ce18678d7872914.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/47e6003c3f6c641117cc6f5d7e92a1f7c7a31dc0925b411b9ce18678d7872914.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d76f6697d254123ec7094748fb31fb2b303a85f9dba2778da58123be00958926.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d76f6697d254123ec7094748fb31fb2b303a85f9dba2778da58123be00958926.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a9f2fd727099ec329cf52e0560b1f3541d83cac86f3a14ae483d33ba33f4da07.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/a9f2fd727099ec329cf52e0560b1f3541d83cac86f3a14ae483d33ba33f4da07.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_cache/v2.ols100.1/68/i19BVKuspjqfVfGWTNJwfqqDO4I.cnt",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libnative-filters.so",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/faf797678c06c13063907831a608a9f9646002e3911d16aa98775e011da93804.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/faf797678c06c13063907831a608a9f9646002e3911d16aa98775e011da93804.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/b688720bdd4d523c6f0c2e7d25c41594fdcaae4c52770174eaa06f7f3965e74b.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/b688720bdd4d523c6f0c2e7d25c41594fdcaae4c52770174eaa06f7f3965e74b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f7b7c02ec49007cc4b39a5c6e50b0faf0a57520d4e2fe876953f82003540db72.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/f7b7c02ec49007cc4b39a5c6e50b0faf0a57520d4e2fe876953f82003540db72.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/879e56a9c18f8b4c0f373a6059e98856690519dafdc815e8d0968196bb9bdd35.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/879e56a9c18f8b4c0f373a6059e98856690519dafdc815e8d0968196bb9bdd35.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ffa9de16060635a187c9292fae237acc437eb84a4e30c0990c6df03ddfb37158.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/ffa9de16060635a187c9292fae237acc437eb84a4e30c0990c6df03ddfb37158.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/26fecf73a33872e4805d8ceeeaf36ba4.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/26fecf73a33872e4805d8ceeeaf36ba4.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/15c98f916b4645d35346c68a319a143fe5027deeff66017d0c8d6a5d60a32c0d.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/15c98f916b4645d35346c68a319a143fe5027deeff66017d0c8d6a5d60a32c0d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/26fecf73a33872e4805d8ceeeaf36ba4.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/26fecf73a33872e4805d8ceeeaf36ba4.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7442beb6d13a35701e43922a57492a85.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7442beb6d13a35701e43922a57492a85.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5822b2bedce5c195820233000552800638d0d1d7f86ea4c259364eac30c15c5c.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/5822b2bedce5c195820233000552800638d0d1d7f86ea4c259364eac30c15c5c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7442beb6d13a35701e43922a57492a85.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7442beb6d13a35701e43922a57492a85.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/014dfcacf9faa4c157da9685de303a955d307d2ce51d2eae0f970dfe04041401.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/014dfcacf9faa4c157da9685de303a955d307d2ce51d2eae0f970dfe04041401.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fb825a27d9385b196600519b583ee113f889edd313efe3a57d996a5bb3d37e4d.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/fb825a27d9385b196600519b583ee113f889edd313efe3a57d996a5bb3d37e4d.0.tmp",file
+"/data/user/0/com.yangpark.connecting/lib-main/dso_state",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2b6fbb94391c3eb6988785119a43eb4c2f7579cda408ea3c1ce9c329e8964f0e.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/2b6fbb94391c3eb6988785119a43eb4c2f7579cda408ea3c1ce9c329e8964f0e.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d809e1eae35d342b46972bda51bc39799c2db1735a3e974298fb5906db605d7a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/d809e1eae35d342b46972bda51bc39799c2db1735a3e974298fb5906db605d7a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/81e002838ee7ba1378600a8b40e960473b9d305f67eb67883b49202f36fbc145.0",directory
+"/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/81e002838ee7ba1378600a8b40e960473b9d305f67eb67883b49202f36fbc145.0.tmp",file
+"/data/user/0/com.yangpark.connecting/lib-main/dso_deps",directory
+"/data/user/0/com.yangpark.connecting/lib-main/libnative-filters.so",file
+"/data/data/com.yangpark.connecting/lib-main/libnative-filters.so",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b079131a96685c04c03a035b1d007d2a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b079131a96685c04c03a035b1d007d2a.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/67218562f1f24a328d56b15a636a41e8.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/67218562f1f24a328d56b15a636a41e8.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7419eb81080f02531bacf22fa2ac48.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7419eb81080f02531bacf22fa2ac48.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f0b45ed95a120de679b2201cc01befd2.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f0b45ed95a120de679b2201cc01befd2.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e7ec75744416e5526f91d822668eeb0f.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e7ec75744416e5526f91d822668eeb0f.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b079131a96685c04c03a035b1d007d2a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b079131a96685c04c03a035b1d007d2a.1.tmp",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/NRCrashStore.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/NRCrashStore.xml.bak",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8bb9a1d22b89e401783c08852f5100af.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8bb9a1d22b89e401783c08852f5100af.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f0b45ed95a120de679b2201cc01befd2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/f0b45ed95a120de679b2201cc01befd2.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/instrument",directory
+"/data/user/0/com.yangpark.connecting/cache/instrument/crash_log_1765767700.json",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/05a4c8ecb2b03934540ee9d3bd914a17.0",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/05a4c8ecb2b03934540ee9d3bd914a17.1",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e7ec75744416e5526f91d822668eeb0f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native/pending",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8bb9a1d22b89e401783c08852f5100af.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e7ec75744416e5526f91d822668eeb0f.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8bb9a1d22b89e401783c08852f5100af.1.tmp",file
+"/data/data/com.yangpark.connecting/files/datastore/firebaseSessions/sessionDataStore.data.lock",directory
+"/data/data/com.yangpark.connecting/files/datastore/firebaseSessions/sessionDataStore.data.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7419eb81080f02531bacf22fa2ac48.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/05a4c8ecb2b03934540ee9d3bd914a17.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7419eb81080f02531bacf22fa2ac48.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/67218562f1f24a328d56b15a636a41e8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/05a4c8ecb2b03934540ee9d3bd914a17.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/67218562f1f24a328d56b15a636a41e8.1.tmp",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767700635",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/aqs.65842eae62cc4ed9951ba3aa1b2adc4f",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/aqs.44c35c3d832442809be252cf6c344123",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F7A06015800010DDF84B5CDFA2681",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A06015800010DDF84B5CDFA2681/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/aqs.65842eae62cc4ed9951ba3aa1b2adc4f",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1403E200020DDF84B5CDFA2681/start-time",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7780fe35154fdc47946b0d3520a6683a.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7780fe35154fdc47946b0d3520a6683a.1",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/user-data",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b67eb9449a2ca575053cf317df83aa2c.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b67eb9449a2ca575053cf317df83aa2c.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b67eb9449a2ca575053cf317df83aa2c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b67eb9449a2ca575053cf317df83aa2c.1.tmp",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/keys",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/349caec281569b3e405ae580c2b93f75.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/349caec281569b3e405ae580c2b93f75.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7b7dd72ba0e4344acda2f99305f42b.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7b7dd72ba0e4344acda2f99305f42b.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7780fe35154fdc47946b0d3520a6683a.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7780fe35154fdc47946b0d3520a6683a.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/349caec281569b3e405ae580c2b93f75.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/349caec281569b3e405ae580c2b93f75.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7b7dd72ba0e4344acda2f99305f42b.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/dd7b7dd72ba0e4344acda2f99305f42b.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/43c5e5e9fa5409c743102717c0084adf.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/43c5e5e9fa5409c743102717c0084adf.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/63b077eaaa9dbe23af53b6e4bb30a66e.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/63b077eaaa9dbe23af53b6e4bb30a66e.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/43c5e5e9fa5409c743102717c0084adf.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/43c5e5e9fa5409c743102717c0084adf.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/03b74055de19f88695e194595a6c85c2.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/03b74055de19f88695e194595a6c85c2.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/63b077eaaa9dbe23af53b6e4bb30a66e.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/63b077eaaa9dbe23af53b6e4bb30a66e.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/03b74055de19f88695e194595a6c85c2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/03b74055de19f88695e194595a6c85c2.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9b1583badfb0d61862f6b0624f6a2016.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9b1583badfb0d61862f6b0624f6a2016.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9b1583badfb0d61862f6b0624f6a2016.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/9b1583badfb0d61862f6b0624f6a2016.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo",directory
+"/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo/sessionMeta.map",directory
+"/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo/aeitrace",directory
+"/data/user/0/com.yangpark.connecting/files/AFRequestCache",directory
+"/data/user/0/com.yangpark.connecting/shared_prefs/appsflyer-data.xml",file
+"/data/user/0/com.yangpark.connecting/shared_prefs/appsflyer-data.xml.bak",file
+"/data/user/0/com.yangpark.connecting/files/AFRequestCache/OtherCache",directory
+"/data/user/0/com.yangpark.connecting/files/AFRequestCache/OtherCache/1765767723433",directory
+"/data/user/0/com.yangpark.connecting/files/AFRequestCache/ConversionsCache",directory
+"/data/user/0/com.yangpark.connecting/files/AFRequestCache/AttrCache",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8283146180fa1663174f6908b1fb74b2.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8283146180fa1663174f6908b1fb74b2.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e64b50f3306a6cec5e0d7cdc76aca761.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e64b50f3306a6cec5e0d7cdc76aca761.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8414535b49aaf657030fac991cc78e28.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8414535b49aaf657030fac991cc78e28.1",directory
+"/data/user/0/com.yangpark.connecting/cache/image_cache",directory
+"/data/user/0/com.yangpark.connecting/cache/image_cache/v2.ols100.1",directory
+"/data/user/0/com.yangpark.connecting/cache/image_cache/v2.ols100.1/82/RuPmZUEas6p-cagJkkc0uSzEGns.cnt",directory
+"/data/user/0/com.yangpark.connecting/files/CodePush/codepush.json",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libnative-imagetranscoder.so",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e64b50f3306a6cec5e0d7cdc76aca761.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8414535b49aaf657030fac991cc78e28.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/e64b50f3306a6cec5e0d7cdc76aca761.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8283146180fa1663174f6908b1fb74b2.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8414535b49aaf657030fac991cc78e28.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8283146180fa1663174f6908b1fb74b2.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/faec0b566d8dbcaab77269ba061fd65c.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/faec0b566d8dbcaab77269ba061fd65c.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d525cc9cbf180b41e48fd62beaf648d8.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d525cc9cbf180b41e48fd62beaf648d8.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/929eccfce195b823f00199c66e6fc3bc.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/929eccfce195b823f00199c66e6fc3bc.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8aedbfeb1105eeab368f802459b26d63.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8aedbfeb1105eeab368f802459b26d63.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/c5bfc6464c5b7efb91a0b067125ffca3.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/c5bfc6464c5b7efb91a0b067125ffca3.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/741eb7d9417d2dfb549c6b6dc01c759c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/741eb7d9417d2dfb549c6b6dc01c759c.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8aedbfeb1105eeab368f802459b26d63.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/929eccfce195b823f00199c66e6fc3bc.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/8aedbfeb1105eeab368f802459b26d63.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/929eccfce195b823f00199c66e6fc3bc.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7761cddad7cf9b0c516a97a1d986c9b8.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7761cddad7cf9b0c516a97a1d986c9b8.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/99c23cb387dd4b2a3be39d3a465cc6cf.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/99c23cb387dd4b2a3be39d3a465cc6cf.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/c5bfc6464c5b7efb91a0b067125ffca3.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/c5bfc6464c5b7efb91a0b067125ffca3.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/cc3e2aa4930679455065a23a44ed8a4f.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/cc3e2aa4930679455065a23a44ed8a4f.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/1a2b63e4aa35be33ef239dbe64ecbf54.0",directory
+"/data/user/0/com.yangpark.connecting/lib-main/libnative-imagetranscoder.so",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/1a2b63e4aa35be33ef239dbe64ecbf54.1",directory
+"/data/data/com.yangpark.connecting/lib-main/libnative-imagetranscoder.so",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/99c23cb387dd4b2a3be39d3a465cc6cf.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/99c23cb387dd4b2a3be39d3a465cc6cf.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/faec0b566d8dbcaab77269ba061fd65c.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/faec0b566d8dbcaab77269ba061fd65c.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/journal.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/journal.bkp",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/journal",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/1a2b63e4aa35be33ef239dbe64ecbf54.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7761cddad7cf9b0c516a97a1d986c9b8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/files/nr_offline_storage",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d525cc9cbf180b41e48fd62beaf648d8.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/cc3e2aa4930679455065a23a44ed8a4f.0.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/1a2b63e4aa35be33ef239dbe64ecbf54.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/7761cddad7cf9b0c516a97a1d986c9b8.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/d525cc9cbf180b41e48fd62beaf648d8.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/2f37be057ff70847dad490100f2b9486.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/2f37be057ff70847dad490100f2b9486.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/cc3e2aa4930679455065a23a44ed8a4f.1.tmp",file
+"/data/user/0/com.yangpark.connecting/cache/http-cache/10e72813cc55881bf8c730372b8e12d1.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/10e72813cc55881bf8c730372b8e12d1.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b44f0efc75fef21450ba0b300e74739d.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/b44f0efc75fef21450ba0b300e74739d.1",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/22662a902198487d049d966c3dea7096.0",directory
+"/data/user/0/com.yangpark.connecting/cache/http-cache/22662a902198487d049d966c3dea7096.1",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/aqs.4ce1242b44724e458d53ba7d104c7b43",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/aqs.65842eae62cc4ed9951ba3aa1b2adc4f",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/aqs.4ce1242b44724e458d53ba7d104c7b43",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A1A032600011508A3092877A0CF/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767824261",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A8F02DF00011EECA6BC535A4DC6/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F7A8F02DF00011EECA6BC535A4DC6",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6/aqs.4ce1242b44724e458d53ba7d104c7b43",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A9001AC00021EECA6BC535A4DC6/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/aqs.d0373ce2dd3d4e6b8f7307cb14aed9ea",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/aqs.d0373ce2dd3d4e6b8f7307cb14aed9ea",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/aqs.4ce1242b44724e458d53ba7d104c7b43",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7A93028100011F81C880669EFAFE/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767943015",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B06026D000121EEFB8D1993CABA/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F7B06026D000121EEFB8D1993CABA",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7B0700EE000221EEFB8D1993CABA/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/aqs.3010b2e5f2d641a8933edb9221560670",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/aqs.3010b2e5f2d641a8933edb9221560670",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F77E2028100016478B485116E7957/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767285739",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F787500FF00016810079B2D64E3F8/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F787500FF00016810079B2D64E3F8",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8/aqs.3010b2e5f2d641a8933edb9221560670",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7875034D00026810079B2D64E3F8/start-time",directory
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libimagepipeline.so",file
+"/data/app/com.yangpark.connecting-VYEzWImeNEGy_K4BTbj-0g==/lib/arm64/libreanimated.so",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/pending/4b2ed1fc-392a-4aeb-8de4-caf399692d71.meta",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/pending/4b2ed1fc-392a-4aeb-8de4-caf399692d71.dmp",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/settings.dat",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/new",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/completed",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/attachments",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/supp.device_info",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767359000",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/rollouts-state",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/logs",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/metadata",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/session",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/app",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/device",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/os",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/minidump",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/user",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/native/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/aqs.3010b2e5f2d641a8933edb9221560670",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/native-reports/693F7879021D00016EC5DA241295FA60",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F7879021D00016EC5DA241295FA60/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767371565",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB00A4000175B0036310D7E505/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F78CB00A4000175B0036310D7E505",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78CB033B000275B0036310D7E505/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767388491",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC002D0001769E99E3B48F47C2/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F78DC002D0001769E99E3B48F47C2",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78DC02990002769E99E3B48F47C2/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/aqs.be87fbe4be844b1da4c7fa86effce404",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/aqs.741ecdf3edf64a2fab63ad76cf339648",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/internal-keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/keys",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/aqs.be87fbe4be844b1da4c7fa86effce404",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/start-time",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native/device.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native/session.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native/app.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F78EF00830001796157AA000849DC/native/os.json",file
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/native/pending",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/event0000000000_",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767578279",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799902A100017EB067F592622AD5/user-data",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/693F799902A100017EB067F592622AD5",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5/native",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5/userlog",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5/aqs.be87fbe4be844b1da4c7fa86effce404",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5/report",directory
+"/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/693F799A01B200027EB067F592622AD5/start-time",directory

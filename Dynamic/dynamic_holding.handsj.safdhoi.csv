@@ -1,0 +1,988 @@
+path,type
+"/data/user/0/holding.handsj.safdhoi",directory
+"/data/user_de/0/holding.handsj.safdhoi",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/base.apk",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.arm64_v8a.apk",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.xxhdpi.apk",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/oat/arm64/base.odex",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/oat/arm64/base.vdex",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/oat/arm64/base.art",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/lib/arm64",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/base.apk!/lib/arm64-v8a",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/holding.handsj.safdhoi",directory
+"/data/misc/profiles/cur/0/holding.handsj.safdhoi/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/holding.handsj.safdhoi/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/holding.handsj.safdhoi/primary.prof",directory
+"/data/user/0/holding.handsj.safdhoi/cache",directory
+"/data/user_de/0/holding.handsj.safdhoi/code_cache",directory
+"/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.opengl.shaders_cache",directory
+"/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.skia.shaders_cache",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/language_uni_sp_file.xml",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/language_uni_sp_file.xml.bak",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_ad_type_key.xml",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_ad_type_key.xml.bak",file
+"/storage/emulated/0/Android/data/holding.handsj.safdhoi",directory
+"/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache",directory
+"/data/user/0/holding.handsj.safdhoi/files",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/manifest.json",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/androidPrivacy.json",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/pdr.xml",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/pdr.xml.bak",file
+"/storage/emulated/0/Android/data/holding.handsj.safdhoi/apps/",directory
+"/storage/emulated/0/Android/data/holding.handsj.safdhoi/sitemap/",directory
+"/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache/dcCrashDump",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/lib/arm64/libbreakpad-core.so",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/lib/arm64/libc++_shared.so",file
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/lib/arm64/libweexcore.so",file
+"/data/user/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/SafeBrowsing",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/font_unique_name_table.pb",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crash Reports",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/d0a0e216dfb0a577_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/d47aea5e0df3c171_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/d647f9a6a07f2a91_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/aacbaff84ee6dc58_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/0bd2606d6a78a59a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/b3670c05946e2a67_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/90abe815ac9bbb84_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f1ca476fef1f5717_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5a7850756ac276e1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/355c25368b9a618a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/62e787f5f1d4857b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a196ed6e8992d6f2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6a659ecdca716072_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cb87fced59dcba1a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2ca16a2ce9b69b7e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/faac5e75072b83e7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/90970d48dd5b0a9d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6b389f7069570228_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/743450efbc81855f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a7b557410534a1fc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e7ef2e9db19ed0e9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/82d8a66cff3f2b96_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/95378e81a7f7bd0a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d199b1067ee88f3e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/28aac698d15fbd8d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a36e52e982db525c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5674a0c0028ee9b6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/45919ac01f058b34_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dec069f22c5a49df_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6eda2f0e96756681_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fc7012ab2e05e325_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/de2ca4d98a9ee7ea_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ecb642151c41b6b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aeb24a47ee5c7322_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a1702afe379581f8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2091ac8a26308c7c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e181998d9f64cbb5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3863ac2a682fde84_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/324f85d384bff99a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8fb28944489b252c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0128da65d92bb117_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4d88f530adb0ff8d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d92ada23d9f90666_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b27b9c221061ad37_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a805f44f26994c7d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1bbcea9bf31b2b87_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/919f395d736d320d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd58172c279b301b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/27bbc4998617ffd5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4c589811a2ca3258_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/797fde5ae2e6d39f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c979e841f535bd46_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2839b9ed527f3988_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/18b75df994fceb07_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/373f2a9c976fc0e6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dbbfb7f5d7d408fd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cc7f16f13c8781f0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/89ba1b5c292821b3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5f808dc66dfb2b23_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b8207d878ac2e8f6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ede46d9f30b08abb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/393ccb8d0cfae0c4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3a25b517236f5dc0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f4258c542413f77b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a08c12b0c7eb69aa_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/73240dcde049c5bf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/06d7a9959c8bed36_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b623f78d0ac73a25_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9d96a8de0dd008cf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1bfc6cba5ef68693_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/da120c1b915cb482_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/97eecf59410eca49_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/552ca613d02f83a2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b8ca0d1547041f66_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/05be92aba734abdd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4de79cea4224dcf8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dcbef29abe498d25_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1a967e6ea1288702_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c2688ee6706cec9c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d48b706be3442dcf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2444120b03a2584a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/05d11429b2977b1e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c1ee272dc54825a2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/16008f6dc88eef06_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c457fc2a22e6a6f4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/70c3472625504006_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9dbf01e3e3ab49c5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6177ddfd49beffc7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/503529eb99a8a97e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4b491e3d1ea4ff30_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32d13a544348d654_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/34428d2327b281fb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cfd4c22fbaf4c611_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/338014b5ba72634e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cff6819e72a00630_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3222c3cdfaea5377_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9053ec18e3d9185d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2f90b990c5d31116_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/234af762ea30c433_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7dc1aa3350138bf4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6afddf3a2da0cc4e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/62a495034f803b7e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2166aaadfda44ab4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a09cccc71825cbb4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/242d206b84535e43_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a38c84c68464bbea_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/77072f96c691c8af_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0c789955c5d72b7c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/19968b4c39331027_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3c614765e9f7b862_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/db7ace9ae0b15af7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ff511cdae1b1dc41_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/117934fb78467778_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d6db7e5b807e2289_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d1338766eb910816_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/758301cb617466a5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2245699528c44aeb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5b2e0821659256e1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/634dea2c951cf655_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e00e59d298893a97_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9038ab8e1d65bd79_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/89c3929c4de9983b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f04f3cb77e2474ca_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a5a1977fbdc97068_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fe1515d6d1d5c2c4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/567e95858653ac07_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e731f671c33728ba_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/35b4c990eece88d8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd54216d6e3d0dd0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c325a2963fe3d83d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/882c19addbd240e2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8ba2d59ef9d92ac3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/45b82f755d5386a4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/334e2905a06030c5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bfdb08755e3c8a50_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/09dacaa6bc506ef9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0efb126cd3e88526_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aee7e1ed0a971f56_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e7d45556b4502880_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6dece8d170b48436_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bcf8b79f088d6efb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/75cfe2af74cb7279_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7b9a8107a7ecb041_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7c553cd5a615cd87_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/da510a7f171114d7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0f377a58815a7b87_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1eb1ffe5be2e96d0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/888d6a85bb37c799_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3979b1e5cfcee097_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e94f1143b7ea522d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a2e416f261462682_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/798b9fca5dde1c77_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f4dfedaf38a105de_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d31c5bd66301e650_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/279fcebfe3e8bc09_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d740c5e328f5f7d6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9c2398d74f14b33c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e6a12f301a6d6cfb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f2bfea3670abb370_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0ad2062b2514bc81_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/02ee10865a1a31d5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/436f8451f767712d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3afcff443d222a56_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/45f30767583286a7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ff82b814cead051c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/49cbda77e4150e48_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/558a6f4f1009901a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d61e72febaf88117_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0a28c0dde0e005d5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b435f71749201966_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3de5339a11c2161c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/485dff3f0d3bc290_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/47099c41a56934c6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/81cd57f70eaf5498_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8a49d396f4d64dbd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a2795606510cc1e9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e95f13c8798e3e0e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/59cdffb7e469a8e6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/081e3ced7497f3a8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd67e17d35618328_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6a864aaf7999cb1a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/50c2d2af342c507d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ac138a7be98c1d0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7ac37ab1a5e3f82a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cdfe8d7780afeab_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a8f672d152ee4d54_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0f207da674d20686_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/400ab5cbdc8b4be0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/138456d75395283e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd20d6648a92c5a1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1d0b5104e975961d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d3dd429b1ae378b1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6d0bad8e1449a896_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0d0878cc4370af8b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e2466b6d1694a0fd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a794bc0d9615e093_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1764fbaf96571f22_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1b240593b2b7d7db_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/18603a7fb6bc80d9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32ece1a942455d44_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/678e93aa35ce17b1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/81be0b69ce8ca4b8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/21be361efe25c610_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e59afbcbfcd3a15f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fa0536159cb33c41_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/12f5bc3de0b9720d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/30ffc62e9ebec68b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2a2e03917dd4f70f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0fd26fca234ef58b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f4032caa76f512e4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4e462456afdd944f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f8ea24639ce024d1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/97d565f6217a923b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/341bf91af6e94ddd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/909c8312d6a2dc67_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/471e40ef7c89e80f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f7f3a63f1916cb71_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/840af564f9c2e14b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fefc67d0480079d3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/878b5dc3825c95f2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/390b72f073b1f756_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7d0d662ae1b682c9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a778264da11af3b6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5e05150cd45944da_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7af52f2df5e1cf55_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/67adcc75bbd21e7e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/00352e0609134a9d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/476edb04b896be2e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f071b30f564dee18_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/149cdc0b9c5d1d4b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d3e4fca62ac11328_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/daec6d4dc71f11b4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/53bc0ca3eae0191d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a8e995150276839a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/14c30bce92c7cdad_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c4938a4f838e80a9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/76090f72f2269e57_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9aa6d375e27fec6d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a4883750ccc103be_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a42ef1a2fa183af5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bd9bc41f2cd379bc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/42e236bcb7db9fc7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/da05009b0e177d2c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/573764d68a1c6b8a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b68e4c54a63b3e28_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3fcf0378f5ab6e5c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/63d29850b5fa3964_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/923a1551506d1086_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8fe21172e40ee698_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aad0041e22b72a78_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/986bb16766e75ba8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ef5d3227c4926e35_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/db03fe09d5e68bc6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/42484048b9065394_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/851674a5e2df5fd0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/29cde0f01a74de20_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d8506d852287ed0c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3fc5296a79651b01_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dfdac41930412cf9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a3b241e985c3eb7f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b250b6a4baf54ea1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d3baae84a1652f83_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8ab42cfb2974220c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b48ecb6ae035a42c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c99068873f694490_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c47253832cf9f30e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c4fa2f836eeabd57_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ebf252b7b3f94049_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/08e8ba238c03ddc2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2324d8ca7c917a54_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/09c0fe43d9c1fe39_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca964b10b5fba499_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7344c764aa0dd0c5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/857bcd8b6a85f63f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aac0a7f60286af5d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/92c291c9f3c15077_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3f0ca96e820b8fa5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e7707d236724d636_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/866125c25c1f7099_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f2a740369b67d77d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4180fce6005e5b53_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/61cffcf8075c527d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b40591c6d2c04188_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/beb2deaf1914bd9a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9cebb6d73f636c0c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/707150a748f964f2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b32bbff80af3e77e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b14ff0eb93634132_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/842bf4aa867fddfe_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fb4fd17b701bab89_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/281702045279c06c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8f8b1290198b2ef9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bbc30414e7002224_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/586a468bc164e6ef_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ee5ae95908d1bce_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/39d7e31170db642f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bcabeffbd1381f40_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5d61b520b020ac72_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/decc8f07dc872514_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a7f2254b48436b66_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2723615aa1a4004e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1f8173fc1dcdfe26_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f416f38046bb71c8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/efa24e7b1bc98128_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1af7fdd54eee875e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a2de680435a4ffeb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ffa191cd229722d9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/06ab6cf438fb3489_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4543ff1b354a8668_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/06334fef80c5e42a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/20d4784dc15a97da_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8a1776d6f06492d6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/47ed861aae7a4c24_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b72cddf2f1d6661b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3a33ab0db1b23440_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6a3fa0cac4fdd00f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e547a069e9e9ce0c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e06d27a39fcc8f71_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8b448764ecd2f546_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a030dbce1750135c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1591df108a228aaa_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a71afb049a0a7e87_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/19f0cba991d0135d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dbd85d378b9d238b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cae17a2a7b116bd9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5260be9569ce5bb0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6b5923feafc9b98b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/85d789141b538816_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5bc5834760b49a6a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ce4899c48d66931_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/48fc2758283fb3cd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/481cb61b09127270_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/22c0465a2804099d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e1e25db49f1a6ad1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd1a0f5a511ef9cb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/670b411dc8e1b738_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f8907d1bdf5754b2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/42704b8369561bb1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8a3e763f167a847a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e28f6876e43d21bc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8e295ed560ac075a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cba9a48fa569c45b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8379752e090daeec_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7b0d1f594ddba3bc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/99f65bf6a2c20769_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/530486edc7965dd8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bfc773478f2414cd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ca9dd631efb9520_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/702726ccfffb3731_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/51e7c7fbb3d8830c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cc9b8056fa48e97e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e7cb02f152f0150a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a351bfb52c791f6d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6dc3408199e6f6a6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c9546d725252969_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3c0af80b3a6bf28c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6a7b32d1d97f65c6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ac53c3c4cb04f9e2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f298e95b946ed844_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/22e02dea0c2fe9e2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5f65cafba51b529b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5b37c9c11e6ae3b5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cf09b6915f2d267_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/24c22eb936194e1e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e132ff90226d86f6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/19dd498aca3f3158_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9e0ef71e3f51a9fb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b519adf76362a00a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/43d41a8ee1c3e148_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2956ad0c7ac521d6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/67220057b04bf4bf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e3980ad311e263b8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/633484d7f91bdc7b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d0b150d234ac6dfc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ef208c9ee4d3d66c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6fd84d2dac6651e9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d621293e462d6040_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f1901bd869f88fc5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/33e4561d9176cdf2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3c133dd09e354085_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd7997ec4c09a012_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/418adf6f6fe87dc9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/765be44157e10671_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2a0b64db6ec90f04_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/02e897854cec541c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b0ffb6b29dfa1975_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/829823db3033c853_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b3a0e32857f2be88_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5505833612ef9536_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bc2c41d791e02efa_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e8bab38cac4cd2fe_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bef07c4c08e9da94_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8b5ce52454c5d068_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/015887358b7e912a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e91b333d737e86d6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/071dce9bde7944bd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b8dc7fe9a49b3cc2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b239463db7517b3d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9c00656933cad27f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0e7f673748edb306_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/209ff35faf7aa079_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9b24f2cd236c7625_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/68dbd5a734ae4a5f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/74e7968a6339f092_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2e7afc165b67eac9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6638b1c4e43ffc9b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7842516f9476cb2f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8dcfeb19b93a175d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b5378007f796b6b1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8672d735e6be5baf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/10b8c2edc91b9777_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0d3119928be774b3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/04a82b2abe864d9f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fc3a90a6c91accf1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9aebab228dfe9a3b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bd5011f25defeb74_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/85fd74a558aaeb79_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/16f6be25ab9a4937_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3b7812c17bd052e9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0ad6334b5b1e22c5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/58a32b7c03e0cc24_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e5bba88c42a097be_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7e441026cfc8dff0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/39ca6d72ba1a8ea2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/64590d7a20d720f0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1aea9e8adedfa6ea_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/15575ba9773c2eb3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aabd2bbb2f1cdf1d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a705e7a485415437_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a3e801e8d52f0277_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f2d1d62521c75f94_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca5aa80808243f63_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/df3539f4d5674e96_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4654d6e4b9351c35_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7c5a9444edf08d1a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7b5cc48176fc8f53_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7a7a07c3579564a5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/902f95762ea3a684_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/38e9b0bf443671b6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3f81f81f3d220524_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6b920268b76b71fe_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/43602df1d91c9626_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8c94e6b6ece18ed3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d4e4247ce5af6b19_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4416140d1767fd3b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dac72e920ef6cf82_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/16ce72a4b8e9889a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2d833043c4ec7547_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aa18d0ff6897ce55_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/496784502b4332db_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/48751cf0d478af56_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fdccbb449eb6cb25_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/39a780f1847573e5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3b9b3b10cd7c0337_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fb78b73226bfb4cb_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/970144a7d71fb44e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/01b9d5b961bdc880_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ceb620f0cc62f10e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4acac62cbc0599d0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d26d89060632e37a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2f0dca03b742fb80_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9cc8c2f0df6f317e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bc0732989ac618db_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9f00c7020c0664bf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32600a0f830a1e5f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c97a6ae1a83c2e6b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0990d3f751a606ef_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f000b25b908cb96c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4122decd2de21d49_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ef7320fd2c5f1b0d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/29aae4c4566bea86_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e42d6ae49bb4fb7b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b416166c11195583_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c82a5996ae954b9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a915004dfd6a20b7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c498674b95425f81_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/627e838ae2f19fc2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c3d6559bb4db70c4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aaa2a4b0340ff4de_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3affb11c40fd8eb2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ab8e991c84982e77_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0ba728e915e46f6f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e5b78780e1488590_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f447e09bbe5fed65_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f7141e5d1ad3af13_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c203b88fd68efdd_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4c48208c293d651c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/92c59ef1034b365f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e47cae547009239c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0a1019f36e8f5010_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5593ee9a93f11d2b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d29bda5f5542c337_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0becdb2ca2b0b8d7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3492ec2de75fa993_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/554afa6d7489570c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ad0b94a9f60b9700_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7236810083a22fad_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/92d59f87b49d30e1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6c6296bd561b48bc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cf1298a8bd91e456_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/22a65822334a4e7c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f435469751fae12a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c89ad5296b5eadc6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/95a8f8495e22dacf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3ab1ecc886ee56bc_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9c026cc5d063abaa_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6756c48b951d66d2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5be0dbdca0afa9ad_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/23c4f6c0d25bd0a6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/057fd2eb04327f60_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/792657fa8cf532cf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f393f0c8c09f9f13_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b9f9f26371c9fbf8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f5ea6ed81f46f368_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8387218ea870f984_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c9c75943c7e2ff0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c6526b81f4aa32d3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/25fcdc7788df00d3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f4e7e29fc0dda956_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a54c7b32ec924c30_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0fb51cc1ed111d6e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5013746e8df91a0b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/48d181ef1ce72d30_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/990b7e2a6dff755b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/96260b392567351d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/978a197c07f79737_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5451bb33c91ca028_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c9861d108cb54ec2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/06cb865c1d992b2d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2d66a2c26d95f18e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7efd7656bfca17da_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0e0447ab7bdb4e41_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd48ff974157db1f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/db5f04f8387c732a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6db248e935343e61_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/364edcd97dd3a93d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/234c9a41a11f4e58_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a4dad9db28043898_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4bfc3569f8b9002f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/96989d0513c1d16f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/57c231dbb8b16b88_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d2172490510e17ac_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/11855929145fe3c2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a053dc487303cf7f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b3ba8ea9d12a2c7d_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0e2948dcd7696c85_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/056af83978aa52a9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d16d6f33cf5c3bf4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/175bc7d734265d64_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fc63e5fe2319a2df_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1374c3314d916f92_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3bad8a3bcb9e577e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fe11342deb4d5955_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5b410238bf5e79af_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/91683bb7481953e7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fbb2bba609c0fba3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/38ce992c5470032e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0f4e08f1648d4d70_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/12d771f0214ef986_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bb5de920dce31cbe_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/033c2a8d0bb54d6e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ccaa316d24521a10_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6329865ef184661e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c5a47a56ea4342aa_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fa6481decd1384f8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a183d42db53b9e0c_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/21bf4d685b507ba6_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/89cf1ab55d47e890_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1f491b2bed440b67_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c49701214b3761d9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/48cb40198aaa49e7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b974a6334eebe80f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/02669444bf2c13ba_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d6062e4f33a189bf_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a651537c8de376a5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a5d08cd6bb58f5f3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f9f787bf1ab5bcf3_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/423bd1efec18e87b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3d5a825c30a16115_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2f10b2241ed19772_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/76e3c6a270a13ea7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4c75a189af17a798_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a554a9be70600c90_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5c1d1d20a7bf486f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c1b8f3ac074071c1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/67453bce9c96fcef_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6afb572cf133a0a2_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e2fc7ab089208f7a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6280754fefa705ce_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6a4486ca5767a12f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e64ccabe89d48db0_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3f1d60e547fd3bed_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c7e46e469552551b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/31059b25a0ee99b8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/27923f98d9e55030_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9e8496e0e1387ad9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/64e387a628f341c8_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5fa70a1cb3efd2c5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/852b9176cee17305_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/553c2e7c328b1a19_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd619609344c11c4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/4879121b8854d853_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a10f44c466b232e5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2da43cec5cd11236_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7e2dcdf38629a07a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1525d7a176455768_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cb79178bd8ca0db1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9baa59db2cecb479_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c7dbe6a814408b00_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/388d123acb0d4fa7_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6fe4fba3f8339906_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/21f5d5b9fd68815b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca2db1df143fab4b_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/736ffc48eace7ebe_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/91c99d8cc9a09d96_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fbbd2fb02ceb4e08_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a7b8983fb44aad1f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/656febbfc847388e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/95f35953a645319a_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/47e86fe45e17cb7f_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/78ef80634e8b1109_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/977d5e53540be0b1_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a442da6cf399a772_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c70ab4231d9ea509_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cc969d842a9ffde5_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a5706da6a58f4bc4_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fec78ea58be679db_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a1c63819bcd54dea_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8f83aac354ef4264_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/new",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/completed",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/pending",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/variations_stamp",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/webview_data.lock",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/variations_seed",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics-spare.pma",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/pref_store",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies-journal",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data-journal",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOCK",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/000045.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/MANIFEST-000043",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG.old",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/CURRENT",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/MANIFEST-000049",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOCK",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000050.ldb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000047.ldb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000044.ldb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG.old",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/CURRENT",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000042.ldb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000051.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage/bcbf9130-0690-4dc8-b34e-d8b99151ca13",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOCK",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG.old",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/000047.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/MANIFEST-000045",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics/BrowserMetrics-693F83AC-7C71.pma",directory
+"/data/user_de/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi",directory
+"/data/user_de/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.L53m4v",directory
+"/data/user/0/holding.handsj.safdhoi/databases/DCStorage-journal",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/data/holding.handsj.safdhoi/app_webview/Default/Cookies-journal",directory
+"/data/data/holding.handsj.safdhoi/app_webview/Default",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.2JvG7N",directory
+"/data/user/0/holding.handsj.safdhoi/databases",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/appsflyer-data.xml",file
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/appsflyer-data.xml.bak",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/isbackstage_dbfile",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/pauseConnection_dbfile",directory
+"/data/user/0/holding.handsj.safdhoi/files/AFRequestCache",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/backstageTime_dbfile",directory
+"/data/user/0/holding.handsj.safdhoi/files/AFRequestCache/1765770364247",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/972aedf2e50a93c9_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1418a98f634c9373_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9a24a5ef8274319d_0",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.c3Ktgy",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/message/chat.css",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/empty.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/__uniappview.html",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.KqRBzi",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/000042.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/MANIFEST-000040",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000048.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/MANIFEST-000046",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage/9839629a-8e1f-4bfc-8c17-f73d9f51b1aa",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/MANIFEST-000042",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/000044.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics/BrowserMetrics-693F8270-6A3F.pma",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default��������(���������n����@",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/553c2e7c328b1a19_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a54c7b32ec924c30_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bef07c4c08e9da94_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/553c2e7c328b1a19_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/bef07c4c08e9da94_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a54c7b32ec924c30_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ac138a7be98c1d0_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ac138a7be98c1d0_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/324f85d384bff99a_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/324f85d384bff99a_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3de5339a11c2161c_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3de5339a11c2161c_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca2db1df143fab4b_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/798b9fca5dde1c77_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca2db1df143fab4b_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/798b9fca5dde1c77_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32ece1a942455d44_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32ece1a942455d44_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a38c84c68464bbea_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a38c84c68464bbea_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d48b706be3442dcf_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d48b706be3442dcf_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ac53c3c4cb04f9e2_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ac53c3c4cb04f9e2_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d16d6f33cf5c3bf4_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/95f35953a645319a_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cf1298a8bd91e456_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b40591c6d2c04188_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/58a32b7c03e0cc24_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b40591c6d2c04188_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cf1298a8bd91e456_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/58a32b7c03e0cc24_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/95f35953a645319a_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d16d6f33cf5c3bf4_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cf09b6915f2d267_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cf09b6915f2d267_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0fd26fca234ef58b_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0fd26fca234ef58b_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/96260b392567351d_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0e0447ab7bdb4e41_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/341bf91af6e94ddd_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/96260b392567351d_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/341bf91af6e94ddd_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0e0447ab7bdb4e41_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/89cf1ab55d47e890_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/89cf1ab55d47e890_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f298e95b946ed844_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/97eecf59410eca49_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f298e95b946ed844_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/97eecf59410eca49_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/90abe815ac9bbb84_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/90abe815ac9bbb84_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/209ff35faf7aa079_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/209ff35faf7aa079_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3979b1e5cfcee097_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/3979b1e5cfcee097_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/338014b5ba72634e_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/338014b5ba72634e_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/08e8ba238c03ddc2_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/08e8ba238c03ddc2_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0128da65d92bb117_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/678e93aa35ce17b1_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0128da65d92bb117_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca964b10b5fba499_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/678e93aa35ce17b1_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd67e17d35618328_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ca964b10b5fba499_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/dd67e17d35618328_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ee5ae95908d1bce_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5ee5ae95908d1bce_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aa18d0ff6897ce55_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/aa18d0ff6897ce55_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fc7012ab2e05e325_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32600a0f830a1e5f_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/fc7012ab2e05e325_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/32600a0f830a1e5f_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ceb620f0cc62f10e_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/ceb620f0cc62f10e_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cdfe8d7780afeab_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8fe21172e40ee698_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8fe21172e40ee698_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5cdfe8d7780afeab_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/829823db3033c853_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/829823db3033c853_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a3e801e8d52f0277_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a3e801e8d52f0277_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f416f38046bb71c8_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/19dd498aca3f3158_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/554afa6d7489570c_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/f416f38046bb71c8_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/19dd498aca3f3158_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/554afa6d7489570c_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/31059b25a0ee99b8_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/31059b25a0ee99b8_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/39ca6d72ba1a8ea2_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/39ca6d72ba1a8ea2_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5d61b520b020ac72_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/5d61b520b020ac72_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/45b82f755d5386a4_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9c2398d74f14b33c_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/45b82f755d5386a4_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/234c9a41a11f4e58_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/9c2398d74f14b33c_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/234c9a41a11f4e58_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e3980ad311e263b8_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6fe4fba3f8339906_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e3980ad311e263b8_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6fe4fba3f8339906_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a5706da6a58f4bc4_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a5706da6a58f4bc4_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/057fd2eb04327f60_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/057fd2eb04327f60_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e731f671c33728ba_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/beb2deaf1914bd9a_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/e731f671c33728ba_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b27b9c221061ad37_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/390b72f073b1f756_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b27b9c221061ad37_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/390b72f073b1f756_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/beb2deaf1914bd9a_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a2e416f261462682_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/a2e416f261462682_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b72cddf2f1d6661b_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/b72cddf2f1d6661b_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/faac5e75072b83e7_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6638b1c4e43ffc9b_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d61e72febaf88117_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/6638b1c4e43ffc9b_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/d61e72febaf88117_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/faac5e75072b83e7_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7c553cd5a615cd87_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7c553cd5a615cd87_s",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/index/index.css",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c1ee272dc54825a2_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c1ee272dc54825a2_s",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList1.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon1.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList2.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon0.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon2.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon4.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon3.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon5.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon7.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon6.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/recommend.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/contacts.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/compass.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/message-active.png",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/7ab40ff239e0ba35_0",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/mine.png",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/590c5e577a3f652e_0",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c203b88fd68efdd_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1c203b88fd68efdd_s",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList3.png",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_7ab40ff239e0ba35_0_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_590c5e577a3f652e_0_1",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/app.css",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/uni-app-view.umd.js",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/app-wxs.js",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.FWT3ip",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.aXJEvI",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.J0cHvW",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/colorTextBg1.png",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/99f65bf6a2c20769_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/99f65bf6a2c20769_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/70c3472625504006_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/70c3472625504006_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/14c30bce92c7cdad_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/14c30bce92c7cdad_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/977d5e53540be0b1_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/977d5e53540be0b1_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8b5ce52454c5d068_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/8b5ce52454c5d068_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2d66a2c26d95f18e_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/2d66a2c26d95f18e_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd48ff974157db1f_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/cd48ff974157db1f_s",directory
+"/data/user/0/holding.handsj.safdhoi/files/AFRequestCache/1765770061103",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/appsflyer-data.xml��������p��������",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/weex_default_settings.xml������0��p�����",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/__UNI__4397750.xml��������p����������^�/data/user/0/holding.handsj.safdhoi/shared_prefs/start_statistics_data.xml���������p����������/data/user/0/holding.handsj.safdhoi/shared_prefs/__UNI__4397750_1.xml������p��������jT�/data/user/0/holding.handsj.safdhoi/shared_prefs/_adio.dcloud.feature.ad.dcloud.ADHandler.xml������p��������˘Xm/data/user/0/holding.handsj.safdhoi/shared_prefs/__UNI__4397750_storages.xml�������p��������O",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_ad_type_key.xml��������p��������",directory
+"/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_dark_mode_.xml���������p����|�������org.chromium.android_webview.nonembedded.WebViewApkApplication�����p�����������Baklava����p����N�������/data/user/0/com.google.android.webview����p����T�������/data/user_de/0/com.google.android.webview���������p������������/data/app/com.google.android.webview-9tdzznyMvLLcfHq3E3cj2A==/lib/arm64����p������������/data/app/com.google.android.web",directory
+"/shared_prefs/__UNI__4397750.xml��������p����������^�/data/user/0/holding.handsj.safdhoi/shared_prefs/start_statistics_data.xml���������p����������/data/user/0/holding.handsj.safdhoi/shared_prefs/__UNI__4397750_1.xml������p��������jT�/data/user/0/holding.handsj.safdhoi/shared_prefs/_adio.dcloud.feature.ad.dcloud.ADHandler.xml������p��������˘Xm/data/user/0/holding.handsj.safdhoi/shared_prefs/__UNI__4397750_storages.xml�������p��������O",directory
+"/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.arm64_v8a.apk�������p������������/data/app/holding.handsj.safdhoi-DwoEtdl7dMB596SRL2Q7NQ==/split_config.xxhdpi.apk���������q�������������E�p����pHs8",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.LBA0P2",directory
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/recommend-active.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/message.png",file
+"/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/__uniappquill.js",file
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c4fa2f836eeabd57_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/c4fa2f836eeabd57_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0ad2062b2514bc81_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/0ad2062b2514bc81_s",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1591df108a228aaa_1",directory
+"/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/1591df108a228aaa_s",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.Kpnr6R",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/MANIFEST-000038",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/000039.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/000045.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/MANIFEST-000043",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage/552684d0-773c-485a-9196-45f0b498ecfb",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/MANIFEST-000039",directory
+"/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/000041.log",file
+"/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics/BrowserMetrics-693F8137-5D09.pma",directory

@@ -1,0 +1,821 @@
+path,type
+"/data/user/0/spark.kjsahf.jjsduuiie",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/base.apk",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.arm64_v8a.apk",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.xxhdpi.apk",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/oat/arm64/base.odex",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/oat/arm64/base.vdex",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/oat/arm64/base.art",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib/arm64",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/base.apk!/lib/arm64-v8a",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie",directory
+"/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/primary.prof",file
+"/data/user/0/spark.kjsahf.jjsduuiie/cache",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/language_uni_sp_file.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/language_uni_sp_file.xml.bak",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/dc_ad_type_key.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/dc_ad_type_key.xml.bak",file
+"/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo2MjM2MzgyNTkwMzphbmRyb2lkOjZlNDA4MmM5M2YwNWM1OGFjZGNkMWE.xml",file
+"/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo2MjM2MzgyNTkwMzphbmRyb2lkOjZlNDA4MmM5M2YwNWM1OGFjZGNkMWE.xml.bak",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo2MjM2MzgyNTkwMzphbmRyb2lkOjZlNDA4MmM5M2YwNWM1OGFjZGNkMWE.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo2MjM2MzgyNTkwMzphbmRyb2lkOjZlNDA4MmM5M2YwNWM1OGFjZGNkMWE.xml.bak",file
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/manifest.json",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/androidPrivacy.json",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/pdr.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/pdr.xml.bak",file
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/sitemap/",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/cache/dcCrashDump",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib/arm64/libbreakpad-core.so",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib/arm64/libc++_shared.so",file
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib/arm64/libweexcore.so",file
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/webview_spark.kjsahf.jjsduuiie",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview_spark.kjsahf.jjsduuiie",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/SafeBrowsing",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crash Reports",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/d47aea5e0df3c171_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/d647f9a6a07f2a91_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/8a642a4eb79dfe4e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/896ce8750c71d345_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/0bd2606d6a78a59a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/370326d75f537928_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3a23d4a16d8060d7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f1ca476fef1f5717_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0022d5be5e27ef26_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/355c25368b9a618a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3c6994333dc04166_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/62e787f5f1d4857b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fc18cacd3035bfbf_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/53556a076f8af14a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b5992c2c85840d44_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a7b557410534a1fc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1141a99e0c25b53e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/64a6e0a538e89e2f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a62372fe27412e0f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d019794b34173866_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6eda2f0e96756681_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9c2aa37b91e9c5d3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9a2563e60135ddc1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5ecb642151c41b6b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f43cf9664d75c6dc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e181998d9f64cbb5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8fb28944489b252c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4d88f530adb0ff8d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d92ada23d9f90666_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/54ba4fa4bff7b7df_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1bbcea9bf31b2b87_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e42aae7d57d330be_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2042ae2b0f68f6fd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/57bfb486a4304c91_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a73f3c414c28af6a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b2d55470a818a625_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2adda3fd5fc06f86_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/27c7b739e6a49bc2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5b76c777e6761b89_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c979e841f535bd46_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1760357de4521fed_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4466e3c185e2c1ac_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bdecc905a9d3e462_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9700f8b5d91cc23f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cc7f16f13c8781f0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/28c1ee35360daf55_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/71d2da2eac99e06e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/73240dcde049c5bf_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/34aa8b0949afed1c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/baa9607da22ac6fb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f46f4dd51f143885_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/552ca613d02f83a2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ceb9fd6c1eaa0d97_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b8ca0d1547041f66_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9ba3dd6513457ffe_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7f8b3887d51294ca_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/05be92aba734abdd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cf7549ef572f3573_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f7cdc0f227304103_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4de79cea4224dcf8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dcbef29abe498d25_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bf124f9bb77247d9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/19940af90e2f466b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c1ee272dc54825a2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4454ccdce6386bbc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3eea2fccb8971601_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b11a76f157098a9d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6177ddfd49beffc7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c6576d61b5408544_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/32d13a544348d654_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/02378604b443bd14_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/45c687435af7abda_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cff6819e72a00630_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/83548de12d2317b2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9053ec18e3d9185d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0c62f562f05ad3c2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/34b1807209bdf530_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6afddf3a2da0cc4e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2a93805efdaffcab_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e5c78f68fdbfa734_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/242d206b84535e43_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/722af397b090375d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/41866ec08740913f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8335d8a5cd824476_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/19968b4c39331027_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c5bf3ed82bc30f3d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/43442cccc8b10ef6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d6db7e5b807e2289_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1c095e8609102466_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6903f5caf2798c48_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/758301cb617466a5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/79daa4a4e0563ce2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9f82081602467753_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bef697bf6fe86c64_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ee1467f5f7d15d41_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6378b3f08675cd1b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/08a35c5685062e3f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/882c19addbd240e2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8ba2d59ef9d92ac3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/09dacaa6bc506ef9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ea2c15665b9f7fec_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0efb126cd3e88526_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f0047fc429eba8e9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/946ce6fd574b7af1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1c81957b208360a5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/be60d99036a77244_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d877ea27855f760a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1eb1ffe5be2e96d0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cb7aa7d99280e46b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/64d8eb8176690078_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9d22f5192f9404db_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ed996b86da92b7cf_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f4dfedaf38a105de_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e6a12f301a6d6cfb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/02ee10865a1a31d5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/45f30767583286a7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/efb19559ab97c52b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aceb3b0542135638_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a2ef20e8b7aa002b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2ce8bfe7441ca8eb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d55f64fc5acff85f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dbe94d69352ad778_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/558a6f4f1009901a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d5270a6707417035_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3f5ac2f8299a329d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/25fd50ffd96b86c2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/485dff3f0d3bc290_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/47099c41a56934c6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/81cd57f70eaf5498_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e95f13c8798e3e0e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/59cdffb7e469a8e6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5151f4fdf0baa8af_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e8e18551e6c7200a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/829a61ff086cf193_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7ac37ab1a5e3f82a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/400ab5cbdc8b4be0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d8468fa6540b8b54_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/350f582ee46c5e8f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2e0e1af334e49d07_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8abba8090e9473e7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0d0878cc4370af8b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b7daf45c0d9a04ab_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a794bc0d9615e093_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b7eae880f4a3c56b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f4ab7bec7b74ceb3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/18603a7fb6bc80d9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dc8dbc373fd80613_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8331db814f46d896_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/21be361efe25c610_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e17bc537e60a6879_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b200117c016ab772_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e59afbcbfcd3a15f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/96248817ff2013c4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/12f5bc3de0b9720d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e21756f8fefa7fb8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/97c6fca4af27492c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/30ffc62e9ebec68b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/061d874e8bfe753f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/87a4eaee09f872af_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/84f56f1f10f4920a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/efef81a8a7bd6bb9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d535f12bdd600aa4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5d1923a0d41686aa_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/80acf56c69d3e1a7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/df6cf30042a305e3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/34141136d5ef9a03_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f7f3a63f1916cb71_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/840af564f9c2e14b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fefc67d0480079d3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ff16168337e2fb9b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7bf909ff3806f8e3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/04ec4b6cba241d59_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7f284407469dd687_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a7e340f24e497f60_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/03c41a40fedc8965_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/476edb04b896be2e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7da98213ce93a738_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7ab1691196fec64a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f071b30f564dee18_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/097187be1557dd2f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a8e995150276839a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/25049bc1ef9f380e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0b831fb3205063de_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/14c30bce92c7cdad_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6fee968911b155d0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9beab1582b4daf63_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a4883750ccc103be_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/42e236bcb7db9fc7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c664ce600ada1605_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/261e1e42c91eee0b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/06129fb79cdf012e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/573764d68a1c6b8a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3fcf0378f5ab6e5c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cc33512cd8a4c96d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/63d29850b5fa3964_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aad0041e22b72a78_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/858f1a349ce18c69_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fc249b2269305609_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/20e94bc1819bd753_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/851674a5e2df5fd0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/29cde0f01a74de20_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4448cf313052931e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dfdac41930412cf9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b250b6a4baf54ea1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f3bf56a6482c30be_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f630e20ee5954325_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/11e2a0e3289e40ff_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f8862ab8ded0d15b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2e7b7cdfaeb6322f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a0f238da53d0cb09_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fcb33582cbfc7a5b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2324d8ca7c917a54_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/09c0fe43d9c1fe39_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9be3c909e7352d14_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f2e6bf3dfac67fd5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ec8626c935a853a0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f74303a76ed98e05_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5cee24cb5ff905a6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f2a740369b67d77d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/707150a748f964f2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b14ff0eb93634132_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/948a4902e925aabc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c769bb498701cd94_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/052b44b710535bc5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4d51dcd04005b810_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5bbcc2367a6b642f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dc982564485cc30c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/71a9a345823975a2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8f8b1290198b2ef9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/586a468bc164e6ef_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/39d7e31170db642f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4434a5617da5d3b8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/18e3afc55aff63df_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/decc8f07dc872514_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1f8173fc1dcdfe26_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1af7fdd54eee875e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/340501ccf68d832a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/581519de04c6ea9c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/468d9babc87e99cc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/20d4784dc15a97da_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2fe0ca8fe7cf9c9d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/47ed861aae7a4c24_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aa1bf02294692d57_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c8fa911b80a80622_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/00e938ce29417d4a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b0b930c5192fbf4f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/62d0ae1bd9c61b1e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0f77bf13234ede92_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c1a609a86758a67b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a71afb049a0a7e87_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ccf0a7f34068a596_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d95601bb5486939d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/85d789141b538816_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/48fc2758283fb3cd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/000dc28e3a177883_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/481cb61b09127270_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bb7d07ee34a9f270_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7e9e2ae1cd97d6a8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/42704b8369561bb1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/46b44d8046b74a2d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/539338e90128c8b5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cba9a48fa569c45b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ec610c58ce2fcb33_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4452731c6feb698c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7b0d1f594ddba3bc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e7ae6c1f0d31af6b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/99f65bf6a2c20769_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e1456b00b2d5deb8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/702726ccfffb3731_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4c8c21cbf5e3c4d7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/db8ae2f61d913f51_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0cea3077fe7dd213_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dece017027adc965_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e7cb02f152f0150a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1c9546d725252969_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3c0af80b3a6bf28c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c8cea7038fcfdd79_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/92477394c0721f6b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/787baeeab1a57495_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5f65cafba51b529b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5b37c9c11e6ae3b5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6ddf2c3bfcdbc460_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dbdcf30968c46582_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e132ff90226d86f6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9e0ef71e3f51a9fb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2956ad0c7ac521d6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/201fce3805d30f9a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a3b53d9ee9dbccd2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d0b150d234ac6dfc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fee6570d44c5b1b2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/052c84139ed33db9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7779711b0a6d40ea_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ebddf6712947d69a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4b60c1c17936a88e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7e13b09d5062b292_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7f93652ac18f0a1a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f5edfe5f5c48a180_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/268809a8400ac301_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/26802dcb797afd15_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f3a0505802448023_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fd2d145b01067a17_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bc8cc070a1a75a8e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ffd247b5783834dc_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/33e4561d9176cdf2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/df1e635f99773ea5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/765be44157e10671_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/476ad1358f8cc4ab_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2a0b64db6ec90f04_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d1b1f05ab8da36d7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ce26273abd0f6668_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e0bf4765ac1ca571_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9221813b2f0c4240_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/31268966c8c50b0a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/890d15bc031960d4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0400356418ee73c1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/acaf66efa759a4db_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8ceaaf9e0ead9356_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8b5ce52454c5d068_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/69263caa9cfdefd0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9c00656933cad27f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9d6ba464c5bdd40b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1a2c7cfcffb5502b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0e7f673748edb306_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9b24f2cd236c7625_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e48c25e1be95d909_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/68dbd5a734ae4a5f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0f3da180cc92b3d1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2e7afc165b67eac9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7842516f9476cb2f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b72b8c1d677d30d8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8dcfeb19b93a175d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bf39297cbbbf8c1e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/55aedd600c280d92_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/10b8c2edc91b9777_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8b9fc685ea121f02_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fd2696b5e7ed57b7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9aebab228dfe9a3b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bcefa7b61f08112b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3892e42e4c306f8b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ac10cb2d851c909e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d99757930e9332d2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7e441026cfc8dff0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d0654039635d4375_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c9302abaf2e7b71f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1aea9e8adedfa6ea_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/094de26fd845e5f3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c460858b145eca53_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/15575ba9773c2eb3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/01c3ff1adae76f1b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/304bb6587eb65b43_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7a7a07c3579564a5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/23dac361193fb884_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6b920268b76b71fe_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b07d066eb1eac8a5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9195d3beb0f4d493_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d4e4247ce5af6b19_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/dac72e920ef6cf82_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6de17cfafef00e7f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f2d424ccd2017d10_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0c99b47c9fecdec4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f9d7ffb1390df620_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/718b0d7acb7ec849_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f9b7326411e9691c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bd9605a1beb6ebe9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d83e16c9862a2767_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/05ce89dd5718d997_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6baf21a972b2a525_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5242ecd3f6cb9433_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b6c522e0f80c6ab3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b3fd6a3f073ce415_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/35eb1a7deeaa948c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9cc8c2f0df6f317e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e4cfbbd2133ea12f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f000b25b908cb96c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/65b2ae1c15e5f354_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4747ab692221fa61_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4122decd2de21d49_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ef7320fd2c5f1b0d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d200d10a8473b73d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a4614b9f33d026d4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aac9773d97189700_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3ac7e24c21bbf727_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a52fdc139960d469_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8a2600bc321ce855_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8f664c757449dee2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e7a9e8d751baa1fb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/af7b2bcffac05618_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b088fd7be5f6481b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5c9d7fecbcc007fe_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b465f891d1ba0003_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c073146f53e5f2b6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/23775f84d6381107_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0a1019f36e8f5010_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5593ee9a93f11d2b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d29bda5f5542c337_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8a5b4508a1e4003f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0ba2bc2a1eb533d0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3492ec2de75fa993_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0163f23ccd863651_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/422da213cad9903b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6da4fcf7ec9fe1b0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7692d779164e4d2b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/65cfee31ff951cad_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9f93125f9a643a11_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f393f0c8c09f9f13_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b60c36b461145b37_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d07208aeb572f33a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/48d6778211ccb884_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8387218ea870f984_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/20471f40a27bbc26_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c6526b81f4aa32d3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3d9999e2e19c47f5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e4828b6683ac0273_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a95c8aa562b45b61_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7b7e6f3e59b2bab9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/990b7e2a6dff755b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e4f6506cb4c2422e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5451bb33c91ca028_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2d66a2c26d95f18e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c3cf082e1ff53eba_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/12f2177392565b02_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2a47917e023db98c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/369d1d9a6e294051_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cd48ff974157db1f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a4cd4b2f7ef119e7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e39e557350c21d1c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/9c160928395655e5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6ba5552209782831_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/57c231dbb8b16b88_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2afa479ffde4f38f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ad81103bfa9fe83d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/056af83978aa52a9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/175bc7d734265d64_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1374c3314d916f92_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3bad8a3bcb9e577e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/849fa6e29d009e1a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fe11342deb4d5955_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/22870ab605b6af5f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d76394c7b6d2df86_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/10505b40014b8068_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/07f3f0fc3a301de7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/300f292130b2a648_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/033c2a8d0bb54d6e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c72f234906685da5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cea671257ffe906b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/21bf4d685b507ba6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4fd10d3360773e45_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c49701214b3761d9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b974a6334eebe80f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8569b0cfb6787555_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/72b6c552d4241328_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0dfd491f1fb22135_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2be4d9a68dc739bd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7489e970b622c7e7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/eac6caa865e3af7d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a5d08cd6bb58f5f3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f9f787bf1ab5bcf3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3d5a825c30a16115_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2f10b2241ed19772_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/41c1b50d320686a9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/13b6fd5ce9abc846_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/08f6a2012b3eac30_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4c75a189af17a798_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5c1d1d20a7bf486f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/67453bce9c96fcef_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f55f18d9bba6aa60_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bd377a909718eee3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/644549017b54a89d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6afb572cf133a0a2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5589d9d66decba18_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4584476b94794811_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f22cf528836926f3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/72c519377e794efd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/64e387a628f341c8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/cd619609344c11c4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/61ec27562bd396cf_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5ec557f3aa30ab85_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/beb63faff4e75cb9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7ac3be975e3ca1e2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d3c422d811e7b872_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7e2dcdf38629a07a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f6ee7088fe7d97d5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/736ffc48eace7ebe_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/ec5e30bbb4ee19ac_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a5bc89a040d90456_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d9ac07476adb07a8_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6c6162036e1c2291_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/86cabd39ca2c3a1d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/47e86fe45e17cb7f_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/735f0e5c44f0c174_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/977d5e53540be0b1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/585431553abc9afb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/00391970e07749a3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/75426ef804202583_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/171101a2018f4add_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c70ab4231d9ea509_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fec78ea58be679db_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3f5837942ab32d72_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/daadb6df4e18113e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/new",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/completed",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/pending",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_stamp",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/webview_data.lock",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_seed",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics-spare.pma",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/pref_store",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Web Data",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies-journal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Web Data-journal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOCK",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOG",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/000042.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-000040",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOG.old",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/CURRENT",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOCK",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOG",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000045.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-000043",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000044.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOG.old",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/CURRENT",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000042.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/79bcff57-8cf2-4aef-abf2-58e7435cfed6",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOCK",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOG",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOG.old",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/000042.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-000040",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-693E80DF-38CC.pma",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie/cache/webview_spark.kjsahf.jjsduuiie",directory
+"/data/user_de/0/spark.kjsahf.jjsduuiie/app_webview_spark.kjsahf.jjsduuiie",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/databases/DCStorage-journal",directory
+"/data/data/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies-journal",directory
+"/data/data/spark.kjsahf.jjsduuiie/app_webview/Default",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/databases",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/fe94ed0ceaf1b7596ddc3a0b98d60d29144a36194c2a836147da79f53bd95a11.0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/29b935d02bd15a37cb735057b67127f76ccb26b5a366587bda51bbd048d7b449.0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.NDba4B",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/isbackstage_dbfile",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/pauseConnection_dbfile",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/backstageTime_dbfile",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc/uniapp_temp_1765703904176/recorder/1765704102952.mp3",file
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/crash_1765704103044_2025-12-14-18-21-43.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniapperror.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.FWaxCP",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/655f715a0c774846_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/370266c8d45e79d9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/da120c1b915cb482_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/70c3472625504006_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fc5795221d09d34c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8a49d396f4d64dbd_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c344714633724a89_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/44585d9c3eac7f47_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/878b5dc3825c95f2_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/056d5467e23be4e1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/6dc3408199e6f6a6_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/88e94a801fe091da_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d0074f64ff1b59a4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/fc5747e9e0740cce_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/af39955b3f464965_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/bc0732989ac618db_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c97a6ae1a83c2e6b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e48f42411345dfb5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/a183d42db53b9e0c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aa0f235c3b02818b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c77fb3d5c7a6793a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/18b4e742500371f1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/000045.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-000043",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000048.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000047.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-000046",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/3b778370-2179-4879-b46c-101fbd97eda7",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/000045.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-000043",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-693E81AD-41BE.pma",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e35c57f57f83aa0d_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/recommend.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/mine-active.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/8aa8a0dbd463af4a_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon1.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon6.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.M9RsEE",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon2.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon3.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon5.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon4.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0163f23ccd863651_1",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0163f23ccd863651_s",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/mine/doc.css",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/assets/uniicons.89ed7d6d.ttf",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniappview.html",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/app.css",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/app-wxs.js",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/uni-app-view.umd.js",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/.gms-dynamite-code-cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b9d608aeca7f95f9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/b101ecfe725f0bae_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/1da25328a64454cb_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/43900f7d383fc531_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/986d33cb73b7d809_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/76d3835acde4a773_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/4e6a3ed0984b20d1_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/89a80b1bda809cce_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/3433b61de393a05e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/7e99ddc7132f2206_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/811b15c7eab1a876_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f9021b052cd7e5b4_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/53140638105ae786_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/5ee8de6845b7a1e7_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/163e618daa9f5a79_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/70b65132be039e7e_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/444ef80941abe506_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/c1b84449f8798a0b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d168d4e00bd81873_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/32f2993b4f9acd47_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/db406fc8e7a8bbd3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/0fc60371aa03d365_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/92fdfc12751b5f39_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2810ca02b6d551f9_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/aa8f95904998f3b5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/d0926b533c7a913c_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e32bb7bbdaa727ed_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/000036.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-000034",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-000036",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000031.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000029.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000038.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000034.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000037.ldb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/2c87e8c5-00f1-4734-ab15-c1ee0bc90647",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/000036.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-000034",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-693E7F9C-27D1.pma",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.wik31R",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/MANIFEST-000001",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/000001.dbtmp",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/000002.dbtmp",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniappscan.js",file
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/crash_1765703728261_2025-12-14-18-15-28.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/profileInstalled",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-000037",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/000039.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-000039",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000041.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/4268ebda-b4cc-4804-8f70-bae924a17c43",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-000037",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/000039.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-693E8040-30B1.pma",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics-spare.pma.tmp",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.hoatHw",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.68YU8l",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc/",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/phenotype_storage_info/shared/storage-info.pb",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/phenotype/shared/com.google.android.gms.clearcut_client#spark.kjsahf.jjsduuiie.pb",directory
+"/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.R3yxtq",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.mxsDtp",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/appsflyer-data.xml",file
+"/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/appsflyer-data.xml.bak",file
+"/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db",file
+"/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-journal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/generatefid.lock",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/PersistedInstallation.W0RFRkFVTFRd+MTo2MjM2MzgyNTkwMzphbmRyb2lkOjZlNDA4MmM5M2YwNWM1OGFjZGNkMWE.json",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache/1765703775866",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/message.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/compass-active.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.dhs73s",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/contacts-active.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList2.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList1.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList3.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/contacts/detail.css",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/undefined",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.aOANNN",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.xo61Oq",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.scvdSH",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache/1765703876841",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2cd2a71fbc8a1682_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f0c16998a295b3d5_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/92cc82a4ea113a7b_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/f333487b1fe622b3_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/43034393541b1356_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/2d18b6e406de1f40_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/e301f8d9a3c026f0_0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_seed_new",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-000031",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/000033.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/000035.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-000033",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/7368ad3d-81e4-402c-b3cd-b94ad73a79b0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-000031",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/000033.log",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-693E7E60-1662.pma",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.U48J6T",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.xxhdpi.apk���������o�����J�o����",directory
+"/data/user/0/spark.kjsahf.jjsduuiie������J�o����F�������/data/user/0/spark.kjsahf.jjsduuiie������J�o����L�������/data/user_de/0/spark.kjsahf.jjsduuiie���J�o������������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib/arm64������J�o����z�������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/lib����J�o�����������arm64-v8a��������J�o����",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==��������J�o����r�������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==��������J�o����:�������untrusted:targetSdkVersion=35����J�o�����������:complete��������J�o������������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/base.apk��������o���������������������o�������8",directory
+"/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.arm64_v8a.apk�����J�o������������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.xxhdpi.apk��������J�o������������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.arm64_v8a.apk�����J�o������������/data/app/spark.kjsahf.jjsduuiie-G7OMVAQfTYmzFJbP93wYEA==/split_config.xxhdpi.apk��������J�o����",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/df1e635f99773ea5_1",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/df1e635f99773ea5_s",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal.bkp",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal.tmp",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.QGa0Ll",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.BLHFkQ",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.3ONRk8",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/465c6d587d7d9545543b0c704282fd93d9a460485e35e86dc2410e6d2cfb1c28.0",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/465c6d587d7d9545543b0c704282fd93d9a460485e35e86dc2410e6d2cfb1c28.0.tmp",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.HkQm4p",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/message/chat.css",file
+"/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/empty.png",file
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.hwR120",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.3awlZk",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.LbtmN6",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache/1765703505304",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.D0RK5d",directory
+"/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.uD1MG7",directory

@@ -1,0 +1,723 @@
+path,type
+"/data/user/0/jp.cocone.p2korea",directory
+"/data/user_de/0/jp.cocone.p2korea",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/base.apk",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_config.arm64_v8a.apk",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/oat/arm64/base.odex",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/oat/arm64/base.vdex",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/oat/arm64/base.art",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/base.apk!/lib/arm64-v8a",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk!/lib/arm64-v8a",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/jp.cocone.p2korea",directory
+"/data/misc/profiles/cur/0/jp.cocone.p2korea/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/jp.cocone.p2korea/UnityDataAssetPack.split.prof",directory
+"/data/misc/profiles/cur/0/jp.cocone.p2korea/primary.prof",file
+"/data/user/0/jp.cocone.p2korea/cache",directory
+"/data/user_de/0/jp.cocone.p2korea/code_cache",directory
+"/data/user_de/0/jp.cocone.p2korea/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/jp.cocone.p2korea/code_cache/com.android.skia.shaders_cache",file
+"/data/user_de/0/jp.cocone.p2korea/shared_prefs",directory
+"/data/user_de/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMDM0Njg1MjQzMjg6YW5kcm9pZDo1NzlkZTM2MmUzNTg1YmNmMzhlNjFk.xml",file
+"/data/user_de/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMDM0Njg1MjQzMjg6YW5kcm9pZDo1NzlkZTM2MmUzNTg1YmNmMzhlNjFk.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/reports",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/priority-reports",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/native-reports",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.crashlytics.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/com.crashlytics.settings.json",file
+"/data/user/0/jp.cocone.p2korea/files/datastore/firebase_session_anAuY29jb25lLnAya29yZWE=_settings.preferences_pb",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/initialization_marker",directory
+"/data/user/0/jp.cocone.p2korea/databases",directory
+"/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events",file
+"/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/crash_marker",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native",directory
+"/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native/pending",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/no_backup",directory
+"/data/user/0/jp.cocone.p2korea/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/jp.cocone.p2korea/files/generatefid.lock",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDM0Njg1MjQzMjg6YW5kcm9pZDo1NzlkZTM2MmUzNTg1YmNmMzhlNjFk.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMDM0Njg1MjQzMjg6YW5kcm9pZDo1NzlkZTM2MmUzNTg1YmNmMzhlNjFk.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/PersistedInstallation.W0RFRkFVTFRd+MToxMDM0Njg1MjQzMjg6YW5kcm9pZDo1NzlkZTM2MmUzNTg1YmNmMzhlNjFk.json",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F997F032D000108A3D132869FB68A",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F997F032D000108A3D132869FB68A/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F997F032D000108A3D132869FB68A/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F997F032D000108A3D132869FB68A/start-time",directory
+"/data/user/0/jp.cocone.p2korea/files/.gms-dynamite-code-cache",directory
+"/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics.files.v1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Pictures",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.appEventPreferences.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/aqs.77fdb569feaf48c1b4f63875d19d8916",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/keys",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/user-data",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/start-time",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native/device.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native/session.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native/app.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F984701220001758CEA614E003390/native/os.json",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/jp.cocone.p2korea/files/AppEventsLogger.persistedevents",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea_preferences.xml",file
+"/data/user/0/jp.cocone.p2korea/files/phenotype/shared/com.google.android.gms.measurement#jp.cocone.p2korea.pb",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea_preferences.xml.bak",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libcrashlytics.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libmain.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libunity.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libil2cpp.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libFirebaseCppApp-12_10_0.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libcrashlytics-common.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libgrpc_csharp_ext.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libsigner.so",file
+"/data/user/0/jp.cocone.p2korea/cache/webview_jp.cocone.p2korea",directory
+"/data/user/0/jp.cocone.p2korea/app_webview_jp.cocone.p2korea",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/SafeBrowsing",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crash Reports",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/32aa15624d91287d_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/1c8f32c67f958647_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/31437163e1b12cab_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/7ce8329a5f9599d4_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/b5623770e4569d82_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/df40b209bcf02f7a_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/4957e24785301d63_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/8c653becd3e8a089_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/a72bbb51553dd9e0_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/661300251ca4d2c7_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/0e98a7548b85e166_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/5f3d92a815b642ff_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/75979104f0c17526_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/d50443b29ff6ed5f_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a5a2ea8763b9a312_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/70a45c2c73b7168e_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/6b69fb5dce0fa883_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/ad79c7df0d88b549_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/d2ee0e669d08b4c0_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/c353574dc32a8378_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/409e85b1b23223c0_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1a087155619e90b9_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/f924b044baa765f0_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1b646ce94546268f_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/3f33949bf033ca09_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/436ab95a4ba5803a_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/843d5df605cbee9b_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/e0bc9c3538bad9bf_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/83ba3c9a30ccda0a_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/04fc56d387ea93ce_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/ab9d68e68afac478_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/e47b7cefcf7d82aa_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/97ba1f61cb281730_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/17ce9080aa075d9b_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/f86434613d84fe94_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/28ac57cf45ef31a9_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/bff71167686d2279_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/33f98cf3ec84cda9_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/b4967a07de3322f2_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/28620599e0aa0d3f_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/5d09e7b709a1da8a_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fca686822b4f8f11_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/115c669c5a3f2d5a_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/ef481daf9385cdf4_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/f6f1bc6b6807f080_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a42006d4ad5c2d83_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/8889b89df2c4026b_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/6aba8aa1d0e13333_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/67e01c7b015ed1ad_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/d863649e8f930fbe_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fa6b57721b74b1c8_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/b7b5140ca27a8077_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/e6fec8ae79b1cb96_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a7c0c2f86c882c20_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1457c0d140a825d6_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/072efab054cdaab2_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1eb5c3e3fd300368_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/7a0168a0014b2bc7_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/07c04c4ea9ef2184_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/898bf49e53034962_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1c529f929ede65c7_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/0d3890acb8df34d8_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/9147881978129701_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a2a673997e4f00ae_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/6006fbdce2fa37c7_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/69e3b7e492de2327_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/ab5d7cad78d5a4e4_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/c13c247375f9b5a6_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/9b6b6158c95b862c_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a1c304ae86097fe1_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/new",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/completed",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/pending",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/jp.cocone.p2korea/app_webview",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/variations_stamp",file
+"/data/user/0/jp.cocone.p2korea/app_webview/webview_data.lock",file
+"/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/variations_seed",file
+"/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics-spare.pma",file
+"/data/user/0/jp.cocone.p2korea/app_webview/pref_store",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Web Data",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Cookies-journal",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Cookies",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Web Data-journal",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOCK",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOG",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/000009.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/MANIFEST-000007",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOG.old",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/CURRENT",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOCK",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOG",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/000008.ldb",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/000009.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/MANIFEST-000007",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/000005.ldb",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOG.old",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/CURRENT",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage/86dfd119-db94-41f9-9b68-c262786df11a",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOCK",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOG",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOG.old",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/000009.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/MANIFEST-000007",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics/BrowserMetrics-693F99C0-9CE.pma",file
+"/data/user_de/0/jp.cocone.p2korea/cache/webview_jp.cocone.p2korea",directory
+"/data/user_de/0/jp.cocone.p2korea/app_webview_jp.cocone.p2korea",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/voice/0000-0-000-v/716bfd80ffff39c429c34864ad82626a",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/voice/0000-0-000-v",directory
+"/data/user/0/jp.cocone.p2korea/cache/oat/app_resources_lib.jar.cur.prof",file
+"/data/user/0/jp.cocone.p2korea/cache/oat/auth_resources_lib.jar.cur.prof",file
+"/data/user/0/jp.cocone.p2korea/cache/oat/google_api_resources_lib.jar.cur.prof",file
+"/data/user/0/jp.cocone.p2korea/files/AdjustIoActivityState",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs������ҽp��������H��p�����������p����h��p����@�p����P�p������������.��������p����z���*x��/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/base.apk����E!q�����������������V���",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64��๯p�������h��h��p����h�����@h������������h��p�����",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk����������p������������/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_config.arm64_v8a.apk�ؼ�p����������P",directory
+"/data/jp.cocone.p2korea/files/il2cpp�����������������������������������������P��ws����G�ws���s���s����������������������������������������������ws�����ws���s���s���s�u�p�p�o�r�t�e�d�_�c�o�m�p�r�e�s�s�i�o�n�_�f�o�r�m�a�t�s���s������������a��s���������������s�����������P���s�����������",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp�����������������������������������������P��ws����G�ws���s���s����������������������������������������������ws�����ws���s���s���s�u�p�p�o�r�t�e�d�_�c�o�m�p�r�e�s�s�i�o�n�_�f�o�r�m�a�t�s���s������������a��s���������������s�����������P���s�����������",directory
+"/Android/data/jp.cocone.p2korea/files/il2cpp�����������������������������������������P��ws����G�ws���s���s����������������������������������������������ws�����ws���s���s���s�u�p�p�o�r�t�e�d�_�c�o�m�p�r�e�s�s�i�o�n�_�f�o�r�m�a�t�s���s������������a��s���������������s�����������P���s�����������",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.user_cache.v3.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.user_cache.v3.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/app_webview/.com.google.Chrome.MfDBk7",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/202789a018a4616b_0",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha4/8ed3d656e8b48d73c9d7aa8b186816b5",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha4",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s/1045-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s/1045-1/0aef16c1d315bcd30f1d828d4cdeee15",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items/2043-1/8622d5faed848376ff1c23e25a899d03",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon2_hgggxnr5_1.8696e410c234fa8b4e0e103b083e86a0",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items/2043-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon1_hgggxnr5_0.31e35338b63998ae62db6a98f1f5dafc",file
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha6/c0fe060a76f11c204d4a810323e05440",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha6",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea.v2.playerprefs.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea.v2.playerprefs.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F971202720001716737D64FEEE00E",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F971202720001716737D64FEEE00E/native",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F971202720001716737D64FEEE00E/native/pending",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F98420033000174DC234F41F0BFFE",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F98420033000174DC234F41F0BFFE/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F98420033000174DC234F41F0BFFE/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F98420033000174DC234F41F0BFFE/start-time",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/MANIFEST-000004",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/000006.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/MANIFEST-000004",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/000006.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage/6bfde91d-33b6-4d6d-8eb7-86fc84f5a3a7",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/MANIFEST-000004",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/000006.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics/BrowserMetrics-693F985D-758C.pma",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/.com.google.Chrome.mix8kQ",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/df40b209bcf02f7a_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1b646ce94546268f_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/df40b209bcf02f7a_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/4957e24785301d63_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1b646ce94546268f_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fca686822b4f8f11_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/4957e24785301d63_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a42006d4ad5c2d83_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fca686822b4f8f11_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/a42006d4ad5c2d83_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1457c0d140a825d6_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/04fc56d387ea93ce_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/04fc56d387ea93ce_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/1457c0d140a825d6_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/661300251ca4d2c7_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/b5623770e4569d82_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/e6fec8ae79b1cb96_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/7ce8329a5f9599d4_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/b5623770e4569d82_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/7ce8329a5f9599d4_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/97ba1f61cb281730_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fa6b57721b74b1c8_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/661300251ca4d2c7_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/e6fec8ae79b1cb96_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/fa6b57721b74b1c8_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/97ba1f61cb281730_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_ab9d68e68afac478_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_f6f1bc6b6807f080_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_f924b044baa765f0_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_6006fbdce2fa37c7_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_c353574dc32a8378_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_072efab054cdaab2_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_a1c304ae86097fe1_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_f86434613d84fe94_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_5d09e7b709a1da8a_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_ab5d7cad78d5a4e4_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d50443b29ff6ed5f_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_67e01c7b015ed1ad_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_0d3890acb8df34d8_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_9147881978129701_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_28620599e0aa0d3f_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_1eb5c3e3fd300368_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_d2ee0e669d08b4c0_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_9b6b6158c95b862c_0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/28ac57cf45ef31a9_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/8889b89df2c4026b_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/8889b89df2c4026b_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/28ac57cf45ef31a9_s",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/.com.google.Chrome.7VBDxZ",directory
+"/data/data/jp.cocone.p2korea/app_webview/Default/Cookies-journal",file
+"/data/data/jp.cocone.p2korea/app_webview/Default",directory
+"/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db",file
+"/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.appboy_event_storage.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.appboy_event_storage.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.braze.requestframework.tokenbucket..600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.braze.requestframework.tokenbucket..600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/persistent.com.braze.requests.metadata.last_req_at.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/persistent.com.braze.requests.metadata.last_req_at.xml.bak",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/thumbs_s/1044-1/a0e09d31a099eafdd5ffc897e518847a",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/thumbs_s/1044-1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/.com.google.Chrome.C4Rqtn",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon1_ghk5rc79_0.b00a0855c2c2ffa7f9f07f110b69ba86",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon2_ghk5rc79_1.21eeb744fcf7d0dcee9ca4ad0113fb61",file
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/31437163e1b12cab_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/31437163e1b12cab_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/1c8f32c67f958647_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/1c8f32c67f958647_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/409e85b1b23223c0_1",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/409e85b1b23223c0_s",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_409e85b1b23223c0_0_1",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/.com.google.Chrome.PCF1x0",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native/pending",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F960E0073000155313C160255E368",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F960E0073000155313C160255E368/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F960E0073000155313C160255E368/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F960E0073000155313C160255E368/start-time",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/aqs.b31855bf337641ebb8b4e6aeb0c5449f",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/keys",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/user-data",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/start-time",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native/device.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native/session.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native/app.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F95250133000148828425AA91B49E/native/os.json",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/config",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/values",file
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/6b61bbd8a2431fbf_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/efb6c9b4ef2fd5e8_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/7b99d5ec3bc5347b_0",directory
+"/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/54bf56c75decccad_0",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/variations_seed_new",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/MANIFEST-000002",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/000003.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/MANIFEST-000002",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/000003.log",file
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage/ddc0ee71-11c2-4cdf-a1bc-da15feffb05f",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/MANIFEST-000002",directory
+"/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/000003.log",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/Resources/mscorlib.dll-resources.dat",file
+"/data/media/0/Android/data/jp.cocone.p2korea/files/il2cpp/Resources/mscorlib.dll-resources.dat",file
+"/data/media/0/Android/data/jp.cocone.p2korea/files/il2cpp/Metadata/global-metadata.dat",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577490000002.7e55ef20_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000000.fe85aa11_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577491000001.fe85aa11_tmp/s_tmp",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/globalgamemanagers.assets.resS����������",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/level0.resS��|�",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/0ccd2c528006fd3188cb09a60bd8824a",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/0ccd2c528006fd3188cb09a60bd8824a_tmp",directory
+"/data/user/0/jp.cocone.p2korea/files/assetpacks",directory
+"/storage/emulated/0/Android/obb/jp.cocone.p2korea",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/unity.ver",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/base.apk/assets/bin/Data/Managed",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/Metadata/global-metadata.dat",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/il2cpp.usym",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/UnitySubsystems",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/9216f3796ec880f73bd05909c1750307",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/9216f3796ec880f73bd05909c1750307_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/vulkan_pso_cache.bin",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/globalgamemanagers.assets.resS����������0r���A>������(M�0r�������s�������������0r������������������+�������",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/level0���������",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600000.a9d221f9_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577495600001.a9d221f9_tmp/s_tmp",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.session_storage.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.session_storage.600f039f72336a9b712b0b999f62e864.647bc7f6-1a9b-449d-8bff-115a43e642b4.xml.bak",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2024/12_christmas",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/AssetCrcEnc",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2024/12_christmas/5838d01ad7964529a8ef63c065233d4a",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/split_UnityDataAssetPack.apk/assets/bin/Data/globalgamemanagers.assets.resS����������Pr���!�������X@�Pr���8�Pr�������������Pr�����������������+�������",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/UnityCache/Shared/__info",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/UnityCache/Shared",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/UNITY_STORED_NOTIFICATION_IDS.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/UNITY_STORED_NOTIFICATION_IDS.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/user-data",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/lmc",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/lmc/masters_cache.0.0",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2020/christmas/e28b716a70a710370942d750fd882bf1",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2020/christmas",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/common/9953c22f8316cfdcd3610558f36b364a",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/0-0/8aff190ce8e04ae7be8f3173636834e3",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/common",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/0-0",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-1/7d2539f2a44ff9770a0934083d89873e",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-3/cdf44e95ead1fce8544d6ab3ed0de840",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1376-1/be40d01c7d685220a8a70352137a5a5f",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/2032-3/c6780f9724f0dc40f5fc5108c0234df8",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-2/828f5c1501567ee8b5c77dc184e85ac4",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-3",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1376-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/2032-3",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-2",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm30/0dba89385dd1d03171c6c0212ac7186f",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm3/e032a04a42b34a27377d0408e990d327",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm2/b71f1637835c8aa03bfec9ffc9a91251",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm31/1ee9fc1c7bd8200c4fecb388d9f2381a",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm21/07520431f8f0b74f8dbd01da85cd54ca",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm20/66ec71dbdde996885e97f55f6969d72f",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm22/cf7faeb421473b1f09a2a12d311efd4d",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm30",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm29/9398acface937fccbb5b4f79654f7a6b",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm3",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm31",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm2",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm20",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm21",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm29",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm22",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_5_surprise_eff/13d10d662f237de8377f4a9807e9d330",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_26_move/3ddeab3d2b1fd1d0bd62c1abc1d00435",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_29_share_fruit/296242c7650a50f27c1e35431c4cc38f",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_1_sleepy/52820a7110cfc9ace3183038dc9c796a",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_3_sweat/e7f9659e5e5172b8d30d2b18d8089523",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_5_surprise_eff",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_8_moya/1ebca581562f007689140ec2ba09ac64",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_9_dust/d9e0f5659147ff97dfef09926a645c87",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_26_move",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_29_share_fruit",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_1_sleepy",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_3_sweat",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_8_moya",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_9_dust",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm53/c615bb0319982c72c2b0ef70290dedb6",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm46/e5250ebc4b79b19936278d05286f109b",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm46",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm53",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_105_time/0d183de9271617c7aaaafa8341b9c592",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_105_time",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1045-1/799b030d5f2a8d2a85c2df3e88aec485",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha1/b5b5d776a25f214bd8a4676b0112fa4c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1043-1/c741ace5d7d9fac35ff367883efd6966",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1800-2/0e6a9909d29095f96aa94b3c91353bb6",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1045-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1043-1",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1800-2",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/bgm/event_bgm_christmas/f2fed0ab7ae941495fb5f2aa5dea5d9b",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/bgm/event_bgm_christmas",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/251212_gacha_info_1809.2249f3c3ca15b3e4511cc72446e41f73",directory
+"/data/user/0/jp.cocone.p2korea/shared_prefs/WebViewChromiumPrefs.xml",file
+"/data/user/0/jp.cocone.p2korea/shared_prefs/WebViewChromiumPrefs.xml.bak",file
+"/data/user/0/jp.cocone.p2korea/app_textures",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native/pending",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/event0000000000_",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/.ae1765775027222",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/aqs.911e8a97a4724378ab35fe00911959a8",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/priority-reports/693F967301000001612BB8EC09C724A8",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/keys",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/start-time",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native/device.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native/session.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native/app.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F967301000001612BB8EC09C724A8/native/os.json",file
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96B301650002612BB8EC09C724A8",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96B301650002612BB8EC09C724A8/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96B301650002612BB8EC09C724A8/aqs.911e8a97a4724378ab35fe00911959a8",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96B301650002612BB8EC09C724A8/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96B301650002612BB8EC09C724A8/start-time",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/e",directory
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/liblibc.so",file
+"/data/app/jp.cocone.p2korea-lEOUazXifizRJfrftVpGZQ==/lib/arm64/libc.so",file
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800000.4adb7e30_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/p",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96EA018800016DA08273E0FFE23D",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96EA018800016DA08273E0FFE23D/native",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96EA018800016DA08273E0FFE23D/native/pending",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F970103A100016EC44A510EE1B60D",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F970103A100016EC44A510EE1B60D/userlog",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F970103A100016EC44A510EE1B60D/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F970103A100016EC44A510EE1B60D/start-time",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96EA018800016DA08273E0FFE23D/report",directory
+"/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/693F96EA018800016DA08273E0FFE23D/start-time",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577503800001.4adb7e30_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600000.b2f4205e_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577511600001.b2f4205e_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/c",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/c_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/e",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/e_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/d",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/d_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/g",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/g_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/s",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100000.9dc4d299_tmp/s_tmp",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/p",directory
+"/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/3737a51b-b85b-402d-9d6f-7ba7aa5e642a/Analytics/ArchivedEvents/176577513100001.9dc4d299/d",directory

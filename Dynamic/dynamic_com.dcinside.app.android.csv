@@ -1,0 +1,246 @@
+path,type
+"/data/user/0/com.dcinside.app.android",directory
+"/data/user_de/0/com.dcinside.app.android",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/lib/arm64",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.ko.apk!/lib/arm64-v8a",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/base.apk",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.arm64_v8a.apk",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.ko.apk",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.xxhdpi.apk",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/oat/arm64/base.odex",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/oat/arm64/base.vdex",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/oat/arm64/base.art",file
+"/data/misc/profiles/cur/0/com.dcinside.app.android",directory
+"/data/misc/profiles/cur/0/com.dcinside.app.android/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/com.dcinside.app.android/config.ko.split.prof",directory
+"/data/misc/profiles/cur/0/com.dcinside.app.android/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/com.dcinside.app.android/primary.prof",file
+"/data/user/0/com.dcinside.app.android/cache",directory
+"/data/user_de/0/com.dcinside.app.android/code_cache",directory
+"/data/user_de/0/com.dcinside.app.android/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.dcinside.app.android/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.dcinside.app.android/shared_prefs",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo0NzczNjk3NTQzNDM6YW5kcm9pZDpkMmZmZGQ5NjAxMjBhMjA3NzI3ODQy.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo0NzczNjk3NTQzNDM6YW5kcm9pZDpkMmZmZGQ5NjAxMjBhMjA3NzI3ODQy.xml.bak",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/FirebasePerfSharedPrefs.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/FirebasePerfSharedPrefs.xml.bak",file
+"/data/user_de/0/com.dcinside.app.android/shared_prefs",directory
+"/data/user_de/0/com.dcinside.app.android/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo0NzczNjk3NTQzNDM6YW5kcm9pZDpkMmZmZGQ5NjAxMjBhMjA3NzI3ODQy.xml",file
+"/data/user_de/0/com.dcinside.app.android/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo0NzczNjk3NTQzNDM6YW5kcm9pZDpkMmZmZGQ5NjAxMjBhMjA3NzI3ODQy.xml.bak",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/frc_1:477369754343:android:d2ffdd960120a207727842_firebase_settings.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/frc_1:477369754343:android:d2ffdd960120a207727842_firebase_settings.xml.bak",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.dcinside.app.android/no_backup",directory
+"/data/user/0/com.dcinside.app.android/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/com.dcinside.app.android/files",directory
+"/data/user/0/com.dcinside.app.android/files/frc_1:477369754343:android:d2ffdd960120a207727842_firebase_activate.json",file
+"/data/user/0/com.dcinside.app.android/files/frc_1:477369754343:android:d2ffdd960120a207727842_firebase_defaults.json",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/reports",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/priority-reports",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/native-reports",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.firebase.crashlytics.xml.bak",file
+"/data/user/0/com.dcinside.app.android/files/frc_1:477369754343:android:d2ffdd960120a207727842_firebase_fetch.json",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/com.crashlytics.settings.json",file
+"/data/user/0/com.dcinside.app.android/files/datastore/firebase_session_Y29tLmRjaW5zaWRlLmFwcC5hbmRyb2lk_settings.preferences_pb",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/initialization_marker",directory
+"/data/user/0/com.dcinside.app.android/databases",directory
+"/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events",file
+"/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/crash_marker",directory
+"/data/user/0/com.dcinside.app.android/files/generatefid.lock",file
+"/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/com.dcinside.app.android/cache/com.kakao.adfit.matrix.cache",file
+"/data/user/0/com.dcinside.app.android/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.dcinside.app.android/files/PersistedInstallation.W0RFRkFVTFRd+MTo0NzczNjk3NTQzNDM6YW5kcm9pZDpkMmZmZGQ5NjAxMjBhMjA3NzI3ODQy.json",file
+"/data/user/0/com.dcinside.app.android/databases/androidx.work.workdb",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.kakao.adfit.preference.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.kakao.adfit.preference.xml.bak",file
+"/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb",file
+"/data/user/0/com.dcinside.app.android/cache/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb.lck",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/save.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/save.xml.bak",file
+"/data/user/0/com.dcinside.app.android/app_lib",directory
+"/data/user/0/com.dcinside.app.android/app_lib/libnative-lib.so",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE",directory
+"/data/user/0/com.dcinside.app.android/app_lib/libNativeImageProcessor.so",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE/userlog",directory
+"/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.dcinside.app.android/app_lib/librealm-jni.so.10.19.0",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE/start-time",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.dcinside.app.android/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.dcinside.app.android/files/phenotype/shared/com.google.android.gms.measurement#com.dcinside.app.android.pb",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.dcinside.app.android_preferences.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/com.dcinside.app.android_preferences.xml.bak",file
+"/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db",file
+"/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics.files.v1",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/userlog",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/aqs.57f3111873f44b8b8ac4385b26f3abe7",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC16024800017684D8972F405160/start-time",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDD52027D00010DC2456C180C56EE/keys",directory
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnative-lib.so",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libNativeImageProcessor.so",file
+"/data/app/com.dcinside.app.android-7OU8tnNQgAPAGE7ErHEbxw==/split_config.arm64_v8a.apk!/lib/arm64-v8a/librealm-jni.so",file
+"/data/user/0/com.dcinside.app.android/cache/webview_com.dcinside.app.android",directory
+"/data/user/0/com.dcinside.app.android/app_webview_com.dcinside.app.android",directory
+"/data/user/0/com.dcinside.app.android/cache/WebView",directory
+"/data/user/0/com.dcinside.app.android/app_webview",directory
+"/data/user_de/0/com.dcinside.app.android/cache/webview_com.dcinside.app.android",directory
+"/data/user_de/0/com.dcinside.app.android/app_webview_com.dcinside.app.android",directory
+"/data/data/com.dcinside.app.android�����������������������������/system/lib64/android.hardware.graphics.common@1.2.so������������8�2t������(D��",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/admob.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/admob.xml.bak",file
+"/data/user/0/com.dcinside.app.android/files/.realm.temp",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/24939d5578e03342_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/24939d5578e03342_1",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/24939d5578e03342_s",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0904d61c056fd0d4_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0904d61c056fd0d4_1",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0904d61c056fd0d4_s",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/df67e2fc318f181d_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/todelete_df67e2fc318f181d_0_1",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.HaOaQt",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/pref_store",file
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.bX5XQv",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/BrowserMetrics",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/BrowserMetrics/BrowserMetrics-693FDD57-ED6.pma",file
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.XT89sC",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.IgGfrv",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.nnOlh5",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.EtAxcU",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87/userlog",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87/start-time",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/userlog",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/aqs.5e5a403521cf4a5a8687ed9ed2edced5",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDBFE01BA0001740A1144637780FA/start-time",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDC1202D4000176006C111D637B87/keys",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/7aab9925829cd3b3_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/todelete_7aab9925829cd3b3_0_1",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.yZVkqO",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.0TT7FE",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.sy4ZEN",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.PakRtb",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.pJE4gH",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.n8Oi8I",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/index-dir/temp-index",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.C1Brnp",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.d8nHWq",directory
+"/data/data/com.dcinside.app.android/app_webview__dc0/Default/Cookies-journal",file
+"/data/data/com.dcinside.app.android/app_webview__dc0/Default",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.5qLVsW",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE/userlog",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE/start-time",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/userlog",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/internal-keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/report",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/keys",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/aqs.c3910469c1fa4d90907d9dfa757d003d",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDA95007E00015D44A2849B108B07/start-time",directory
+"/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/693FDADC00BC000161E5835E06A7C4BE/keys",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.LXLyhk",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.ShNwOa",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.TsA9bf",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/BrowserMetrics/BrowserMetrics-693FDAE1-62F7.pma",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.jVwcWW",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.H1Z48e",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.nRXOIt",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.AIdxw9",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.Mnki14",directory
+"/data/user/0/com.dcinside.app.android/lib",directory
+"/data/user/0/com.dcinside.app.android/shared_prefs/pcvmspf.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/pcvmspf.xml.bak",file
+"/data/user/0/com.dcinside.app.android/app_pccache",directory
+"/data/user/0/com.dcinside.app.android/app_pccache/5",directory
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B",directory
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B/pcam.jar",file
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B/pcbc",file
+"/data/user/0/com.dcinside.app.android/app_tmppccache",directory
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B/pcopt",directory
+"/data/user/0/com.dcinside.app.android/databases/com.google.android.gms.ads.db",file
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_1",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_s",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/4274f650b56c7448_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/4274f650b56c7448_1",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/4274f650b56c7448_s",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/1be0130e9a500f4c_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/1be0130e9a500f4c_1",directory
+"/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.t4PDVZ",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/1be0130e9a500f4c_s",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0cd3f05c6e138671_0",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0cd3f05c6e138671_1",directory
+"/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/0cd3f05c6e138671_s",directory
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B/oat/pcam.jar.cur.prof",file
+"/data/user/0/com.dcinside.app.android/cache/volley",directory
+"/data/user/0/com.dcinside.app.android/cache/volley/350544375459642213",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-11912640921941845632",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1221246437-125856989",file
+"/data/user/0/com.dcinside.app.android/cache/volley/894464865486193247",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1647654268-1903129450",file
+"/data/user/0/com.dcinside.app.android/cache/volley/125348305737815290",file
+"/data/user/0/com.dcinside.app.android/cache/volley/2045769594519279943",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-250182537812836965",file
+"/data/user/0/com.dcinside.app.android/cache/volley/7459642891632109740",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-742644341-1778986733",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-655715590301200631",file
+"/data/user/0/com.dcinside.app.android/cache/volley/235021866-958457254",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1197712826655002874",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1602421101780797142",file
+"/data/user/0/com.dcinside.app.android/cache/volley/7459642891591991609",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1977251969969336006",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-250182537-1753117646",file
+"/data/user/0/com.dcinside.app.android/cache/volley/417584912-2089964829",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-1563404815-1402565012",file
+"/data/user/0/com.dcinside.app.android/cache/volley/275487148148005031",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-65571559078950016",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-742644341-941490448",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-139605349995085421",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-900416879-823320257",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-1563404815892681859",file
+"/data/user/0/com.dcinside.app.android/cache/volley/3505443751621285324",file
+"/data/user/0/com.dcinside.app.android/cache/volley/1409189697-2045405511",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-20187697301682230572",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-9004168791014712398",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-1985598162-277439726",file
+"/data/user/0/com.dcinside.app.android/cache/volley/272845184-938874926",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-19712555581364348395",file
+"/data/user/0/com.dcinside.app.android/cache/volley/-1482644625-634731736",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/paid_storage_sp.xml",file
+"/data/user/0/com.dcinside.app.android/shared_prefs/paid_storage_sp.xml.bak",file
+"/data/user/0/com.dcinside.app.android/app_pccache/5/0C27F8F29F18E5FB9C36CBB9EA9B2F06C1974D7B/pcam.jar!/libd70666BD7B1F2.so",file

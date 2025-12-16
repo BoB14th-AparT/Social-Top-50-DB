@@ -1,0 +1,687 @@
+path,type
+"/data/user/0/com.ajdll5.talk",directory
+"/data/user_de/0/com.ajdll5.talk",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/base.apk",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.arm64_v8a.apk",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.ko.apk",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.xxhdpi.apk",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/oat/arm64/base.odex",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/oat/arm64/base.vdex",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/oat/arm64/base.art",file
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/lib/arm64",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.ko.apk!/lib/arm64-v8a",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/misc/profiles/cur/0/com.ajdll5.talk",directory
+"/data/misc/profiles/cur/0/com.ajdll5.talk/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/com.ajdll5.talk/config.ko.split.prof",directory
+"/data/misc/profiles/cur/0/com.ajdll5.talk/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/com.ajdll5.talk/primary.prof",file
+"/data/user/0/com.ajdll5.talk/cache",directory
+"/data/user_de/0/com.ajdll5.talk/code_cache",directory
+"/data/user_de/0/com.ajdll5.talk/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.ajdll5.talk/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.ajdll5.talk/files",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/reports",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/native-reports",directory
+"/data/user/0/com.ajdll5.talk/shared_prefs",directory
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.firebase.crashlytics.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.firebase.crashlytics.xml.bak",file
+"/data/user_de/0/com.ajdll5.talk/shared_prefs",directory
+"/data/user_de/0/com.ajdll5.talk/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMzgwMDUwNzU1Njk6YW5kcm9pZDoxMTk1NTMwZjNkMWY1OTAxMzYyZGQw.xml",file
+"/data/user_de/0/com.ajdll5.talk/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MToxMzgwMDUwNzU1Njk6YW5kcm9pZDoxMTk1NTMwZjNkMWY1OTAxMzYyZGQw.xml.bak",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/com.crashlytics.settings.json",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/initialization_marker",directory
+"/data/user/0/com.ajdll5.talk/databases",directory
+"/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events",file
+"/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events-wal",directory
+"/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events-shm",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/crash_marker",file
+"/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events-journal",file
+"/data/user/0/com.ajdll5.talk/files/datastore/firebase_session_Y29tLmFqZGxsNS50YWxr_settings.preferences_pb",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.ajdll5.talk/files/generatefid.lock",file
+"/data/user/0/com.ajdll5.talk/databases/androidx.work.workdb",directory
+"/data/user/0/com.ajdll5.talk/no_backup",directory
+"/data/user/0/com.ajdll5.talk/no_backup/androidx.work.workdb",file
+"/data/user/0/com.ajdll5.talk/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.ajdll5.talk/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.ajdll5.talk/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.ajdll5.talk/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMzgwMDUwNzU1Njk6YW5kcm9pZDoxMTk1NTMwZjNkMWY1OTAxMzYyZGQw.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxMzgwMDUwNzU1Njk6YW5kcm9pZDoxMTk1NTMwZjNkMWY1OTAxMzYyZGQw.xml.bak",file
+"/data/user/0/com.ajdll5.talk/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/com.ajdll5.talk/files/PersistedInstallation.W0RFRkFVTFRd+MToxMzgwMDUwNzU1Njk6YW5kcm9pZDoxMTk1NTMwZjNkMWY1OTAxMzYyZGQw.json",file
+"/data/user/0/com.ajdll5.talk/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/start-time",directory
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.ajdll5.talk/files/phenotype/shared/com.google.android.gms.measurement#com.ajdll5.talk.pb",directory
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.ajdll5.talk_preferences.xml",file
+"/data/user/0/com.ajdll5.talk/shared_prefs/com.ajdll5.talk_preferences.xml.bak",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704828044",directory
+"/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics",directory
+"/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics-ndk",directory
+"/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics.files.v1",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847B036300012986CFD91E59CCB9/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E847B036300012986CFD91E59CCB9",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387",directory
+"/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db",file
+"/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/aqs.d00cf4e4ddb048af97fe8945fed2867f",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8460006C000126691A54A854F387/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847C013400022986CFD91E59CCB9",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847C013400022986CFD91E59CCB9/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847C013400022986CFD91E59CCB9/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E847C013400022986CFD91E59CCB9/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705003462",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B010E0001363E11DA900DFF6B/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E852B010E0001363E11DA900DFF6B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/aqs.a7bea5ec5f57470bb393bf058d8cebd4",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E848403BA00012A74C8018CD59AD1/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B02A00002363E11DA900DFF6B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B02A00002363E11DA900DFF6B/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B02A00002363E11DA900DFF6B/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E852B02A00002363E11DA900DFF6B/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705035190",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B001B0001390127087BE9E1F7/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E854B001B0001390127087BE9E1F7",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/aqs.2ba4d60479be4644ab4f1a65f2313db9",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E853A025B0001378DB888CA59AC04/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B01990002390127087BE9E1F7",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B01990002390127087BE9E1F7/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B01990002390127087BE9E1F7/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E854B01990002390127087BE9E1F7/start-time",directory
+"/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events����<p��������0$t",directory
+"/data/app/com.ajdll5.talk-dQnQX84HLQMuQxhBuyr9xg==/lib/arm64����/system/lib64/vndk-sp-29/libhardware.so�������������������������/memfd:frida-agent-64.so",file
+"/data/user/0/com.ajdll5.talk/cache/webview_com.ajdll5.talk",directory
+"/data/user/0/com.ajdll5.talk/app_webview_com.ajdll5.talk",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/SafeBrowsing",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crash Reports",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/782a4d156c24fa23_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/99089bc6c475fe0e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/80e7a912a60ff5e4_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/81249569ce176c11_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/e513c68072cfd9a2_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/a196494d2b02fa4f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/fb6b6f1b8b8d54b5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/1f8ef2915d7efbf6_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/00cba06ed1007d53_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/5d58acbb47698f51_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/c9cf5ca8dc62a015_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/8739047e885dd043_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/453d43028156e10c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/b65b987c9bd8e7c3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/70235934e1c24cd1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/6bf25fd159dc5736_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/be2b45774be4f090_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/37cd94cd2bfec3dd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/11a50076bb062b59_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/0e00df38debaf5f3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/9ebce35762485fde_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/7659751a5e121d9a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/dae67b52bd63f308_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/d577b8f6c73d78e9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/c30b7ea749107d54_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/6fe6c694feeb5e7f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/3456341de185240e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/02cef136d151ab09_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/606fcd47d2fb9ade_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/8c37cc7ca6ab000e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/792273861a8cf1d9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/2ccce3f139cd6604_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/485eae5a37677eea_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/036039db93911309_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/13e189fcd6a7ccf1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/8a621238a7460ea7_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/bc8a3e808541fea5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/9b1f7cfda82c3871_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b356b1b85a5a54e5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/389cfc22aa126bfa_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0c8bb9b323410e7d_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/494f72f90da15767_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/8885d58134981dbf_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/40955ca628afd400_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/95354ab50a912929_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/56c3be08dfe7c5cd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/2ae63a82b8459d9b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3a75b21c84c08c10_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/cf7c7a7ec8eb435d_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/19e5d12f272f0598_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e571176318c02cae_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e678666ac3585039_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b01e4a0acb4f0e6a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/298f944b62ac428f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0fa8ebbceaa2939e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a885b32ca3bbe416_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/213f9f53f9955336_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/4fbec1f38c2f6cd3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6d55ee4f360aef82_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5935e0e6c3731a09_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/8af74042aa884115_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/9f66da35e5492595_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/08c0a96ef78a16ba_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ff44f430ed29e5b5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/55e6aae872966b25_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5277c9f6ae704460_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ac2cf64616ee3cae_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3caa85c31f33534f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f049339dc6163285_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3dc3f09624b66ec5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e499ce72c77b4999_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c6ac6c6f0f3db508_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/789cd3edf6c91427_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/996c94fa2dcc5e31_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0e98b7e87b97df0f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d6e02162ef66db9b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c1997df09fb8a2fd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/51f97065acf7a786_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/391e0bfe1fb935d0_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/4308c41ef20d2668_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7f00504ae4756915_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b26c808a05caaf14_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/9f9897796da5b906_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/8bc0088ce2ed312e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a3d711c8363ddc95_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/70419746541181c4_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/00ce6e2cb364a5ee_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/2a898158a73dcee0_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/178f7a28c568c7c9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c268a316c48f9ddf_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/eea4510e430f05a0_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ab85bbbd40aca6dc_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/25709cd1f7da8356_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/50ed6e0f975f01b6_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d74304f55bb9dd2e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d6d1c255d0c0eef1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/441d929f3433bf9a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6bfaf781ebb51471_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3cf775ff9fad14a9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/8ff918fe18d8db10_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0fcd9f7ae9720a38_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/9c0ed13323d4b7ea_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/56602c7cadf785ac_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/bdd565b8ad81ecbf_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/de0c3d854a87d728_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a17b16aacad966aa_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6453121a1000a1b0_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3c1876dfbb71ea87_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/06f1c75e6e0f2484_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ad5155a9aa298c0a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a0b76d39960d0cee_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a9f7b72c08e64103_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b692c4d4eeb97224_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/033cbc8db2d54c01_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7fd3bd4263394392_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/9be2005ae9abc025_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ad2050f42308b34c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5bfb77298c836991_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a1b512dcbad883dd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3cee38023504444b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e5e04162d6b0cb0c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6916800756fc8a1c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/961f6083648b3e9b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fb5758cb5cff0b92_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/712c19c1bc33bd9c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/10dc3c5f53cb1025_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fecfe4cb7cff4b8d_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d634ec80510d08a3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c64fb0d0cb70b78e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e5218e901e423722_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7bf0a1aec2a3a0fa_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/bad99be2c071a714_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/2b3d14b8fd63d9bd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/08265df43e339cf3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a363878e648258d3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/780fe590807ffd68_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/075da77178295afd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fb0a44f3e240ce58_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5548e64011224c28_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/42f5531b1af0f24e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/96021089cc5968ee_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0c70fbf692db7097_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/cffcd4c3c698d9aa_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/11564ba6c94b9f9c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/dabc12befbf75d65_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c65d1670e8fc3d70_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5d610b0d5b25bb6f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/113e2259012b2299_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c4e9bb58e5d26bb5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/92bdb74a7eb817e2_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/082c13ff52427b74_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/343029e07aad643f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/30e7ef9782c69378_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f55894f576cb023c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d18a690d685fff36_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/17bf09f69e8806ca_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/dbfa64bfeddf7054_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5ee8af277f940282_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/4684869476fa869e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b36fc5039b950df9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/64d716a3c39d41c0_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f5331e8546f47b25_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/996c67aecd53ca38_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/412adb250b6cfa20_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/aad0a7ae54ae2e08_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d68ceb18b8025052_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/289b223e9f1ced69_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/cb876d4ec81c55bb_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fdad8c8459636aa5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/9e6d879938d14050_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/44bdc1c33e88490c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/3b1f048f26548136_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b1f1ee89a76bce4b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/2c5e18fb60b0b4fc_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b5ab0453d1e41c60_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/085320f1b8f41584_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/1ca4d3dd10a51590_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6b5d1170b2fe82cc_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/8aa6f3186d7412f7_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/59bfc0db9e38c590_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/1ea222b01007d0bc_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a55bd7622d0d5963_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f9c17c327ad00f29_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ac4eb94a9db9c865_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/317b8ac21d10168f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/91e7b2d06d8bddef_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d61acb8a7375d68a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/52920f47fa308e21_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a5b67a3cdc4b5cc9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/db9d8719369db61b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/ec93caf373b196a7_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0d8ecb9d1f41d79d_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e6cdd6bafc9dffc9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/91a37d3a5a7a07ab_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fd38d7af083e14d9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/2eec42881d3e9e46_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f617579a927f24c7_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/13416209088fc342_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/26d385ac4de06c2c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f9a9a9582c79aeb6_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/dd898f253920572b_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0e3308ca4bdc1efb_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/1bbb8142eb0d001c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b4f8d5d880bf86a3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0fd198755316db77_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e250bf6d2784a43c_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/1db2d389c876a92a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/46f89f5906b2ee25_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/b9781a6cb044b1ae_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e76b9c98954c12cd_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7fff2a4098c5ffb1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/456f4bae32677bd7_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/f561e5ff7b202899_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/e09900bf17bd6a38_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/15e6464d808f1a75_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/593681af83e8daaa_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/295e23036132a7da_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/5db82adc4e2227c1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7da50e8d9c3f1877_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/d03d97b27b687df9_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0002be287158ac4f_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/31bfa94127d7eebe_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7f64d6d69ab3f00d_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7080352ac8338a20_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/1447f30cb28e2697_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/05b6b7923d0f7b20_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/02c08f4d542da847_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/7e2257cb4c20dc73_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/024878711399ecd5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/new",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/completed",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/pending",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/com.ajdll5.talk/app_webview",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default",directory
+"/data/user/0/com.ajdll5.talk/app_webview/variations_stamp",file
+"/data/user/0/com.ajdll5.talk/app_webview/webview_data.lock",file
+"/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics",directory
+"/data/user/0/com.ajdll5.talk/app_webview/variations_seed",file
+"/data/user/0/com.ajdll5.talk/app_webview/pref_store",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Web Data",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Cookies-journal",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/VideoDecodeStats",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Cookies",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Web Data-journal",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/LOCK",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/LOG",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/000025.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/MANIFEST-000024",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/LOG.old",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/CURRENT",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/LOCK",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000031.ldb",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/LOG",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000029.ldb",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000035.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000034.ldb",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000033",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/LOG.old",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/CURRENT",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage/52a23937-fd21-40d0-8d52-0e67bbb73047",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/PersistentOriginTrials/LOCK",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/PersistentOriginTrials/LOG",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/PersistentOriginTrials/LOG.old",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000031.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000029.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000035.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000034.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/MANIFEST-000033",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/VideoDecodeStats/LOCK",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/VideoDecodeStats/LOG",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics/BrowserMetrics-693E853B-378D.pma",file
+"/data/user_de/0/com.ajdll5.talk/cache/webview_com.ajdll5.talk",directory
+"/data/user_de/0/com.ajdll5.talk/app_webview_com.ajdll5.talk",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705074746",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E8569021700013F35050A5545D401",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8569021700013F35050A5545D401/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8572034D00023F35050A5545D401",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8572034D00023F35050A5545D401/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8572034D00023F35050A5545D401/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8572034D00023F35050A5545D401/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705086000",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857D02E40001400AB1204C17F277/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E857D02E40001400AB1204C17F277",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857E00B60002400AB1204C17F277",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857E00B60002400AB1204C17F277/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857E00B60002400AB1204C17F277/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E857E00B60002400AB1204C17F277/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705118305",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E0083000143CAD2F958D290B6/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E859E0083000143CAD2F958D290B6",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/aqs.66951d76d06a470b84e88802b5804782",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E858D007E000141F39FEAF2064C5A/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E020C000243CAD2F958D290B6",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E020C000243CAD2F958D290B6/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E020C000243CAD2F958D290B6/report",file
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E859E020C000243CAD2F958D290B6/start-time",file
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/0e3345d28376668e_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/94e0234ae217ef0a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/4bc0cc451df6826a_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/52356093171e34b1_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/a02fad152b49b0c3_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/772a113da61f85d6_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/07938e0cd74336a2_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/c78e32cf0505aff5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/6fc5020ffcf216e5_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/fc8ba14a9a360636_0",directory
+"/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/85da99cc219df562_0",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/000027.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/MANIFEST-000026",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000036",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000038.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000037.ldb",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage/61ab9aaa-1679-4495-9fa3-249800ac06a1",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/MANIFEST-000036",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000038.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000037.ldb",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704361255",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A9005300017FBDA744C44E98CF/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E82A9005300017FBDA744C44E98CF",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/aqs.d0b976b78e9045c4ae585fefb00882f2",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/aqs.8171c3f7d92a4df9b850602746ad4916",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E50DF011100014E30D00FAF88F22A/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A901FA00027FBDA744C44E98CF",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A901FA00027FBDA744C44E98CF/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A901FA00027FBDA744C44E98CF/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E82A901FA00027FBDA744C44E98CF/start-time",directory
+"/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics-spare.pma",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/MANIFEST-000004",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/000006.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000004",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000006.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000005.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage/0eb34979-0e83-4798-a60c-d1a04fb7ccff",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/MANIFEST-000004",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000006.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000005.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics/BrowserMetrics-693E82AD-143.pma",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704479688",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E8316033E00010908D968EE850446",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8316033E00010908D968EE850446/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E831F031400020908D968EE850446",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E831F031400020908D968EE850446/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E831F031400020908D968EE850446/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E831F031400020908D968EE850446/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704492966",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832C031E000109FB33EA96186127/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E832C031E000109FB33EA96186127",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832D00D0000209FB33EA96186127",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832D00D0000209FB33EA96186127/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832D00D0000209FB33EA96186127/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E832D00D0000209FB33EA96186127/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704532272",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8354009700010D049F61CF86C502/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E8354009700010D049F61CF86C502",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/aqs.e9e74dad0ea94c56b7abe881f131bb23",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E8343006800010B3A45532BE584E4/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E835401A200020D049F61CF86C502",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E835401A200020D049F61CF86C502/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E835401A200020D049F61CF86C502/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E835401A200020D049F61CF86C502/start-time",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/MANIFEST-000009",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/000010.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000008.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/MANIFEST-000010",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000011.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/000012.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage/b856be1d-a641-4ce6-ac9f-c3234539e3b6",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000008.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/MANIFEST-000010",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000011.ldb",directory
+"/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/000012.log",file
+"/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics/BrowserMetrics-693E8343-B3A.pma",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704575217",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E837400B9000112948B14B23DCF96",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837400B9000112948B14B23DCF96/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837F0140000212948B14B23DCF96",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837F0140000212948B14B23DCF96/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837F0140000212948B14B23DCF96/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E837F0140000212948B14B23DCF96/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704587348",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B00F000011460955E5DFB8B3B/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E838B00F000011460955E5DFB8B3B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B021C00021460955E5DFB8B3B",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B021C00021460955E5DFB8B3B/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B021C00021460955E5DFB8B3B/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E838B021C00021460955E5DFB8B3B/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704651940",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CB033300011BAA7FA5A2102B35/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E83CB033300011BAA7FA5A2102B35",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/aqs.a3b15fbf84de4f8187ccd240e01b111d",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83AF01B6000116FEA91D2F1D36E2/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CC005700021BAA7FA5A2102B35",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CC005700021BAA7FA5A2102B35/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CC005700021BAA7FA5A2102B35/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CC005700021BAA7FA5A2102B35/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/event0000000000_",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704679225",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7006C00011EE6E1131ECA6DD5/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/693E83E7006C00011EE6E1131ECA6DD5",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/aqs.3f20890e5ea44834aa64c6cd6139ca60",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/internal-keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/keys",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/user-data",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83CF01A900011C28B3298E7CB612/start-time",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7016400021EE6E1131ECA6DD5",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7016400021EE6E1131ECA6DD5/userlog",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7016400021EE6E1131ECA6DD5/report",directory
+"/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/693E83E7016400021EE6E1131ECA6DD5/start-time",directory

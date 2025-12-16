@@ -1,0 +1,539 @@
+path,type
+"/data/user/0/com.jype.fans",directory
+"/data/user_de/0/com.jype.fans",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/base.apk!/lib/arm64-v8a",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.ko.apk!/lib/arm64-v8a",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.xxhdpi.apk!/lib/arm64-v8a",directory
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/base.apk",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.ko.apk",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.xxhdpi.apk",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/oat/arm64/base.odex",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/oat/arm64/base.vdex",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/oat/arm64/base.art",file
+"/data/misc/profiles/cur/0/com.jype.fans",directory
+"/data/misc/profiles/cur/0/com.jype.fans/config.xxhdpi.split.prof",directory
+"/data/misc/profiles/cur/0/com.jype.fans/config.ko.split.prof",directory
+"/data/misc/profiles/cur/0/com.jype.fans/config.arm64_v8a.split.prof",directory
+"/data/misc/profiles/cur/0/com.jype.fans/primary.prof",directory
+"/data/user/0/com.jype.fans/cache",directory
+"/data/user_de/0/com.jype.fans/code_cache",directory
+"/data/user_de/0/com.jype.fans/code_cache/com.android.opengl.shaders_cache",file
+"/data/user_de/0/com.jype.fans/code_cache/com.android.skia.shaders_cache",file
+"/data/user/0/com.jype.fans/cache/sentry",directory
+"/data/user/0/com.jype.fans/cache/sentry/app_start_profiling_config",directory
+"/data/user_de/0/com.jype.fans/shared_prefs",directory
+"/data/user_de/0/com.jype.fans/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo0MTY5NTI4NjM3OTg6YW5kcm9pZDoyMDI4ZThjZjI3NjRmZDM1MTkxYzk3.xml",file
+"/data/user_de/0/com.jype.fans/shared_prefs/com.google.firebase.common.prefs:W0RFRkFVTFRd+MTo0MTY5NTI4NjM3OTg6YW5kcm9pZDoyMDI4ZThjZjI3NjRmZDM1MTkxYzk3.xml.bak",file
+"/data/user/0/com.jype.fans/shared_prefs",directory
+"/data/user/0/com.jype.fans/shared_prefs/com.google.android.gms.appid.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/com.google.android.gms.appid.xml.bak",file
+"/data/user/0/com.jype.fans/shared_prefs/com.google.firebase.messaging.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/com.google.firebase.messaging.xml.bak",file
+"/data/user/0/com.jype.fans/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo0MTY5NTI4NjM3OTg6YW5kcm9pZDoyMDI4ZThjZjI3NjRmZDM1MTkxYzk3.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo0MTY5NTI4NjM3OTg6YW5kcm9pZDoyMDI4ZThjZjI3NjRmZDM1MTkxYzk3.xml.bak",file
+"/data/user/0/com.jype.fans/no_backup",directory
+"/data/user/0/com.jype.fans/no_backup/com.google.android.gms.appid-no-backup",file
+"/data/user/0/com.jype.fans/databases",directory
+"/data/user/0/com.jype.fans/cache/.clipboard",directory
+"/data/user/0/com.jype.fans/databases/androidx.work.workdb",directory
+"/data/user/0/com.jype.fans/no_backup/androidx.work.workdb",file
+"/data/user/0/com.jype.fans/cache/data/user/0/com.jype.fans/no_backup/androidx.work.workdb.lck",file
+"/data/user/0/com.jype.fans/no_backup/androidx.work.workdb-wal",file
+"/data/user/0/com.jype.fans/no_backup/androidx.work.workdb-shm",file
+"/data/user/0/com.jype.fans/no_backup/androidx.work.workdb-journal",directory
+"/data/user/0/com.jype.fans/files",directory
+"/data/user/0/com.jype.fans/files/.gms-dynamite-code-cache",directory
+"/data/user/0/com.jype.fans/files/.expo-internal",directory
+"/data/user/0/com.jype.fans/shared_prefs/dev.expo.updates.prefs.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/dev.expo.updates.prefs.xml.bak",file
+"/data/user/0/com.jype.fans/cache/okhttp",directory
+"/data/user/0/com.jype.fans/cache/okhttp/journal",file
+"/data/user/0/com.jype.fans/cache/okhttp/journal.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/journal.bkp",directory
+"/data/user/0/com.jype.fans/files/dev.expo.modules.core.logging.dev.expo.updates",file
+"/data/user/0/com.jype.fans/cache/updates.db.lck",file
+"/data/user/0/com.jype.fans/shared_prefs/com.google.android.gms.measurement.prefs.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak",file
+"/data/user/0/com.jype.fans/databases/updates.db",file
+"/data/user/0/com.jype.fans/databases/updates.db-wal",file
+"/data/user/0/com.jype.fans/databases/updates.db-shm",file
+"/data/user/0/com.jype.fans/databases/updates.db-journal",directory
+"/data/user/0/com.jype.fans/files/phenotype_storage_info/shared/storage-info.pb",file
+"/data/user/0/com.jype.fans/files/phenotype/shared/com.google.android.gms.measurement#com.jype.fans.pb",directory
+"/data/user/0/com.jype.fans/shared_prefs/com.jype.fans_preferences.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/com.jype.fans_preferences.xml.bak",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b352386db5970ebcc2956acba897cdac",file
+"/data/user/0/com.jype.fans/files/.expo-internal/778ffc9fe8773a878e9c30a6304784de.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/c79c3606a1cf168006ad3979763c7e0c.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/02bc1fa7c0313217bde2d65ccbff40c9.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/35ba0eaec5a4f5ed12ca16fabeae451d.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/0a328cd9c1afd0afe8e3b1ec5165b1b4.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/3cd68ccdb8938e3711da2e8831b85493.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/61ca7e64b7d605716c57706cef640b9a.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/aff2c65b39a296d4f7e96d0f58169170.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d8e7601e3df962f83c62371ac14964d8.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/0747a1317bbe9c6fc340b889ef8ab3ae.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d84e297c3b3e49a614248143d53e40ca.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/1190ab078c57159f4245a328118fcd9a.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/78c625386b4d0690b421eb0fc78f7b9c.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/4403c6117ec30c859bc95d70ce4a71d3.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/069d99eb1fa6712c0b9034a58c6b57dd.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/c3273c9e5321f20d1e42c2efae2578c4.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/286d67d3f74808a60a78d3ebf1a5fb57.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d1ea1496f9057eb392d5bbf3732a61b7.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/19eeb73b9593a38f8e9f418337fc7d10.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/ab19f4cbc543357183a20571f68380a3.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d8b800c443b8972542883e0b9de2bdc6.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/412dd9275b6b48ad28f5e3d81bb1f626.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/20e71bdf79e3a97bf55fd9e164041578.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/3a2ba31570920eeb9b1d217cabe58315.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/31b5ffea3daddc69dd01a1f3d6cf63c5.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/140c53a7643ea949007aa9a282153849.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/a76d309774d33d9856f650bed4292a23.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b49ae8ab2dbccb02c4d11caaacf09eab.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b06871f281fee6b241d60582ae9369b9.ttf",file
+"/data/user/0/com.jype.fans/files/generatefid.lock",file
+"/data/user/0/com.jype.fans/files/PersistedInstallation.W0RFRkFVTFRd+MTo0MTY5NTI4NjM3OTg6YW5kcm9pZDoyMDI4ZThjZjI3NjRmZDM1MTkxYzk3.json",file
+"/data/user/0/com.jype.fans/files/.expo-internal/1f77739ca9ff2188b539c36f30ffa2be.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/605ed7926cf39a2ad5ec2d1f9d391d3d.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/3b89dd103490708d19a95adcae52210e.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/370dd5af19f8364907b6e2c41f45dbbf.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/adec7d6f310bc577f05e8fe06a5daccf.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/56c8d80832e37783f12c05db7c8849e2.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/e20945d7c929279ef7a6f1db184a4470.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/6148e7019854f3bde85b633cb88f3c25.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b62641afc9ab487008e996a5c5865e56.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/4e85bc9ebe07e0340c9c4fc2f6c38908.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/f7c53c47a66934504fcbc7cc164895a7.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d2285965fe34b05465047401b8595dd0.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/1681f34aaca71b8dfb70756bca331eb2.ttf",file
+"/data/user/0/com.jype.fans/databases/google_app_measurement_local.db",file
+"/data/user/0/com.jype.fans/databases/google_app_measurement_local.db-wal",directory
+"/data/user/0/com.jype.fans/databases/google_app_measurement_local.db-shm",directory
+"/data/user/0/com.jype.fans/databases/google_app_measurement_local.db-journal",file
+"/data/user/0/com.jype.fans/files/.expo-internal/1f1d71d3b25e5c6d969c52b805db1d37.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/311dcef4f5fd6828169b8d64a2fde917.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/97d7cb37248dfe0897116bf8def20342.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/69243ea4c539babbf0949770321348c1.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/695c28d3eaebbb6014dae77229c7b154.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/82ccedc4596120ab98a85c01301c4e2a.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/e46700797a9cc61d1fe4c5aacc14aed9.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/a53a264a616867f1b3b1379e68f29889.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/92964426172d288ee400b1aa2054aeee.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/6422a87425f65b6a536758cf41c19829.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/edcc87eb67c928715957311864b322e8.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/0a0206c21d9a1487c6b501830e041379.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b7f0f030e5813c96ae1d180e37ed69df.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/97427bddc063829c50854168de70b9ef.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/f5ffb45218d171fc6d655f4029ffd0a7.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/93d6e3cfc84c64eb3ec03dd6776f0c39.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/c9dfad4d0341e580ad216dd582b21015.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/ed0029379975aa53fc1b2686ab3c6577.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d1dcf7a17baaa4d2a7663abc60efca4f.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/e6f23a76ee3a5fc67daed9c9c8ae9b06.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/6e5cf0b8d773f9fc8d71ed7ba618ad31.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/e649d748483707bd1a05724b480bc4b1.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/59285501e4d8f49d5f3e416a364be644.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/0db245b34cbbaa2199340458cfe7eaa1.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/d18479fe1654f92a72d28a8246722a86.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/ea1a62f6ba3624d0262e4ecca23b0220.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/c085aebf08583f222ce9e5cabb438784.ttf",file
+"/data/user/0/com.jype.fans/files/.expo-internal/5d0330c2ba0f5216349bca35488c0b38.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/f55001fcce02facfd1ffba922a19e59c.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/bc60574f2512f68c51c2472d546b56f8.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/5b50965d3dfbc518fe50ce36c314a6ec.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/e62addcde857ebdb7342e6b9f1095e97.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/4f355ba1efca4b9c0e7a6271af047f61.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/817aca47ff3cea63020753d336e628a4.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/369745d4a4a6fa62fa0ed495f89aa964.png",file
+"/data/user/0/com.jype.fans/files/.expo-internal/5cd8018c8a50dcd12473c8b9985fdd4c.css",file
+"/data/user/0/com.jype.fans/files/.expo-internal/65eafe89625abe64c6ecd3d455ab8d12.html",file
+"/data/user/0/com.jype.fans/files/.expo-internal/b3df537bf693b17606108bc4cf3470c4.css",file
+"/data/user/0/com.jype.fans/files/.expo-internal/0a8ffaa4f0987c69b371f22f6ec51df7.js",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libhermes.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libc++_shared.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libdl.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libm.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libc.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libc++_shared.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libjsi.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libjsi.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libfbjni.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libandroid.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/liblog.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libfbjni.so",file
+"/data/user/0/com.jype.fans/shared_prefs/dev.expo.EASSharedPreferences.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/dev.expo.EASSharedPreferences.xml.bak",file
+"/data/user/0/com.jype.fans/files/expo-error.log",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermes.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnative.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermestooling.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libexpo-av.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libexpo-modules-core.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/librnscreens.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libworklets.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreanimated.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnativemmkv.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libquickbase64.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnativequickcrypto.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrypto.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsentry.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsentry-android.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libavif_android.so",file
+"/data/user/0/com.jype.fans/cache/webview_com.jype.fans",directory
+"/data/user/0/com.jype.fans/app_webview_com.jype.fans",directory
+"/data/user/0/com.jype.fans/cache/WebView",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default",directory
+"/data/user/0/com.jype.fans/cache/WebView/Crashpad",directory
+"/data/user/0/com.jype.fans/cache/WebView/SafeBrowsing",directory
+"/data/user/0/com.jype.fans/cache/WebView/font_unique_name_table.pb",file
+"/data/user/0/com.jype.fans/cache/WebView/Crash Reports",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/js",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/wasm",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/js/de7a669e394cda78_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/js/c2bd05781fb83018_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/js/index",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/6fdc9ed5bf1dd1e4_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ff4e48c6b210992d_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/5925e0e32c2378c0_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/e75e7c054bc2c10c_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/abd4e9264440f726_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/9a2017cefc04c9e2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/70ab141993e4733d_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/c6759b154c91dfb4_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/9106f85c52f8b66b_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/0457ba668aa79196_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/6b87a07558dc711a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ddc39ee9e1331c33_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/b25b9cd15a133770_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/e8bbbd7e7bda3a6a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/12668ba442aba59a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/4c26ceac4add830d_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ff73ba95408a2f37_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ed1453b3f7d94ab9_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/0cd42135e4f39279_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f77d1f7d9f8385a9_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/8b3c2ca2be3a0f73_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d3012a85eb4d9dad_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f01b1bf926f04876_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/7cc92262436ee6a6_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/91db0706c2b73301_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f2d8d1c0dfeee24c_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/8327ea627d888cf4_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ab3ec5a36a6ec161_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/a2401e6d867959c5_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/bed02522a4034871_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/841724879a7c5fa2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/10600568334d2dc2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/25ea58c735a9a84a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d0fcf6d235ea2010_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/93c7ce6b4090a91a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f1ab35c48d16b3ce_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/65f4155d6fd0e23a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/a849ce39e7ec8df4_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/8a88e2bff7b5eecd_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/7f7773b144a135bc_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/414ebbab1ec2b8fe_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d40e786affec12c7_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/674a9b12f1ad5187_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/681d6b25a2ef2396_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/e6d70f7b358e0308_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/94ba1791f8e539ad_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/64b8f7f4a0ccc239_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/66bd8567528656c0_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/7fd6d569178dcd29_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/a8b93d3944da1faf_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d7e08a34c059da12_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/ca7e060297cbcd29_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/8e600b1a10168f4a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/85ee2d4b3bf7fc3a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/628c2a3f918b5c1f_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/61e7cba72e8ac451_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/7bd0b65995a50bab_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/80ab85240f3842ac_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/166460bd881ec612_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/abd31bb42721cfdd_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/3da42f7b361b021e_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/c36595688550ed78_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/e9e7ffcd9b3d3c0e_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/922b8110d2601970_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/919dbe17abb1e4f2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f26ba6ccdd8ca473_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/1340dae87175a8e8_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/3157b3aff4caee72_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/281acde3c343220e_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/index",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/3d72c6b63d2612c3_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/e3519c58be1505ae_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/34f9f958344eb7bd_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/57d6c98a95dd0065_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/7d355a4a98b02e37_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d4c3e1e17df026c9_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/262e88df2b917665_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d075c76501bfe9c8_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/6640c534ec7becba_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/54e30f3cfded3ba2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/5c100e2a9777de34_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/605b43c0e3562857_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/aeb076355e77cdd5_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f2c305e6cb6afe16_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/0768ea8289ab8d52_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/912789d4d81903bc_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/6c64b0dbd95b043a_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/f308f8be7566a229_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/d466f23845ca1191_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/3ea9ed38327af1e2_0",directory
+"/data/user/0/com.jype.fans/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index",directory
+"/data/user/0/com.jype.fans/cache/WebView/Crashpad/new",directory
+"/data/user/0/com.jype.fans/cache/WebView/Crashpad/completed",directory
+"/data/user/0/com.jype.fans/cache/WebView/Crashpad/pending",directory
+"/data/user/0/com.jype.fans/cache/WebView/Crashpad/attachments",directory
+"/data/user/0/com.jype.fans/app_webview",directory
+"/data/user/0/com.jype.fans/app_webview/Default",directory
+"/data/user/0/com.jype.fans/app_webview/variations_stamp",file
+"/data/user/0/com.jype.fans/app_webview/webview_data.lock",file
+"/data/user/0/com.jype.fans/app_webview/BrowserMetrics",directory
+"/data/user/0/com.jype.fans/app_webview/variations_seed",file
+"/data/user/0/com.jype.fans/app_webview/BrowserMetrics-spare.pma",file
+"/data/user/0/com.jype.fans/app_webview/pref_store",file
+"/data/user/0/com.jype.fans/app_webview/Default/WebStorage",directory
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db",directory
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Service Worker",directory
+"/data/user/0/com.jype.fans/app_webview/Default/blob_storage",directory
+"/data/user/0/com.jype.fans/app_webview/Default/PersistentOriginTrials",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Web Data",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Cookies-journal",file
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage",directory
+"/data/user/0/com.jype.fans/app_webview/Default/VideoDecodeStats",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Cookies",file
+"/data/user/0/com.jype.fans/app_webview/Default/Web Data-journal",directory
+"/data/user/0/com.jype.fans/app_webview/Default/WebStorage/QuotaManager-journal",file
+"/data/user/0/com.jype.fans/app_webview/Default/WebStorage/QuotaManager",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata",directory
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/LOCK",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/LOG",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/MANIFEST-000004",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/000006.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/LOG.old",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/CURRENT",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/LOCK",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/LOG",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/MANIFEST-000004",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/000006.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/000005.ldb",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/LOG.old",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/CURRENT",file
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb",directory
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK",file
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG",file
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000002",file
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/CURRENT",file
+"/data/user/0/com.jype.fans/app_webview/Default/Service Worker/CacheStorage",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt",file
+"/data/user/0/com.jype.fans/app_webview/Default/blob_storage/4b2bfa04-a8a3-4fc7-9c76-c87932c0dd9a",directory
+"/data/user/0/com.jype.fans/app_webview/Default/PersistentOriginTrials/LOCK",file
+"/data/user/0/com.jype.fans/app_webview/Default/PersistentOriginTrials/LOG",file
+"/data/user/0/com.jype.fans/app_webview/Default/PersistentOriginTrials/LOG.old",file
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/LOCK",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/LOG",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/MANIFEST-000004",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/000006.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/000005.ldb",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/LOG.old",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/CURRENT",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage/LOCK",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage/LOG",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage/MANIFEST-000002",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage/000003.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/Session Storage/CURRENT",directory
+"/data/user/0/com.jype.fans/app_webview/Default/VideoDecodeStats/LOCK",file
+"/data/user/0/com.jype.fans/app_webview/Default/VideoDecodeStats/LOG",file
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/db",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/cache",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/db-journal",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/cache/index",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/cache/index-dir",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index",directory
+"/data/user/0/com.jype.fans/app_webview/BrowserMetrics/BrowserMetrics-693E8D32-12B9.pma",file
+"/data/user_de/0/com.jype.fans/cache/webview_com.jype.fans",directory
+"/data/user_de/0/com.jype.fans/app_webview_com.jype.fans",directory
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/.scope-cache/contexts.json",file
+"/data/user/0/com.jype.fans/databases/RKStorage-journal",file
+"/data/user/0/com.jype.fans/cache/image_cache",directory
+"/data/user/0/com.jype.fans/cache/image_cache/v2.ols100.1",directory
+"/data/user/0/com.jype.fans/cache/image_cache/v2.ols100.1/46/RtEHgIlQlassI_hqog-2gJ4QLU0.cnt",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6cd2fb5eb5988688f9323fa8ab0ba2041abb05baee135e2943eac3fa725f83be.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6cd2fb5eb5988688f9323fa8ab0ba2041abb05baee135e2943eac3fa725f83be.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/1ebd4b9e832d9cdb43c1eb0e19b0856d80b14cbf4b3a5aa3faec2aa79e15553c.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/1ebd4b9e832d9cdb43c1eb0e19b0856d80b14cbf4b3a5aa3faec2aa79e15553c.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e58ef5f8df70d4f58f5c456df5b42ab87e86e91ad782ff5aa1160ecf865055fe.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e58ef5f8df70d4f58f5c456df5b42ab87e86e91ad782ff5aa1160ecf865055fe.0.tmp",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libimagepipeline.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/lib/arm64/libjnigraphics.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libimagepipeline.so",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrypto.so�������������������������vndk�������������������������`%rw���x%rw���x%rw������qw������qw������qw����������������������������j�qw����j�qw����j�qw���rs������������������������������rw������rw������rw����k�qw����k�qw����k�qw����������������������������k�qw���pk�qw���pk�qw���default����������������a������[�������|�qw�����������",directory
+"/data/app/com.google.android.webview-9tdzznyMvLLcfHq3E3cj2A==/lib/arm64���������������������������������������������������������/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsentry-android.so�����������������",directory
+"/storage/emulated/0/Android/data/com.jype.fans",directory
+"/storage/emulated/0/Android/data/com.jype.fans/files",directory
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2",directory
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/session.json",file
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/55171e25-681f-4a8b-b556-e306992907c6.envelope",directory
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/last_crash",file
+"/data/user/0/com.jype.fans/cache/image_cache/v2.ols100.1/77/UGHBTgp0njYoLLcWCojEDu7YZgA.cnt",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/3d05d737b269926cf28370c7c0d64055f0e899584ee9ffedd9b0af7170cabd23.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/3d05d737b269926cf28370c7c0d64055f0e899584ee9ffedd9b0af7170cabd23.0.tmp",file
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/8d82f62f-01ea-4b7f-b01e-0653cbda2bf2.envelope",directory
+"/data/user/0/com.jype.fans/shared_prefs/expo.modules.kotlin.PersistentDataManager.xml",file
+"/data/user/0/com.jype.fans/shared_prefs/expo.modules.kotlin.PersistentDataManager.xml.bak",file
+"/data/user/0/com.jype.fans/databases/RKStorage",file
+"/data/user/0/com.jype.fans/databases/RKStorage-wal",directory
+"/data/user/0/com.jype.fans/databases/RKStorage-shm",directory
+"/data/user/0/com.jype.fans/cache/http-cache/b52c5c42243f78ba238a5f7389dbf5bf.0",file
+"/data/user/0/com.jype.fans/cache/http-cache/b52c5c42243f78ba238a5f7389dbf5bf.1",file
+"/data/user/0/com.jype.fans/cache/http-cache/b52c5c42243f78ba238a5f7389dbf5bf.0.tmp",file
+"/data/user/0/com.jype.fans/cache/http-cache/b52c5c42243f78ba238a5f7389dbf5bf.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/818a1f689a0d4e1f99df2b14c64678d4.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/818a1f689a0d4e1f99df2b14c64678d4.1",file
+"/data/user/0/com.jype.fans/shared_prefs/com.facebook.react.modules.i18nmanager.I18nUtil.xml",file
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/.scope-cache/user.json",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/f744f395034f276f97f3c1d3ad73a8a4c4c077ff31861d7e08963071de5ea4aa.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e4ce01ce1e8ce8bd5203083064b994fad28a9781767523f40dad21f7648734d7.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e950ee4f50b216c8157e0de587e3f8d764a5a82aa4892acd919f7402d06e3156.0",file
+"/data/user/0/com.jype.fans/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat",file
+"/data/misc/profiles/ref/com.jype.fans/primary.prof",file
+"/data/user/0/com.jype.fans/files/profileInstalled",file
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/4757f80c-2e75-4170-afc9-5e4a3c9074eb.envelope",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6a07877e51f6dad3df36d0bc3996d3ff94ec43c1dc555123fb381eb9c7e160f1.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4737da7bf3686c32e242d3e89861f25820e0b4fcca537f3ed7f3031ac25ab304.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6d08f2621575b10ec063b2c1c71c911812593855bff24e65d4bffb1249c5f8a7.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/b36fdaa0660532f0803765e9a6998e2ba34c0d9521fcc72f99f25c704f8ba309.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/bba01195920333a89a425c7765f64cc08288dc8bca1204e7ac53191d13c7403c.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/62daf2dc0a4e913af12e2d4fb6010240274adcfe1d2361bf141726cda2e3732f.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/597e3e63b588f54ae0d1014dce9cd6c3269b8b0a8e95f942a89ad0aae52907d5.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e6832486a58f6fda47f489693797039de295636db6ef2f94273b22105b4441ed.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/e3cb5b741f2e9c510b94654f09a36eb7c4af67ad34719207e3b4efc84417632a.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/b6061e0ebafc807335a610dcbf658fb0f0c6bed9ed7a7be54cda2bfd04ca2925.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/818a1f689a0d4e1f99df2b14c64678d4.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/818a1f689a0d4e1f99df2b14c64678d4.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/0e424f1bbfcded9ac20d4b6a97090206.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/0e424f1bbfcded9ac20d4b6a97090206.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/0e424f1bbfcded9ac20d4b6a97090206.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/0e424f1bbfcded9ac20d4b6a97090206.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/7dc5c508ca6bf5ea3ba6bfaeb7b34ae8.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/7dc5c508ca6bf5ea3ba6bfaeb7b34ae8.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/7dc5c508ca6bf5ea3ba6bfaeb7b34ae8.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/7dc5c508ca6bf5ea3ba6bfaeb7b34ae8.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/f840ed49d79dc241c1960db0cc2b0db0.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/f840ed49d79dc241c1960db0cc2b0db0.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/f840ed49d79dc241c1960db0cc2b0db0.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/f840ed49d79dc241c1960db0cc2b0db0.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/e5c7ef0c896a5893a5c8f4cd463e2f96.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/e5c7ef0c896a5893a5c8f4cd463e2f96.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/e5c7ef0c896a5893a5c8f4cd463e2f96.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/e5c7ef0c896a5893a5c8f4cd463e2f96.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/a0072d8f4ce89655e7eb4f6a54c2376d.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/a0072d8f4ce89655e7eb4f6a54c2376d.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/a0072d8f4ce89655e7eb4f6a54c2376d.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/a0072d8f4ce89655e7eb4f6a54c2376d.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/ae1039cbc3424dd2081185166d99d608.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/ae1039cbc3424dd2081185166d99d608.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/ae1039cbc3424dd2081185166d99d608.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/ae1039cbc3424dd2081185166d99d608.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/07a943b059a2816df20409a946894e88.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/07a943b059a2816df20409a946894e88.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/07a943b059a2816df20409a946894e88.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/07a943b059a2816df20409a946894e88.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/66f87276e1dfc347eb2dcfa34dc1e70a.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/66f87276e1dfc347eb2dcfa34dc1e70a.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/66f87276e1dfc347eb2dcfa34dc1e70a.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/66f87276e1dfc347eb2dcfa34dc1e70a.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/d23065052c87065a1dae57389be4364d.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/d23065052c87065a1dae57389be4364d.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/d23065052c87065a1dae57389be4364d.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/d23065052c87065a1dae57389be4364d.1.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/1f0c42268ce47fb10eaf53fbaa3a0a52.0",file
+"/data/user/0/com.jype.fans/cache/okhttp/1f0c42268ce47fb10eaf53fbaa3a0a52.0.tmp",file
+"/data/user/0/com.jype.fans/cache/okhttp/1f0c42268ce47fb10eaf53fbaa3a0a52.1",file
+"/data/user/0/com.jype.fans/cache/okhttp/1f0c42268ce47fb10eaf53fbaa3a0a52.1.tmp",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/MANIFEST-000002",directory
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/000003.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/MANIFEST-000002",directory
+"/data/user/0/com.jype.fans/app_webview/Default/shared_proto_db/metadata/000003.log",file
+"/data/user/0/com.jype.fans/app_webview/Default/blob_storage/fd7cafb0-78d6-4b61-881b-c9affe9c494e",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/MANIFEST-000002",directory
+"/data/user/0/com.jype.fans/app_webview/Default/Local Storage/leveldb/000003.log",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/990cadbead550a4d96687d5a21b06683d1380f413ba6f82f9b2c9516d7a99bbe.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a828f6764a8b4eb62acf0997b8ae8521b8702b7b65d08f34dfdc78d8b863c06e.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a828f6764a8b4eb62acf0997b8ae8521b8702b7b65d08f34dfdc78d8b863c06e.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4967cdb64f99b6f7d18aac8d0c37c3cf5b036714ae95038c0af88eb49ead12cc.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4967cdb64f99b6f7d18aac8d0c37c3cf5b036714ae95038c0af88eb49ead12cc.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c72f1b9d31f58274badf99ba7d87c6494320d0dfaee2dfe8250910cdfbdafc19.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c72f1b9d31f58274badf99ba7d87c6494320d0dfaee2dfe8250910cdfbdafc19.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/f43a374b3e305fa9ee4786144342fb18aa27ef119c7e8d80e254e47ebffc08a5.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/f43a374b3e305fa9ee4786144342fb18aa27ef119c7e8d80e254e47ebffc08a5.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/0281897088deba944702c308f41af6ce2838013e02cb8b1e1da7e663e4f1c085.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/0281897088deba944702c308f41af6ce2838013e02cb8b1e1da7e663e4f1c085.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/7689b58debf7a5e86ec1991921dd9758b5d34ea989cc2222648c9db7124d14a9.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/7689b58debf7a5e86ec1991921dd9758b5d34ea989cc2222648c9db7124d14a9.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/89a1a060d5022730d397bc45bef7a4f54775209c64fcfb0e49d9afbae66d5998.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/89a1a060d5022730d397bc45bef7a4f54775209c64fcfb0e49d9afbae66d5998.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4ae8fe141d84fc4dfe49956d14380dea081f9d8eac8fd93974d9bd14a11907f3.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4ae8fe141d84fc4dfe49956d14380dea081f9d8eac8fd93974d9bd14a11907f3.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/9e8c833e2ee5602839f16f2777018ce25727fc5867e300fbd794e008e524cc64.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/9e8c833e2ee5602839f16f2777018ce25727fc5867e300fbd794e008e524cc64.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/921c597480949ba60293856d63caea2033acc0e95e277b5a8d8222b7ca6c3ddd.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/921c597480949ba60293856d63caea2033acc0e95e277b5a8d8222b7ca6c3ddd.0.tmp",file
+"/data/data/com.jype.fans/cache/image_cache",directory
+"/data/data/com.jype.fans/cache/image_cache/v2.ols100.1",directory
+"/data/user/0/com.jype.fans/cache/image_cache/v2.ols100.1/62/vd3lGnMWq2Ei9__WCl7vWzAosjE.cnt",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4765434e798f4893b4f38a6222c7a76ec85b2e529313fcf8c9b0979fe7b2a081.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4765434e798f4893b4f38a6222c7a76ec85b2e529313fcf8c9b0979fe7b2a081.0.tmp",file
+"/data/user/0/com.jype.fans/cache/sentry/441a1749095224d30b16c199b947f43cbb08b7d2/d094a91b-0d5c-41dc-89ba-4e96f4952803.envelope",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6300dadad301eb3392754f279e34c674bb95f0411b8f07916a6e11118cd11bfe.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/6300dadad301eb3392754f279e34c674bb95f0411b8f07916a6e11118cd11bfe.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/7c8ad312b2c8aa64e248d0d0a7cfc520d3f3b73ab8ada6f4f78312e6b8004278.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/7c8ad312b2c8aa64e248d0d0a7cfc520d3f3b73ab8ada6f4f78312e6b8004278.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/ad24fbdfd00b2c0e92d4a16e78790918ba2bdc67923ea84621c9a97210df1543.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/ad24fbdfd00b2c0e92d4a16e78790918ba2bdc67923ea84621c9a97210df1543.0.tmp",file
+"/data/app/com.jype.fans-DIIRN4wjqvOdshrEdxt6Ug==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libanimation-decoder-gif.so",file
+"/data/user/0/com.jype.fans/app_webview/variations_seed_new",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/9082d8cb56a96ebde3cc88977d50af813b2d3882cfbf5dc9c49eb4c670d02b39.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/9082d8cb56a96ebde3cc88977d50af813b2d3882cfbf5dc9c49eb4c670d02b39.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c36b83202537e62819f1d707ad685f49f386783ec5737864f5746634887f636a.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c36b83202537e62819f1d707ad685f49f386783ec5737864f5746634887f636a.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/f2c5990d57897f9911e7001c42c419c302653d15abfad0554c9a5fd97939ea2f.0.tmp�P�o���������",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/f2c5990d57897f9911e7001c42c419c302653d15abfad0554c9a5fd97939ea2f.0����8��p�������H",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/5b0c4ea32d4ee637976e56e4e11d1a9ed5f94d74ada92e161d6d07510e3cfda9.0.tmp�P�o��������`",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/5b0c4ea32d4ee637976e56e4e11d1a9ed5f94d74ada92e161d6d07510e3cfda9.0����8��p��������",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/455d1607af625abd9bbfdaf898853d29c5f313f0ef2621722578197567e0073d.0.tmp�P�o���������",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/455d1607af625abd9bbfdaf898853d29c5f313f0ef2621722578197567e0073d.0����8��p�������X�8��p��������",directory
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4d8a8f481efc6fa33a9a2664de2597b5b23110ae7d2a7971243cd8d83db3db1c.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/4d8a8f481efc6fa33a9a2664de2597b5b23110ae7d2a7971243cd8d83db3db1c.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/537348bfb07220c1b3f6a6ff44e999920a2322de89f13c784109242a3b64d79f.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/537348bfb07220c1b3f6a6ff44e999920a2322de89f13c784109242a3b64d79f.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c7ba034ce1a604c81bd5e05f2f916650051909262eec0ce40031782a1ceea0f7.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/c7ba034ce1a604c81bd5e05f2f916650051909262eec0ce40031782a1ceea0f7.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/3665a838358597e2bde8e26e14313c6807da34dd9b42f1c5c0600d1149b50451.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/3665a838358597e2bde8e26e14313c6807da34dd9b42f1c5c0600d1149b50451.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a93b8a4d230f9a599d44d6347534a9d0b71c631568521bf4cea716c9daedeede.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a93b8a4d230f9a599d44d6347534a9d0b71c631568521bf4cea716c9daedeede.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a4dd9f76a6809ae139c641b014963d75b522f82c446b0078f93c2a1568c68246.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/a4dd9f76a6809ae139c641b014963d75b522f82c446b0078f93c2a1568c68246.0.tmp",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/2e47554c8bc2d5d471fbf73743613b8aabbc4aa8905ce23b1a68a2678561259b.0",file
+"/data/user/0/com.jype.fans/cache/image_manager_disk_cache/2e47554c8bc2d5d471fbf73743613b8aabbc4aa8905ce23b1a68a2678561259b.0.tmp",file
