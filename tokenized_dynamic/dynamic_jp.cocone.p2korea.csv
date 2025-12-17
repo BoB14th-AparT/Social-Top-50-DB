@@ -1,0 +1,440 @@
+﻿path,type
+/data/user/0/jp.cocone.p2korea,directory
+/data/user_de/0/jp.cocone.p2korea,directory
+/data/app/jp.cocone.p2korea-<base64>/base.apk,file
+/data/app/jp.cocone.p2korea-<base64>/split_UnityDataAssetPack.apk,file
+/data/app/jp.cocone.p2korea-<base64>/split_config.arm64_v8a.apk,file
+/data/app/jp.cocone.p2korea-<base64>/oat/arm64/base.odex,file
+/data/app/jp.cocone.p2korea-<base64>/oat/arm64/base.vdex,file
+/data/app/jp.cocone.p2korea-<base64>/oat/arm64/base.art,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64,directory
+/data/app/jp.cocone.p2korea-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/jp.cocone.p2korea-<base64>/split_UnityDataAssetPack.apk!/lib/arm64-v8a,directory
+/data/app/jp.cocone.p2korea-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/jp.cocone.p2korea,directory
+/data/misc/profiles/cur/0/jp.cocone.p2korea/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/jp.cocone.p2korea/UnityDataAssetPack.split.prof,directory
+/data/misc/profiles/cur/0/jp.cocone.p2korea/primary.prof,file
+/data/user/0/jp.cocone.p2korea/cache,directory
+/data/user_de/0/jp.cocone.p2korea/code_cache,directory
+/data/user_de/0/jp.cocone.p2korea/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/jp.cocone.p2korea/code_cache/com.android.skia.shaders_cache,file
+/data/user_de/0/jp.cocone.p2korea/shared_prefs,directory
+/data/user_de/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/reports,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/priority-reports,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/native-reports,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/com.crashlytics.settings.json,file
+/data/user/0/jp.cocone.p2korea/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/initialization_marker,directory
+/data/user/0/jp.cocone.p2korea/databases,directory
+/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events,file
+/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/crash_marker,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native,directory
+/data/user/0/jp.cocone.p2korea/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native/pending,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/jp.cocone.p2korea/no_backup,directory
+/data/user/0/jp.cocone.p2korea/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/jp.cocone.p2korea/files/generatefid.lock,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/userlog,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/report,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/start-time,directory
+/data/user/0/jp.cocone.p2korea/files/.gms-dynamite-code-cache,directory
+/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics,directory
+/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/jp.cocone.p2korea/files/.com.google.firebase.crashlytics.files.v1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Pictures,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/aqs.<md5>,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/keys,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/user-data,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native/device.json,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native/session.json,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native/app.json,file
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/native/os.json,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/jp.cocone.p2korea/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/jp.cocone.p2korea/files/AppEventsLogger.persistedevents,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea_preferences.xml,file
+/data/user/0/jp.cocone.p2korea/files/phenotype/shared/com.google.android.gms.measurement#jp.cocone.p2korea.pb,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea_preferences.xml.bak,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libcrashlytics.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libmain.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libunity.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libil2cpp.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libFirebaseCppApp-12_10_0.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libcrashlytics-common.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libgrpc_csharp_ext.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libsigner.so,file
+/data/user/0/jp.cocone.p2korea/cache/webview_jp.cocone.p2korea,directory
+/data/user/0/jp.cocone.p2korea/app_webview_jp.cocone.p2korea,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/SafeBrowsing,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crash Reports,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/new,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/completed,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/pending,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Crashpad/attachments,directory
+/data/user/0/jp.cocone.p2korea/app_webview,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default,directory
+/data/user/0/jp.cocone.p2korea/app_webview/variations_stamp,file
+/data/user/0/jp.cocone.p2korea/app_webview/webview_data.lock,file
+/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics,directory
+/data/user/0/jp.cocone.p2korea/app_webview/variations_seed,file
+/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/jp.cocone.p2korea/app_webview/pref_store,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Web Data,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Cookies-journal,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Cookies,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Web Data-journal,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOCK,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOG,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/MANIFEST-<number>,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/LOG.old,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/CURRENT,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOG,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/<number>.ldb,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/LOG.old,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/shared_proto_db/metadata/CURRENT,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOCK,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOG,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/PersistentOriginTrials/LOG.old,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/jp.cocone.p2korea/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics/BrowserMetrics-693F99C0-9CE.pma,file
+/data/user_de/0/jp.cocone.p2korea/cache/webview_jp.cocone.p2korea,directory
+/data/user_de/0/jp.cocone.p2korea/app_webview_jp.cocone.p2korea,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/voice/0000-0-000-v/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/voice/0000-0-000-v,directory
+/data/user/0/jp.cocone.p2korea/cache/oat/app_resources_lib.jar.cur.prof,file
+/data/user/0/jp.cocone.p2korea/cache/oat/auth_resources_lib.jar.cur.prof,file
+/data/user/0/jp.cocone.p2korea/cache/oat/google_api_resources_lib.jar.cur.prof,file
+/data/user/0/jp.cocone.p2korea/files/AdjustIoActivityState,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.user_cache.v3.<hex>.<uuid>.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.user_cache.v3.<hex>.<uuid>.xml.bak,file
+/data/user/0/jp.cocone.p2korea/app_webview/.com.google.Chrome.<webview_profile>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha4/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha4,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s/1045-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/badge/thumbs_s/1045-1/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items/2043-1/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon2_hgggxnr5_1.8696e410c234fa8b4e0e103b083e86a0,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items/2043-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon1_hgggxnr5_0.31e35338b63998ae62db6a98f1f5dafc,file
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha6/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha6,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea.v2.playerprefs.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/jp.cocone.p2korea.v2.playerprefs.xml.bak,file
+/data/user/0/jp.cocone.p2korea/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/data/jp.cocone.p2korea/app_webview/Default/Cookies-journal,file
+/data/data/jp.cocone.p2korea/app_webview/Default,directory
+/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db,file
+/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/jp.cocone.p2korea/databases/google_app_measurement_local.db-journal,file
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/jp.cocone.p2korea/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.appboy_event_storage.<hex>.<uuid>.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.appboy_event_storage.<hex>.<uuid>.xml.bak,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.braze.requestframework.tokenbucket..<hex>.<uuid>.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.braze.requestframework.tokenbucket..<hex>.<uuid>.xml.bak,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/persistent.com.braze.requests.metadata.last_req_at.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/persistent.com.braze.requests.metadata.last_req_at.xml.bak,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/thumbs_s/1044-1/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/thumbs_s/1044-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon1_ghk5rc79_0.b00a0855c2c2ffa7f9f07f110b69ba86,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/cocolon2_ghk5rc79_1.21eeb744fcf7d0dcee9ca4ad0113fb61,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/profiledeco/items,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/config,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/values,file
+/data/user/0/jp.cocone.p2korea/app_webview/variations_seed_new,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/Resources/mscorlib.dll-resources.dat,file
+/data/media/0/Android/data/jp.cocone.p2korea/files/il2cpp/Resources/mscorlib.dll-resources.dat,file
+/data/media/0/Android/data/jp.cocone.p2korea/files/il2cpp/Metadata/global-metadata.dat,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20/p,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.7e55ef20_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/p,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.fe85aa11_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/0ccd2c528006fd3188cb09a60bd8824a_tmp,directory
+/data/user/0/jp.cocone.p2korea/files/assetpacks,directory
+/storage/emulated/0/Android/obb/jp.cocone.p2korea,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/unity.ver,file
+/data/app/jp.cocone.p2korea-<base64>/base.apk/assets/bin/Data/Managed,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/Metadata/global-metadata.dat,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/il2cpp/il2cpp.usym,directory
+/data/app/jp.cocone.p2korea-<base64>/split_UnityDataAssetPack.apk/assets/bin/Data/UnitySubsystems,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/9216f3796ec880f73bd05909c1750307_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/vulkan_pso_cache.bin,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.a9d221f9/p,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.session_storage.<hex>.<uuid>.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/com.appboy.storage.session_storage.<hex>.<uuid>.xml.bak,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2024/12_christmas,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/AssetCrcEnc,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2024/12_christmas/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/UnityCache/Shared/__info,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/UnityCache/Shared,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/UNITY_STORED_NOTIFICATION_IDS.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/UNITY_STORED_NOTIFICATION_IDS.xml.bak,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/lmc,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/lmc/masters_cache.0.0,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2020/christmas/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/eventskin/2020/christmas,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/common/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/0-0/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/common,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/0-0,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-1/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-3/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1376-1/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/2032-3/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-2/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-3,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1376-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/2032-3,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/fashion/items/1001-2,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm30/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm3/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm2/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm31/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm21/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm20/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm22/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm30,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm29/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm3,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm31,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm2,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm20,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm21,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm29,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm22,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_5_surprise_eff/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_26_move/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_29_share_fruit/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_1_sleepy/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_3_sweat/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_5_surprise_eff,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_8_moya/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_9_dust/<md5>,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_26_move,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_29_share_fruit,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_1_sleepy,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/1_item_f/itemf_3_sweat,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_8_moya,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_9_dust,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm53/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm46/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm46,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/comm53,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_105_time/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/objects/2_item_o/itemo_105_time,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1045-1/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha1/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1043-1/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1800-2/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/animation/cha1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1045-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1043-1,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/pot/items/1800-2,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/bgm/event_bgm_christmas/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/ab/sound/bgm/event_bgm_christmas,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/cache/raw/251212_gacha_info_1809.2249f3c3ca15b3e4511cc72446e41f73,directory
+/data/user/0/jp.cocone.p2korea/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/jp.cocone.p2korea/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/jp.cocone.p2korea/app_textures,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/open-sessions/<session>/event<crash_event_seq>_,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/.ae1765775027222,directory
+/data/user/0/jp.cocone.p2korea/files/.crashlytics.v3/jp.cocone.p2korea/priority-reports/<md5>,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/e,directory
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/liblibc.so,file
+/data/app/jp.cocone.p2korea-<base64>/lib/arm64/libc.so,file
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.4adb7e30/p,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.b2f4205e/p,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/c,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/c_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/e,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/e_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/d,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/d_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/g,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/g_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/s,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299_tmp/s_tmp,directory
+/storage/emulated/0/Android/data/jp.cocone.p2korea/files/Unity/<uuid>/Analytics/ArchivedEvents/<number>.9dc4d299/p,directory

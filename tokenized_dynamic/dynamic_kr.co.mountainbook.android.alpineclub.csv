@@ -1,0 +1,201 @@
+﻿path,type
+/data/user/0/kr.co.mountainbook.android.alpineclub,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub,directory
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/base.apk,file
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/oat/arm64/base.odex,file
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/oat/arm64/base.vdex,file
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/oat/arm64/base.art,file
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/lib/arm64,directory
+/data/app/kr.co.mountainbook.android.alpineclub-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/kr.co.mountainbook.android.alpineclub,directory
+/data/misc/profiles/cur/0/kr.co.mountainbook.android.alpineclub/primary.prof,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/code_cache,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/code_cache/com.android.skia.shaders_cache,file
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/shared_prefs,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/reports,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/priority-reports,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/native-reports,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/com.crashlytics.settings.json,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/generatefid.lock,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/initialization_marker,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/crash_marker,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/com.google.android.datatransport.events,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.gms-dynamite-code-cache,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/no_backup,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/userlog,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/report,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/start-time,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/AppEventsLogger.persistedevents,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/phenotype/shared/com.google.android.gms.measurement#kr.co.mountainbook.android.alpineclub.pb,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/kr.co.mountainbook.android.alpineclub_preferences.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/kr.co.mountainbook.android.alpineclub_preferences.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/user_pref.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/user_pref.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/google_app_measurement_local.db,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/databases/google_app_measurement_local.db-journal,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub,directory
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/files,directory
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache,directory
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/files,directory
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit,directory
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/journal,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/journal.tmp,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/journal.bkp,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/app_pref.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/app_pref.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/<md5>.0,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/<md5>.0.tmp,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/<md5>.1,file
+/storage/emulated/0/Android/data/kr.co.mountainbook.android.alpineclub/cache/retrofit/<md5>.1.tmp,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/userlog.tmp,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/instrument,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.MODEL_STORE.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.internal.MODEL_STORE.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.attributionTracking.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache/journal.bkp,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache/journal,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache/journal.tmp,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache/<sha256>.<number>,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/glide-cache/<sha256>.<number>.tmp,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/kr.co.mountainbook.android.alpineclub/primary.prof,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/profileInstalled,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/webview_kr.co.mountainbook.android.alpineclub,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview_kr.co.mountainbook.android.alpineclub,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crashpad,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/SafeBrowsing,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/font_unique_name_table.pb,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crash Reports,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crashpad/new,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crashpad/completed,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crashpad/pending,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/cache/WebView/Crashpad/attachments,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/variations_stamp,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/webview_data.lock,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/BrowserMetrics,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/variations_seed,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/variations_seed_new,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/BrowserMetrics-spare.pma,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/pref_store,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/blob_storage,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Web Data,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Cookies-journal,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Cookies,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Web Data-journal,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/LOCK,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/LOG,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/MANIFEST-<number>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/LOG.old,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/CURRENT,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/LOCK,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/LOG,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/<number>.ldb,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/LOG.old,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/shared_proto_db/metadata/CURRENT,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/PersistentOriginTrials/LOCK,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/PersistentOriginTrials/LOG,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/PersistentOriginTrials/LOG.old,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/cache/webview_kr.co.mountainbook.android.alpineclub,directory
+/data/user_de/0/kr.co.mountainbook.android.alpineclub/app_webview_kr.co.mountainbook.android.alpineclub,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/kr.co.mountainbook.android.alpineclub/app_textures,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/event<crash_event_seq>_,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/.ae<number>,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/open-sessions/<session>/user-data,directory
+/data/user/0/kr.co.mountainbook.android.alpineclub/files/.com.google.firebase.crashlytics.files.v2:kr.co.mountainbook.android.alpineclub/priority-reports/<md5>,directory

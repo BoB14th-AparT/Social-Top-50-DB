@@ -1,0 +1,132 @@
+﻿path,type
+/data/user/0/com.nianticlabs.campfire,directory
+/data/user_de/0/com.nianticlabs.campfire,directory
+/data/app/com.nianticlabs.campfire-<base64>/base.apk,file
+/data/app/com.nianticlabs.campfire-<base64>/split_config.ko.apk,file
+/data/app/com.nianticlabs.campfire-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.nianticlabs.campfire-<base64>/oat/arm64/base.odex,file
+/data/app/com.nianticlabs.campfire-<base64>/oat/arm64/base.vdex,file
+/data/app/com.nianticlabs.campfire-<base64>/oat/arm64/base.art,file
+/data/app/com.nianticlabs.campfire-<base64>/lib/arm64,directory
+/data/misc/profiles/cur/0/com.nianticlabs.campfire,directory
+/data/misc/profiles/cur/0/com.nianticlabs.campfire/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.nianticlabs.campfire/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.nianticlabs.campfire/primary.prof,file
+/data/user/0/com.nianticlabs.campfire/cache,directory
+/data/user_de/0/com.nianticlabs.campfire/code_cache,directory
+/data/user_de/0/com.nianticlabs.campfire/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.nianticlabs.campfire/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.nianticlabs.campfire/no_backup,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.nianticlabs.campfire/databases,directory
+/data/user/0/com.nianticlabs.campfire/databases/androidx.work.workdb,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/no_backup/androidx.work.workdb,file
+/data/user/0/com.nianticlabs.campfire/cache/data/user/<number>/com.nianticlabs.campfire/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.nianticlabs.campfire/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.nianticlabs.campfire/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/files,directory
+/data/user/0/com.nianticlabs.campfire/files/AppEventsLogger.persistedevents,file
+/data/vendor/gpu/esx_config_com.nianticlabs.campfire.txt,file
+/data/misc/gpu/esx_config_com.nianticlabs.campfire.txt,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.nianticlabs.campfire_preferences.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.nianticlabs.campfire_preferences.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/app_webview,directory
+/data/user/0/com.nianticlabs.campfire/app_textures,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/cache/instrument,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.MODEL_STORE.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.internal.MODEL_STORE.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.attributionTracking.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.nianticlabs.campfire/primary.prof,file
+/data/user/0/com.nianticlabs.campfire/files/profileInstalled,file
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/media/Figtree-Medium.65740c5e.ttf,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/media/remote-raid-pass.b3311204.png,file
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/com.nianticlabs.campfire/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.nianticlabs.campfire/app_webview/pref_store,file
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics,directory
+/data/user/0/com.nianticlabs.campfire/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.nianticlabs.campfire/files/phenotype/shared/com.google.android.gms.clearcut_client#com.nianticlabs.campfire.pb,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/data/com.nianticlabs.campfire/app_webview/Default/Cookies-journal,file
+/data/data/com.nianticlabs.campfire/app_webview/Default,directory
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.c63e467c.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.8cbf5bf2.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.7be912c6.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.89c60e62.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.2c0a6286.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.f453383f.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.f33a8a9b071f5f30.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.0985e68e35af322a.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.a137672c.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.ef46db37.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.8df94abe46e232e6.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.fe1b75cb.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.43ac34cc.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.10c329d5df3ba22a.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.f00ca08a9ce5b0b7.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.dd53cb52.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.a9b066935c0cf3e0.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.aee772434312cb77.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.e5a3034f.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/user/0/com.nianticlabs.campfire/shared_prefs/appsflyer-data.xml,file
+/data/user/0/com.nianticlabs.campfire/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/OtherCache,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/OtherCache/<number>,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/ConversionsCache,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/AttrCache,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/ConversionsCache/<number>,directory
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/AttrCache/<number>,directory
+/data/user/0/com.nianticlabs.campfire/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/com.nianticlabs.campfire/app_webview/Default/Local Storage/leveldb/<number>.ldb,directory
+/data/user/0/com.nianticlabs.campfire/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.0520c496.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.5861be26.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.6d058f7ff4ceca84.js,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/media/Figtree-Light.e476b892.ttf,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.58172b8e.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.1b904343.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.2f1725c5.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.a7a0ec4b.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css/<number>.f15a7d52.chunk.css,file
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks/<number>.3c585871749c250e.js,file

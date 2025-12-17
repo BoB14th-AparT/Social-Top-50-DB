@@ -1,0 +1,292 @@
+﻿path,type
+/data/user/0/com.productmkf.dn,directory
+/data/user_de/0/com.productmkf.dn,directory
+/data/app/com.productmkf.dn-<base64>/base.apk,file
+/data/app/com.productmkf.dn-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.productmkf.dn-<base64>/split_config.ko.apk,file
+/data/app/com.productmkf.dn-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.productmkf.dn-<base64>/oat/arm64/base.odex,file
+/data/app/com.productmkf.dn-<base64>/oat/arm64/base.vdex,file
+/data/app/com.productmkf.dn-<base64>/oat/arm64/base.art,file
+/data/app/com.productmkf.dn-<base64>/lib/arm64,directory
+/data/app/com.productmkf.dn-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.productmkf.dn-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.productmkf.dn-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.productmkf.dn-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/com.productmkf.dn,directory
+/data/misc/profiles/cur/0/com.productmkf.dn/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.productmkf.dn/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.productmkf.dn/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/com.productmkf.dn/primary.prof,file
+/data/user/0/com.productmkf.dn/cache,directory
+/data/user_de/0/com.productmkf.dn/code_cache,directory
+/data/user_de/0/com.productmkf.dn/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.productmkf.dn/code_cache/com.android.skia.shaders_cache,file
+/data/user_de/0/com.productmkf.dn/shared_prefs,directory
+/data/user_de/0/com.productmkf.dn/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.productmkf.dn/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs,directory
+/data/user/0/com.productmkf.dn/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml.bak,file
+/data/user/0/com.productmkf.dn/files,directory
+/data/user/0/com.productmkf.dn/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_activate.json,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn,directory
+/data/user/0/com.productmkf.dn/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_fetch.json,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/reports,directory
+/data/user/0/com.productmkf.dn/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_defaults.json,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/priority-reports,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/native-reports,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/com.crashlytics.settings.json,file
+/data/user/0/com.productmkf.dn/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/initialization_marker,directory
+/data/user/0/com.productmkf.dn/databases,directory
+/data/user/0/com.productmkf.dn/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb,file
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events,file
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/crash_marker,directory
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/com.productmkf.dn/files/generatefid.lock,file
+/data/user/0/com.productmkf.dn/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.productmkf.dn/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.productmkf.dn/databases/androidx.work.workdb,directory
+/data/user/0/com.productmkf.dn/no_backup,directory
+/data/user/0/com.productmkf.dn/no_backup/androidx.work.workdb,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.productmkf.dn/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>,directory
+/data/user/0/com.productmkf.dn/cache/data/user/<number>/com.productmkf.dn/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.productmkf.dn/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.productmkf.dn/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.productmkf.dn/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/userlog,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.iap.IAP_CACHE_GPBLV2V7.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.iap.IAP_CACHE_GPBLV2V7.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/report,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/start-time,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics,directory
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/internal-keys,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKToggles.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKToggles.xml.bak,file
+/data/user/0/com.productmkf.dn/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.productmkf.dn/shared_prefs/<md5>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/<md5>.xml.bak,file
+/data/user/0/com.productmkf.dn/files/AppEventsLogger.persistedevents,directory
+/data/user/0/com.productmkf.dn/shared_prefs/buzzad.benefit.<number>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/buzzad.benefit.<number>.xml.bak,file
+/data/user/0/com.productmkf.dn/cache/benefit,directory
+/data/user/0/com.productmkf.dn/cache/benefit/journal,directory
+/data/user/0/com.productmkf.dn/cache/benefit/journal.tmp,file
+/data/user/0/com.productmkf.dn/cache/benefit/journal.bkp,directory
+/data/user/0/com.productmkf.dn/shared_prefs/UUID.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/UUID.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.buzzad.benefit.core.usercontext.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.buzzad.benefit.core.usercontext.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/<number>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/<number>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.bi.SharedPreference.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.bi.SharedPreference.xml.bak,file
+/data/user/0/com.productmkf.dn/files/phenotype/shared/com.google.android.gms.measurement#com.productmkf.dn.pb,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.buzzad.benefit.PREFERENCES_NAME.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.buzzvil.buzzad.benefit.PREFERENCES_NAME.xml.bak,file
+/data/user/0/com.productmkf.dn/cache/bi-database_benefit.lck,file
+/data/user/0/com.productmkf.dn/databases/bi-database_benefit,file
+/data/user/0/com.productmkf.dn/databases/bi-database_benefit-wal,file
+/data/user/0/com.productmkf.dn/databases/bi-database_benefit-shm,file
+/data/user/0/com.productmkf.dn/databases/bi-database_benefit-journal,directory
+/data/user/0/com.productmkf.dn/shared_prefs/BuzzBoosterPrefs.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/BuzzBoosterPrefs.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.productmkf.dn_preferences.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.productmkf.dn_preferences.xml.bak,file
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db,file
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.productmkf.dn/shared_prefs/admob.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/admob.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/mobileads_consent.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/mobileads_consent.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/io.adrop.ads.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/io.adrop.ads.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.preferences.<applovin_pref_id>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.preferences.<applovin_pref_id>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/app_set_id_storage.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/app_set_id_storage.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/appsflyer-data.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.<number>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.<number>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.shared.xml,file
+/data/user/0/com.productmkf.dn/files/AFExceptionsCache,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.applovin.sdk.shared.xml.bak,file
+/data/user/0/com.productmkf.dn/code_cache,directory
+/data/user/0/com.productmkf.dn/files/AFRequestCache,directory
+/data/user/0/com.productmkf.dn/files/AFRequestCache/ConversionsCache,directory
+/data/vendor/gpu/esx_config_com.productmkf.dn.txt,file
+/data/misc/gpu/esx_config_com.productmkf.dn.txt,file
+/data/user/0/com.productmkf.dn/code_cache/.,directory
+/data/user/0/com.productmkf.dn/files/AFRequestCache/AttrCache,directory
+/data/user/0/com.productmkf.dn/shared_prefs/user_data.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/user_data.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/app_data.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/app_data.xml.bak,file
+/data/user/0/com.productmkf.dn/files/AFRequestCache/OtherCache,directory
+/data/user/0/com.productmkf.dn/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/com.productmkf.dn/app_webview,directory
+/data/user/0/com.productmkf.dn/app_textures,directory
+/data/user/0/com.productmkf.dn/cache/WebView,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.auth.api.Store.<firebase_auth_store>.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.auth.api.Store.<firebase_auth_store>.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/CookiePrefsFile.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/CookiePrefsFile.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/userlog.tmp,file
+/data/user/0/com.productmkf.dn/files/datastore/firebase_session_<firebase_session>_data.preferences_pb,file
+/data/user/0/com.productmkf.dn/code_cache/.     ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.MODEL_STORE.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/com.facebook.internal.MODEL_STORE.xml.bak,file
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/aqs.<md5>,directory
+/data/user/0/com.productmkf.dn/files/datastore/firebase_session_<firebase_session>_data.preferences_pb.tmp,file
+/data/user/0/com.productmkf.dn/files/AFRequestCache/OtherCache/<number>,directory
+/data/user/0/com.productmkf.dn/files/al,directory
+/data/user/0/com.productmkf.dn/files/al/<uuid>creatives_10037_480x320_10037-image-79ca9f7d-320x480.png,file
+/data/user/0/com.productmkf.dn/files/al/<uuid>creatives_10037_480x320_10037-video-1da33d9b-320x480.mp4,file
+/data/user/0/com.productmkf.dn/files/al/o4419e84_<sha1>_v62_phone.mp4,file
+/data/user/0/com.productmkf.dn/files/al/o4419e84_<sha1>_v1_js_load.js,file
+/data/user/0/com.productmkf.dn/files/al/<number>_300x300.png,file
+/data/user/0/com.productmkf.dn/files/al/persistent_postback_cache.json,file
+/data/user/0/com.productmkf.dn/files/al/jquery-<number>.<number>.<number>.min.js,file
+/data/user/0/com.productmkf.dn/files/al/ad-templates_template-click-tracking-v3_index.js,file
+/data/user/0/com.productmkf.dn/files/al/.nomedia,file
+/data/user/0/com.productmkf.dn/app_SafeDK_Files,directory
+/data/user/0/com.productmkf.dn/app_SafeDK_Files/,directory
+/data/user/0/com.productmkf.dn/app_SafeDK_INTERSTITIAL,directory
+/data/user/0/com.productmkf.dn/app_SafeDK_BANNER,directory
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKCache_SafeDKEvents.com.productmkf.dn.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKCache_SafeDKEvents.com.productmkf.dn.xml.bak,file
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKCache_SafeDKRedirects.com.productmkf.dn.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/SafeDKCache_SafeDKRedirects.com.productmkf.dn.xml.bak,file
+/data/user/0/com.productmkf.dn/app_SafeDK_MREC,directory
+/data/user/0/com.productmkf.dn/app_SafeDK_NATIVE,directory
+/data/user/0/com.productmkf.dn/files/AFRequestCache/ConversionsCache/<number>,directory
+/data/user/0/com.productmkf.dn/files/AFRequestCache/AttrCache/<number>,directory
+/data/user/0/com.productmkf.dn/files/al/persisted-ads,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/user-data,directory
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/keys,directory
+/data/user/0/com.productmkf.dn/lib,directory
+/data/user/0/com.productmkf.dn/shared_prefs/pcvmspf.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/pcvmspf.xml.bak,file
+/data/user/0/com.productmkf.dn/app_pccache,directory
+/data/user/0/com.productmkf.dn/app_pccache/<number>,directory
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>,directory
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcam.jar,file
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcbc,file
+/data/user/0/com.productmkf.dn/app_tmppccache,directory
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcopt,directory
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/oat/pcam.jar.cur.prof,file
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcam.jar!/libdB3BFBE660A1B.so,file
+/data/user/0/com.productmkf.dn/code_cache/.​   ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​,directory
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics-spare.pma,directory
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/com.productmkf.dn/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.productmkf.dn/app_webview/pref_store,file
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.   ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​ ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.​,directory
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.productmkf.dn/shared_prefs/paid_storage_sp.xml,file
+/data/user/0/com.productmkf.dn/shared_prefs/paid_storage_sp.xml.bak,file
+/data/user/0/com.productmkf.dn/cache/event-database.lck,file
+/data/user/0/com.productmkf.dn/databases/event-database,file
+/data/user/0/com.productmkf.dn/databases/event-database-wal,file
+/data/user/0/com.productmkf.dn/databases/event-database-shm,file
+/data/user/0/com.productmkf.dn/databases/event-database-journal,directory
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​​,directory
+/data/user/0/com.productmkf.dn/code_cache/.     ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.​​  ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.   ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.​ ​,directory
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/user/0/com.productmkf.dn/databases/com.google.android.gms.ads.db,file
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/com.productmkf.dn/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.productmkf.dn/primary.prof,file
+/data/user/0/com.productmkf.dn/files/profileInstalled,file
+/data/user/0/com.productmkf.dn/cache/volley,directory
+/data/user/0/com.productmkf.dn/cache/volley/-<number>-<number>,file
+/data/user/0/com.productmkf.dn/code_cache/.​ ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics/BrowserMetrics-693F79A4-5B1.pma,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.    ​,directory
+/data/user/0/com.google.android.gms/files/phenotype/shared/com.google.android.gms.providerinstaller#com.productmkf.dn.pb,directory
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache,directory
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache/journal.bkp,directory
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache/journal,file
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache/journal.tmp,file
+/data/user/0/com.productmkf.dn/cache/booster-bi-event-database.lck,file
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.productmkf.dn/databases/booster-bi-event-database,file
+/data/user/0/com.productmkf.dn/databases/booster-bi-event-database-wal,file
+/data/user/0/com.productmkf.dn/databases/booster-bi-event-database-shm,file
+/data/user/0/com.productmkf.dn/databases/booster-bi-event-database-journal,directory
+/data/user/0/com.productmkf.dn/files/phenotype/shared/com.google.android.gms.clearcut_client#com.productmkf.dn.pb,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crash Reports,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/new,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/pending,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/completed,directory
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/attachments,directory
+/data/user/0/com.productmkf.dn/cache/WebView/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​ ​,directory
+/data/user/0/com.productmkf.dn/code_cache/. ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.     ​,directory
+/data/user/0/com.productmkf.dn/code_cache/.  ​,directory

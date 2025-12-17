@@ -1,0 +1,235 @@
+﻿path,type
+/data/user/0/com.kakao.story,directory
+/data/user_de/0/com.kakao.story,directory
+/data/app/com.kakao.story-<base64>/lib/arm64,directory
+/data/app/com.kakao.story-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.kakao.story-<base64>/base.apk,file
+/data/app/com.kakao.story-<base64>/oat/arm64/base.odex,file
+/data/app/com.kakao.story-<base64>/oat/arm64/base.vdex,file
+/data/app/com.kakao.story-<base64>/oat/arm64/base.art,file
+/data/misc/profiles/cur/0/com.kakao.story,directory
+/data/misc/profiles/cur/0/com.kakao.story/primary.prof,file
+/data/user/0/com.kakao.story/cache,directory
+/data/user_de/0/com.kakao.story/code_cache,directory
+/data/user_de/0/com.kakao.story/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.kakao.story/code_cache/com.android.skia.shaders_cache,file
+/data/user_de/0/com.kakao.story/shared_prefs,directory
+/data/user_de/0/com.kakao.story/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.kakao.story/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.kakao.story/files,directory
+/data/user/0/com.kakao.story/files/datastore/firebase_session_settings.preferences_pb,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/reports,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/priority-reports,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/native-reports,directory
+/data/user/0/com.kakao.story/shared_prefs,directory
+/data/user/0/com.kakao.story/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/com.crashlytics.settings.json,file
+/data/user/0/com.kakao.story/files/generatefid.lock,file
+/data/user/0/com.kakao.story/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/initialization_marker,directory
+/data/user/0/com.kakao.story/databases,directory
+/data/user/0/com.kakao.story/databases/com.google.android.datatransport.events,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/crash_marker,directory
+/data/user/0/com.kakao.story/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.kakao.story/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.kakao.story/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.kakao.story/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/com.kakao.story/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.kakao.story/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>,directory
+/data/user/0/com.kakao.story/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/userlog,directory
+/data/user/0/com.kakao.story/no_backup,directory
+/data/user/0/com.kakao.story/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/aqs.<md5>,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/report,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/start-time,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics,directory
+/data/user/0/com.kakao.story/cache/com.kakao.adfit.matrix.cache,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/com.kakao.story/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.adfit.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.adfit.preference.xml.bak,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/event<crash_event_seq>,directory
+/data/user/0/com.kakao.story/databases/androidx.work.workdb,directory
+/data/user/0/com.kakao.story/no_backup/androidx.work.workdb,file
+/data/user/0/com.kakao.story/cache/data/user/<number>/com.kakao.story/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.kakao.story/shared_prefs/<md5>.xml,file
+/data/user/0/com.kakao.story/shared_prefs/<md5>.xml.bak,file
+/data/user/0/com.kakao.story/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.kakao.story/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.kakao.story/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.kakao.story/shared_prefs/account.preference.xml,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/user-data,directory
+/data/user/0/com.kakao.story/shared_prefs/account.preference.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/reports/<md5>,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/internal-keys,directory
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/keys,directory
+/data/user/0/com.kakao.story/shared_prefs/user.setting.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/user.setting.preference.xml.bak,file
+/data/user/0/com.kakao.story/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.kakao.story/shared_prefs/account.history.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/account.history.preference.xml.bak,file
+/data/user/0/com.kakao.story/files/phenotype/shared/com.google.android.gms.measurement#com.kakao.story.pb,file
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.story_preferences.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.story_preferences.xml.bak,file
+/data/user/0/com.kakao.story/databases/google_app_measurement_local.db,file
+/data/user/0/com.kakao.story/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.kakao.story/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.kakao.story/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.kakao.story/files/.com.google.firebase.crashlytics.files.v2:com.kakao.story/open-sessions/<session>/userlog.tmp,file
+/data/user/0/com.kakao.story/app_tmp,directory
+/data/user/0/com.kakao.story/app_crashes,directory
+/data/user/0/com.kakao.story/shared_prefs/appsetting.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/appsetting.preference.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/request.param.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/request.param.preference.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/KakaoStory.hw.perferences.xml,file
+/data/user/0/com.kakao.story/shared_prefs/KakaoStory.hw.perferences.xml.bak,file
+/data/user/0/com.kakao.story/cache/KakaoEmoticons2.db.lck,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons2.db,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons2.db-wal,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons2.db-shm,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons2.db-journal,directory
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.story_tiara.xml,file
+/data/user/0/com.kakao.story/shared_prefs/com.kakao.story_tiara.xml.bak,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons.db,file
+/data/user/0/com.kakao.story/databases/KakaoEmoticons.db-wal,directory
+/data/user/0/com.kakao.story/databases/KakaoEmoticons.db-shm,directory
+/data/user/0/com.kakao.story/databases/KakaoEmoticons.db-journal,file
+/data/user/0/com.kakao.story/shared_prefs/ActionTrackerPref.xml,file
+/data/user/0/com.kakao.story/shared_prefs/ActionTrackerPref.xml.bak,file
+/data/user/0/com.kakao.story/app_tmp/deletable,directory
+/data/user/0/com.kakao.story/shared_prefs/media.exception.perferences.xml,file
+/data/user/0/com.kakao.story/shared_prefs/media.exception.perferences.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/temporary.repository.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/temporary.repository.preference.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/app.config.xml,file
+/data/user/0/com.kakao.story/shared_prefs/app.config.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/net.daum.android.tiara.xml,file
+/data/user/0/com.kakao.story/shared_prefs/net.daum.android.tiara.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/com.kakao.story/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story,directory
+/data/user/0/com.kakao.story/app_textures,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story,directory
+/data/user/0/com.kakao.story/shared_prefs/time.based.session.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/time.based.session.preference.xml.bak,file
+/data/user/0/com.kakao.story/shared_prefs/kakao.item.store.preferences.xml,file
+/data/user/0/com.kakao.story/shared_prefs/kakao.item.store.preferences.xml.bak,file
+/data/user/0/com.kakao.story/databases/kakao_story.db,file
+/data/user/0/com.kakao.story/databases/kakao_story.db-wal,directory
+/data/user/0/com.kakao.story/databases/kakao_story.db-shm,directory
+/data/user/0/com.kakao.story/databases/kakao_story.db-journal,file
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache,directory
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache/journal.bkp,directory
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache/journal,file
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache/journal.tmp,file
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/user/0/com.kakao.story/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/app/com.kakao.story-<base64>/base.apk!/lib/arm64-v8a/libdigitalitem_image_decoder.so,file
+/data/user/0/com.kakao.story/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.kakao.story/primary.prof,file
+/data/user/0/com.kakao.story/files/profileInstalled,file
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crashpad,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/SafeBrowsing,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/font_unique_name_table.pb,file
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crash Reports,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crashpad/new,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crashpad/completed,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crashpad/pending,directory
+/data/user/0/com.kakao.story/cache/webview_com.kakao.story/Crashpad/attachments,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/variations_stamp,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/webview_data.lock,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/BrowserMetrics,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/variations_seed,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/variations_seed_new,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/pref_store,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Preferences,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/blob_storage,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/PersistentOriginTrials,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Web Data,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Cookies-journal,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Cookies,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Web Data-journal,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/<number>.log,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/LOCK,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/LOG,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/MANIFEST-<number>,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/<number>.ldb,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/LOG.old,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/CURRENT,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/LOG,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/MANIFEST-<number>,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/<number>.ldb,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/LOG.old,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/shared_proto_db/metadata/CURRENT,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/blob_storage/<uuid>,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/PersistentOriginTrials/LOCK,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/PersistentOriginTrials/LOG,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/PersistentOriginTrials/LOG.old,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/<number>.ldb,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage/LOCK,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage/LOG,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage/<number>.log,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Session Storage/CURRENT,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/db,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/cache,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/db-journal,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/cache/index,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/com.kakao.story/cache/WebView,directory
+/data/user/0/com.kakao.story/app_webview,directory
+/data/user_de/0/com.kakao.story/cache/webview_com.kakao.story,directory
+/data/user_de/0/com.kakao.story/app_webview_com.kakao.story,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.kakao.story/app_webview_com.kakao.story/BrowserMetrics-spare.pma,file
+/data/user/0/com.kakao.story/files/phenotype/shared/com.google.android.gms.clearcut_client#com.kakao.story.pb,directory
+/data/user/0/com.kakao.story/shared_prefs/campaign.preference.xml,file
+/data/user/0/com.kakao.story/shared_prefs/campaign.preference.xml.bak,file
+/data/user/0/com.kakao.story/cache/com.kakao.adfit.cache,file
+/data/user/0/com.kakao.story/cache/com.kakao.adfit.cache/<number>,directory
+/data/user/0/com.kakao.story/cache/com.kakao.adfit.cache/<number>-<number>,directory
+/data/user/0/com.kakao.story/cache/com.kakao.adfit.cache/-<number>-<number>,directory
+/data/user/0/com.kakao.story/app_tmp/deletable/<uuid>.jpg,file
+/data/user_de/0/com.kakao.story/code_cache/com.android.renderscript.cache,file

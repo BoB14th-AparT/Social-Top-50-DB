@@ -1,0 +1,165 @@
+﻿path,type
+/data/user/0/holding.handsj.safdhoi,directory
+/data/user_de/0/holding.handsj.safdhoi,directory
+/data/app/holding.handsj.safdhoi-<base64>/base.apk,file
+/data/app/holding.handsj.safdhoi-<base64>/split_config.arm64_v8a.apk,file
+/data/app/holding.handsj.safdhoi-<base64>/split_config.xxhdpi.apk,file
+/data/app/holding.handsj.safdhoi-<base64>/oat/arm64/base.odex,file
+/data/app/holding.handsj.safdhoi-<base64>/oat/arm64/base.vdex,file
+/data/app/holding.handsj.safdhoi-<base64>/oat/arm64/base.art,file
+/data/app/holding.handsj.safdhoi-<base64>/lib/arm64,directory
+/data/app/holding.handsj.safdhoi-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/holding.handsj.safdhoi-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/holding.handsj.safdhoi-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/holding.handsj.safdhoi,directory
+/data/misc/profiles/cur/0/holding.handsj.safdhoi/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/holding.handsj.safdhoi/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/holding.handsj.safdhoi/primary.prof,directory
+/data/user/0/holding.handsj.safdhoi/cache,directory
+/data/user_de/0/holding.handsj.safdhoi/code_cache,directory
+/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.opengl.shaders_cache,directory
+/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.skia.shaders_cache,directory
+/data/user/0/holding.handsj.safdhoi/shared_prefs,directory
+/data/user/0/holding.handsj.safdhoi/shared_prefs/language_uni_sp_file.xml,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/language_uni_sp_file.xml.bak,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_ad_type_key.xml,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/dc_ad_type_key.xml.bak,file
+/storage/emulated/0/Android/data/holding.handsj.safdhoi,directory
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache,directory
+/data/user/0/holding.handsj.safdhoi/files,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/manifest.json,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/androidPrivacy.json,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/pdr.xml,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/pdr.xml.bak,file
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/apps/,directory
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/sitemap/,directory
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache/dcCrashDump,directory
+/data/app/holding.handsj.safdhoi-<base64>/lib/arm64/libbreakpad-core.so,file
+/data/app/holding.handsj.safdhoi-<base64>/lib/arm64/libc++_shared.so,file
+/data/app/holding.handsj.safdhoi-<base64>/lib/arm64/libweexcore.so,file
+/data/user/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi,directory
+/data/user/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/SafeBrowsing,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/font_unique_name_table.pb,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crash Reports,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/new,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/completed,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/pending,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/attachments,directory
+/data/user/0/holding.handsj.safdhoi/app_webview,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/variations_stamp,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/webview_data.lock,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/variations_seed,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics-spare.pma,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/pref_store,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies-journal,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data-journal,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOCK,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/MANIFEST-<number>,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG.old,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/CURRENT,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOCK,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/<number>.ldb,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG.old,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/CURRENT,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOCK,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG.old,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi,directory
+/data/user_de/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi,directory
+/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/holding.handsj.safdhoi/databases/DCStorage-journal,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/data/holding.handsj.safdhoi/app_webview/Default/Cookies-journal,directory
+/data/data/holding.handsj.safdhoi/app_webview/Default,directory
+/data/user/0/holding.handsj.safdhoi/databases,directory
+/data/user/0/holding.handsj.safdhoi/shared_prefs/appsflyer-data.xml,file
+/data/user/0/holding.handsj.safdhoi/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/isbackstage_dbfile,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/pauseConnection_dbfile,directory
+/data/user/0/holding.handsj.safdhoi/files/AFRequestCache,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/backstageTime_dbfile,directory
+/data/user/0/holding.handsj.safdhoi/files/AFRequestCache/<number>,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/message/chat.css,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/empty.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/__uniappview.html,file
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/index/index.css,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList1.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon1.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList2.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon0.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon2.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon4.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon3.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon5.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon7.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/myFunIcon6.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/recommend.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/contacts.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/compass.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/message-active.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/mine.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/msgList3.png,file
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/app.css,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/uni-app-view.umd.js,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/app-wxs.js,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/colorTextBg1.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/recommend-active.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar/message.png,file
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/__uniappquill.js,file

@@ -1,0 +1,236 @@
+﻿path,type
+/data/user/0/com.nadeshiko_android,directory
+/data/user_de/0/com.nadeshiko_android,directory
+/data/app/com.nadeshiko_android-<base64>/base.apk,file
+/data/app/com.nadeshiko_android-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.nadeshiko_android-<base64>/split_config.ko.apk,file
+/data/app/com.nadeshiko_android-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.nadeshiko_android-<base64>/oat/arm64/base.odex,file
+/data/app/com.nadeshiko_android-<base64>/oat/arm64/base.vdex,file
+/data/app/com.nadeshiko_android-<base64>/oat/arm64/base.art,file
+/data/app/com.nadeshiko_android-<base64>/lib/arm64,directory
+/data/app/com.nadeshiko_android-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.nadeshiko_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.nadeshiko_android-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.nadeshiko_android-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/com.nadeshiko_android,directory
+/data/misc/profiles/cur/0/com.nadeshiko_android/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.nadeshiko_android/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.nadeshiko_android/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/com.nadeshiko_android/primary.prof,file
+/data/user/0/com.nadeshiko_android/cache,directory
+/data/user_de/0/com.nadeshiko_android/code_cache,directory
+/data/user_de/0/com.nadeshiko_android/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.nadeshiko_android/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.nadeshiko_android/files,directory
+/data/user/0/com.nadeshiko_android/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.nadeshiko_android/shared_prefs,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.nadeshiko_android/databases,directory
+/data/user/0/com.nadeshiko_android/databases/com.google.android.datatransport.events,file
+/data/user/0/com.nadeshiko_android/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.nadeshiko_android/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.nadeshiko_android/no_backup,directory
+/data/user/0/com.nadeshiko_android/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.nadeshiko_android/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user_de/0/com.nadeshiko_android/shared_prefs,directory
+/data/user_de/0/com.nadeshiko_android/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.nadeshiko_android/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/com.crashlytics.settings.json,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/priority-reports,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/reports,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/native-reports,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/initialization_marker,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/crash_marker,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions/<md5>,directory
+/data/user/0/com.nadeshiko_android/files/generatefid.lock,file
+/data/user/0/com.nadeshiko_android/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/com.utage_android.util.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.utage_android.util.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6CD1034700010C14E8763B26FB48.temp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions/<md5>/report,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions/<md5>/start-time,directory
+/data/vendor/gpu/esx_config_com.nadeshiko_android.txt,file
+/data/misc/gpu/esx_config_com.nadeshiko_android.txt,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions/<md5>/user,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/693E6CD1034700010C14E8763B26FB48user.meta,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.nadeshiko_android/files/phenotype/shared/com.google.android.gms.measurement#com.nadeshiko_android.pb,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.nadeshiko_android_preferences.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.nadeshiko_android_preferences.xml.bak,file
+/data/user/0/com.nadeshiko_android/databases/google_app_measurement_local.db,file
+/data/user/0/com.nadeshiko_android/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.nadeshiko_android/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.nadeshiko_android/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.android.OptInStatus.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.android.OptInStatus.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.remoteconfig.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.remoteconfig.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.<hex>.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.<hex>.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.v2.<hex>.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.v2.<hex>.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.v3.<sha1>.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.user.v3.<sha1>.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/CallPrefs.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/CallPrefs.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6CD1034700010C14E8763B26FB48.temp.tmp,file
+/data/user/0/com.nadeshiko_android/files/io.repro.android,directory
+/data/user/0/com.nadeshiko_android/files/AdjustAttribution,file
+/data/user/0/com.nadeshiko_android/files/AdjustIoActivityState,file
+/data/user/0/com.nadeshiko_android/shared_prefs/adjust_preferences.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/adjust_preferences.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/AdjustGlobalCallbackParameters,directory
+/data/user/0/com.nadeshiko_android/files/AdjustGlobalPartnerParameters,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_<mixpanel_distinct_id>.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_<mixpanel_distinct_id>.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.registration_id.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.registration_id.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_<mixpanel_distinct_id>.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_<mixpanel_distinct_id>.xml.bak,file
+/data/user/0/com.nadeshiko_android/databases/mixpanel,file
+/data/user/0/com.nadeshiko_android/databases/mixpanel-wal,directory
+/data/user/0/com.nadeshiko_android/databases/mixpanel-shm,directory
+/data/user/0/com.nadeshiko_android/databases/mixpanel-journal,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/sessions/<md5>/event<crash_event_seq>_,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698770968,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/report-persistence/priority-reports/<md5>,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6CD3019700020C14E8763B26FB48.temp,directory
+/data/app/com.nadeshiko_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libagora-rtm-sdk.so,file
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_recovery,directory
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_recovery/<number>,directory
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_recovery/<number>/context.json,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.tracking.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/io.repro.tracking.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_recovery/<number>/responded_at.json,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6CD5017900010E1DE8763B26FB48.temp.tmp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6CD5017900010E1DE8763B26FB48.temp,file
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache,directory
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache/journal.bkp,directory
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache/journal,file
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache/journal.tmp,file
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/user/0/com.nadeshiko_android/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_recovery/<number>/event_<number>_001.json,file
+/data/user/0/com.nadeshiko_android/files/io.repro.android/pending_upload,directory
+/data/user/0/com.nadeshiko_android/app_Repro.Images.DecideChecker,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/permission_request_prefs.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/permission_request_prefs.xml.bak,file
+/data/user/0/com.nadeshiko_android/cache/application_database.lck,file
+/data/user/0/com.nadeshiko_android/databases/application_database,file
+/data/user/0/com.nadeshiko_android/databases/application_database-wal,file
+/data/user/0/com.nadeshiko_android/databases/application_database-shm,file
+/data/user/0/com.nadeshiko_android/databases/application_database-journal,directory
+/data/user/0/com.nadeshiko_android/cache/crash_context_v1,file
+/storage/emulated/0/Android/data/com.nadeshiko_android/files/<md5>.log,file
+/storage/emulated/0/Android/data/com.nadeshiko_android/files/<md5>.dmp,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/WebViewChromiumPrefs.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/WebViewChromiumPrefs.xml.bak,file
+/data/user/0/com.nadeshiko_android/app_webview,directory
+/data/user/0/com.nadeshiko_android/app_textures,directory
+/data/user/0/com.nadeshiko_android/cache/WebView,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698848088,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6D2000E200020E1DE8763B26FB48.temp,directory
+/data/app/com.nadeshiko_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsigner.so,file
+/data/user/0/com.nadeshiko_android/cache/agorartmdns.dat,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698886903,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6D47008F000214C5E8763B26FB48.temp,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698957018,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6D8D011B000228EEE8763B26FB48.temp,directory
+/data/user/0/com.nadeshiko_android/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.nadeshiko_android/primary.prof,file
+/data/user/0/com.nadeshiko_android/files/profileInstalled,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B900020000137DDE8763B26FB48.temp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/693E6B900020000137DDE8763B26FB48user.meta,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B900020000137DDE8763B26FB48.temp.tmp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698448815,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B9003CE000237DDE8763B26FB48.temp,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698530109,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6BE2011100023B6DE8763B26FB48.temp,directory
+/data/user/0/com.nadeshiko_android/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.nadeshiko_android/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.nadeshiko_android/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/com.nadeshiko_android/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.nadeshiko_android/app_webview/pref_store,file
+/data/user/0/com.nadeshiko_android/app_webview/BrowserMetrics,directory
+/data/user/0/com.nadeshiko_android/files/phenotype/shared/com.google.android.gms.clearcut_client#com.nadeshiko_android.pb,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/LOG,file
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Session Storage/<number>.dbtmp,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crashpad,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crash Reports,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crashpad/new,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crashpad/pending,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crashpad/completed,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Crashpad/attachments,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/FirebaseAppHeartBeat.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/FirebaseAppHeartBeat.xml.bak,file
+/data/user/0/com.nadeshiko_android/shared_prefs/FirebaseAppHeartBeatStorage.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/FirebaseAppHeartBeatStorage.xml.bak,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E66F601B6000132DAE8763B26FB48.temp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/693E66F601B6000132DAE8763B26FB48user.meta,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E66F601B6000132DAE8763B26FB48.temp.tmp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765697271124,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E66F7011A000232DAE8763B26FB48.temp,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/user/0/com.nadeshiko_android/shared_prefs/AwOriginVisitLoggerPrefs.xml,file
+/data/user/0/com.nadeshiko_android/shared_prefs/AwOriginVisitLoggerPrefs.xml.bak,file
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/WebStorage,directory
+/data/data/com.nadeshiko_android/app_webview/Default/WebStorage/QuotaManager,file
+/data/data/com.nadeshiko_android/app_webview/Default/WebStorage/QuotaManager-journal,file
+/data/data/com.nadeshiko_android/app_webview/Default/WebStorage,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/CacheStorage,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/index,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/LOG,file
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/LOCK,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/MANIFEST-<number>,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/<number>.dbtmp,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/CURRENT,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/Database/<number>.log,file
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/index-dir/the-real-index,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/index-dir,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/index-dir/temp-index,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_0,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/CacheStorage/<sha1>/index.txt,file
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/CacheStorage/<sha1>,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_1,directory
+/data/user/0/com.nadeshiko_android/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_s,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.nadeshiko_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B7B02CB000132ACE8763B26FB48.temp,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/693E6B7B02CB000132ACE8763B26FB48user.meta,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B7B02CB000132ACE8763B26FB48.temp.tmp,file
+/data/user/0/com.nadeshiko_android/files/AdjustIoPackageQueue,file
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/.ae1765698428546,directory
+/data/user/0/com.nadeshiko_android/files/.com.google.firebase.crashlytics/log-files/crashlytics-userlog-693E6B7C02E5000232ACE8763B26FB48.temp,directory

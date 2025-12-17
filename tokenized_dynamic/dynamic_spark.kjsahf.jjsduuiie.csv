@@ -1,0 +1,195 @@
+﻿path,type
+/data/user/0/spark.kjsahf.jjsduuiie,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie,directory
+/data/app/spark.kjsahf.jjsduuiie-<base64>/base.apk,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/split_config.arm64_v8a.apk,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/split_config.xxhdpi.apk,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/oat/arm64/base.odex,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/oat/arm64/base.vdex,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/oat/arm64/base.art,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/lib/arm64,directory
+/data/app/spark.kjsahf.jjsduuiie-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/spark.kjsahf.jjsduuiie-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/spark.kjsahf.jjsduuiie-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie,directory
+/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/spark.kjsahf.jjsduuiie/primary.prof,file
+/data/user/0/spark.kjsahf.jjsduuiie/cache,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/spark.kjsahf.jjsduuiie/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs,directory
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/language_uni_sp_file.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/language_uni_sp_file.xml.bak,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/dc_ad_type_key.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/dc_ad_type_key.xml.bak,file
+/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/manifest.json,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/androidPrivacy.json,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/pdr.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/pdr.xml.bak,file
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/sitemap/,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/cache/dcCrashDump,directory
+/data/app/spark.kjsahf.jjsduuiie-<base64>/lib/arm64/libbreakpad-core.so,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/lib/arm64/libc++_shared.so,file
+/data/app/spark.kjsahf.jjsduuiie-<base64>/lib/arm64/libweexcore.so,file
+/data/user/0/spark.kjsahf.jjsduuiie/cache/webview_spark.kjsahf.jjsduuiie,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview_spark.kjsahf.jjsduuiie,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/SafeBrowsing,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crash Reports,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/new,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/completed,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/pending,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Crashpad/attachments,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_stamp,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/webview_data.lock,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_seed,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics-spare.pma,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/pref_store,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Web Data,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies-journal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Web Data-journal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOCK,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOG,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/MANIFEST-<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/LOG.old,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/CURRENT,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOCK,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOG,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/<number>.ldb,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/LOG.old,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/shared_proto_db/metadata/CURRENT,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOCK,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOG,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/PersistentOriginTrials/LOG.old,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie/cache/webview_spark.kjsahf.jjsduuiie,directory
+/data/user_de/0/spark.kjsahf.jjsduuiie/app_webview_spark.kjsahf.jjsduuiie,directory
+/data/user/0/spark.kjsahf.jjsduuiie/databases/DCStorage-journal,directory
+/data/data/spark.kjsahf.jjsduuiie/app_webview/Default/Cookies-journal,directory
+/data/data/spark.kjsahf.jjsduuiie/app_webview/Default,directory
+/data/user/0/spark.kjsahf.jjsduuiie/databases,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/<sha256>.<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/isbackstage_dbfile,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/pauseConnection_dbfile,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/dbfile/backstageTime_dbfile,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc/uniapp_temp_<number>/recorder/<number>.mp3,file
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/crash_<number>_2025-12-14-18-21-43.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniapperror.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/recommend.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/mine-active.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon1.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon6.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon2.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon3.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon5.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/myFunIcon4.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/mine/doc.css,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/assets/uniicons.89ed7d6d.ttf,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniappview.html,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/app.css,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/app-wxs.js,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/uni-app-view.umd.js,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/.gms-dynamite-code-cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/Default/Session Storage/<number>.dbtmp,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/__uniappscan.js,file
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/logs/spark.kjsahf.jjsduuiie/crash/crash_<number>_2025-12-14-18-15-28.log,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/profileInstalled,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/BrowserMetrics-spare.pma.tmp,file
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc/,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/phenotype_storage_info/shared/storage-info.pb,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/phenotype/shared/com.google.android.gms.clearcut_client#spark.kjsahf.jjsduuiie.pb,directory
+/storage/emulated/0/Android/data/spark.kjsahf.jjsduuiie/apps/__UNI__A712E06/doc,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/appsflyer-data.xml,file
+/data/user/0/spark.kjsahf.jjsduuiie/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db,file
+/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/spark.kjsahf.jjsduuiie/databases/google_app_measurement_local.db-journal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/generatefid.lock,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/AFRequestCache/<number>,directory
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/message.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/compass-active.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/tabbar/contacts-active.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList2.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList1.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/msgList3.png,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/contacts/detail.css,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/undefined,directory
+/data/user/0/spark.kjsahf.jjsduuiie/app_webview/variations_seed_new,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal.bkp,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal,directory
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/journal.tmp,file
+/data/user/0/spark.kjsahf.jjsduuiie/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/pages/message/chat.css,file
+/data/user/0/spark.kjsahf.jjsduuiie/files/apps/__UNI__A712E06/www/static/image/empty.png,file

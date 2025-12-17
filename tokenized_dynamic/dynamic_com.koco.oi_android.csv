@@ -1,0 +1,269 @@
+﻿path,type
+/data/user/0/com.koco.oi_android,directory
+/data/user_de/0/com.koco.oi_android,directory
+/data/app/com.koco.oi_android-<base64>/base.apk,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.koco.oi_android-<base64>/split_config.ko.apk,file
+/data/app/com.koco.oi_android-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.koco.oi_android-<base64>/oat/arm64/base.odex,file
+/data/app/com.koco.oi_android-<base64>/oat/arm64/base.vdex,file
+/data/app/com.koco.oi_android-<base64>/oat/arm64/base.art,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64,directory
+/data/app/com.koco.oi_android-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.koco.oi_android-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.koco.oi_android-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/com.koco.oi_android,directory
+/data/misc/profiles/cur/0/com.koco.oi_android/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.koco.oi_android/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.koco.oi_android/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/com.koco.oi_android/primary.prof,file
+/data/user/0/com.koco.oi_android/cache,directory
+/data/user_de/0/com.koco.oi_android/code_cache,directory
+/data/user_de/0/com.koco.oi_android/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.koco.oi_android/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.koco.oi_android/cache/sentry,directory
+/data/user/0/com.koco.oi_android/cache/sentry/app_start_profiling_config,directory
+/data/user/0/com.koco.oi_android/shared_prefs,directory
+/data/user/0/com.koco.oi_android/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml.bak,file
+/data/user/0/com.koco.oi_android/files,directory
+/data/user/0/com.koco.oi_android/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_fetch.json,file
+/data/user/0/com.koco.oi_android/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_activate.json,file
+/data/user/0/com.koco.oi_android/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_defaults.json,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/reports,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/priority-reports,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/native-reports,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/com.koco.oi_android/no_backup,directory
+/data/user/0/com.koco.oi_android/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user_de/0/com.koco.oi_android/shared_prefs,directory
+/data/user_de/0/com.koco.oi_android/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.koco.oi_android/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/com.crashlytics.settings.json,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/initialization_marker,directory
+/data/user/0/com.koco.oi_android/databases,directory
+/data/user/0/com.koco.oi_android/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb,file
+/data/user/0/com.koco.oi_android/databases/com.google.android.datatransport.events,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/crash_marker,directory
+/data/user/0/com.koco.oi_android/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.koco.oi_android/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native,directory
+/data/user/0/com.koco.oi_android/databases/com.google.android.datatransport.events-journal,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native/pending,directory
+/data/user/0/com.koco.oi_android/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.koco.oi_android/files/generatefid.lock,file
+/data/user/0/com.koco.oi_android/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/io.invertase.firebase.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/io.invertase.firebase.xml.bak,file
+/data/user/0/com.koco.oi_android/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64-v8a,directory
+/data/user/0/com.koco.oi_android/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/userlog,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/report,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/start-time,directory
+/data/user/0/com.koco.oi_android/databases/androidx.work.workdb,directory
+/data/user/0/com.koco.oi_android/no_backup/androidx.work.workdb,file
+/data/user/0/com.koco.oi_android/cache/data/user/<number>/com.koco.oi_android/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.koco.oi_android/files/crash_info.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/internal-keys,directory
+/data/user/0/com.koco.oi_android/files/.com.google.firebase.crashlytics,directory
+/data/user/0/com.koco.oi_android/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.koco.oi_android/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.koco.oi_android/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.koco.oi_android/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.koco.oi_android/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/aqs.<md5>,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/com.koco.oi_android/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native/device.json,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native/session.json,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native/app.json,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/native/os.json,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.koco.oi_android/files/phenotype/shared/com.google.android.gms.measurement#com.koco.oi_android.pb,directory
+/data/user/0/com.koco.oi_android/files/AppEventsLogger.persistedevents,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.koco.oi_android_preferences.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.koco.oi_android_preferences.xml.bak,file
+/data/user/0/com.koco.oi_android/databases/google_app_measurement_local.db,file
+/data/user/0/com.koco.oi_android/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.koco.oi_android/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.koco.oi_android/databases/google_app_measurement_local.db-journal,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libreactnative.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libc++_shared.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libdl.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libm.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libc.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libc++_shared.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libandroid.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libjsi.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libjsi.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/libfbjni.so,file
+/data/app/com.koco.oi_android-<base64>/lib/arm64/liblog.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libfbjni.so,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/event<crash_event_seq>_,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/.ae1765705918548,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/open-sessions/<session>/user-data,directory
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/priority-reports/<md5>,directory
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.attributionTracking.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.sdk.APPLINK_INFO.xml.bak,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/.ae1765705589933,directory
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics-common.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnative.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermes.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermestooling.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreact_codegen_rnscreens.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreact_codegen_rnsvg.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreact_codegen_safeareacontext.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreact_codegen_reactnativekeyboardcontroller.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libappmodules.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libworklets.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreanimated.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libgesturehandler.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/librnscreens.so,file
+/data/app/com.koco.oi_android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libimagepipeline.so,file
+/data/user/0/com.koco.oi_android/cache/webview_com.koco.oi_android,directory
+/data/user/0/com.koco.oi_android/app_webview_com.koco.oi_android,directory
+/data/user/0/com.koco.oi_android/cache/WebView,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Crashpad,directory
+/data/user/0/com.koco.oi_android/cache/WebView/SafeBrowsing,directory
+/data/user/0/com.koco.oi_android/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/com.koco.oi_android/cache/WebView/Crash Reports,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Crashpad/new,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Crashpad/completed,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Crashpad/pending,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Crashpad/attachments,directory
+/data/user/0/com.koco.oi_android/app_webview,directory
+/data/user/0/com.koco.oi_android/app_webview/Default,directory
+/data/user/0/com.koco.oi_android/app_webview/variations_stamp,file
+/data/user/0/com.koco.oi_android/app_webview/webview_data.lock,file
+/data/user/0/com.koco.oi_android/app_webview/BrowserMetrics,directory
+/data/user/0/com.koco.oi_android/app_webview/variations_seed,file
+/data/user/0/com.koco.oi_android/app_webview/pref_store,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/blob_storage,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Web Data,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Cookies-journal,file
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Cookies,file
+/data/user/0/com.koco.oi_android/app_webview/Default/Web Data-journal,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/LOCK,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/LOG,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/MANIFEST-<number>,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/LOG.old,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/CURRENT,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/LOG,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/<number>.ldb,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/LOG.old,file
+/data/user/0/com.koco.oi_android/app_webview/Default/shared_proto_db/metadata/CURRENT,file
+/data/user/0/com.koco.oi_android/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/PersistentOriginTrials/LOCK,file
+/data/user/0/com.koco.oi_android/app_webview/Default/PersistentOriginTrials/LOG,file
+/data/user/0/com.koco.oi_android/app_webview/Default/PersistentOriginTrials/LOG.old,file
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/<number>.ldb,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/com.koco.oi_android/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/com.koco.oi_android/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/com.koco.oi_android/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/com.koco.oi_android/cache/webview_com.koco.oi_android,directory
+/data/user_de/0/com.koco.oi_android/app_webview_com.koco.oi_android,directory
+/data/user/0/com.koco.oi_android/cache/http-cache/<md5>.<number>,file
+/data/user/0/com.koco.oi_android/cache/http-cache/<md5>.<number>.tmp,file
+/data/user/0/com.koco.oi_android/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/user/0/com.koco.oi_android/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/com.koco.oi_android/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.koco.oi_android/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/com.koco.oi_android/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.koco.oi_android/files/phenotype/shared/com.google.android.gms.clearcut_client#com.koco.oi_android.pb,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/data/com.koco.oi_android/app_webview/Default/Cookies-journal,directory
+/data/data/com.koco.oi_android/app_webview/Default,directory
+/data/user/0/com.koco.oi_android/databases/RKStorage-journal,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/user/0/com.koco.oi_android/databases/notifee_core_database,directory
+/data/user/0/com.koco.oi_android/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb.tmp,file
+/data/user/0/com.koco.oi_android/files/.crashlytics.v3/com.koco.oi_android/.ae1765705278510,directory
+/data/user/0/com.koco.oi_android/app_webview/variations_seed_new,directory
+/data/user/0/com.koco.oi_android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.koco.oi_android/shared_prefs/appsflyer-data.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/admob.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/admob.xml.bak,file
+/data/user/0/com.koco.oi_android/shared_prefs/com.facebook.react.modules.i18nmanager.I18nUtil.xml,file
+/data/user/0/com.koco.oi_android/files/AFRequestCache,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/OtherCache,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/OtherCache/<number>,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/ConversionsCache,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/AttrCache,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/ConversionsCache/<number>,directory
+/data/user/0/com.koco.oi_android/files/AFRequestCache/AttrCache/<number>,directory
+/data/user/0/com.koco.oi_android/shared_prefs/AwOriginVisitLoggerPrefs.xml,file
+/data/user/0/com.koco.oi_android/shared_prefs/AwOriginVisitLoggerPrefs.xml.bak,file

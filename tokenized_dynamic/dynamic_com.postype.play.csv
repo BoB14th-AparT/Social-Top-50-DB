@@ -1,0 +1,186 @@
+﻿path
+/data/user/0/com.postype.play
+/data/user_de/0/com.postype.play
+/data/app/com.postype.play-Fr-<base64>/base.apk
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk
+/data/app/com.postype.play-Fr-<base64>/split_config.ko.apk
+/data/app/com.postype.play-Fr-<base64>/split_config.xxhdpi.apk
+/data/app/com.postype.play-Fr-<base64>/oat/arm64/base.odex
+/data/app/com.postype.play-Fr-<base64>/oat/arm64/base.vdex
+/data/app/com.postype.play-Fr-<base64>/oat/arm64/base.art
+/data/app/com.postype.play-Fr-<base64>/lib/arm64
+/data/app/com.postype.play-Fr-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.postype.play-Fr-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.postype.play-Fr-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/misc/profiles/cur/0/com.postype.play
+/data/misc/profiles/cur/0/com.postype.play/config.xxhdpi.split.prof
+/data/misc/profiles/cur/0/com.postype.play/config.ko.split.prof
+/data/misc/profiles/cur/0/com.postype.play/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.postype.play/primary.prof
+/data/user/0/com.postype.play/cache
+/data/user_de/0/com.postype.play/code_cache
+/data/user_de/0/com.postype.play/code_cache/com.android.opengl.shaders_cache
+/data/user_de/0/com.postype.play/code_cache/com.android.skia.shaders_cache
+/data/user/0/com.postype.play/shared_prefs
+/data/user/0/com.postype.play/shared_prefs/com.google.android.gms.appid.xml
+/data/user/0/com.postype.play/shared_prefs/com.google.android.gms.appid.xml.bak
+/data/user/0/com.postype.play/files
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/reports
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/priority-reports
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/native-reports
+/data/user/0/com.postype.play/shared_prefs/com.google.firebase.crashlytics.xml
+/data/user/0/com.postype.play/shared_prefs/com.google.firebase.crashlytics.xml.bak
+/data/user_de/0/com.postype.play/shared_prefs
+/data/user_de/0/com.postype.play/shared_prefs/com.google.firebase.common.prefs:<base64>.xml
+/data/user_de/0/com.postype.play/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/com.crashlytics.settings.json
+/data/user/0/com.postype.play/files/generatefid.lock
+/data/user/0/com.postype.play/files/PersistedInstallation.<firebase_installation_b64>.json
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/initialization_marker
+/data/user/0/com.postype.play/databases
+/data/user/0/com.postype.play/databases/com.google.android.datatransport.events
+/data/user/0/com.postype.play/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.postype.play/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/crash_marker
+/data/user/0/com.postype.play/databases/com.google.android.datatransport.events-journal
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/pending
+/data/user/0/com.postype.play/shared_prefs/com.google.firebase.messaging.xml
+/data/user/0/com.postype.play/shared_prefs/com.google.firebase.messaging.xml.bak
+/data/user/0/com.postype.play/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml
+/data/user/0/com.postype.play/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak
+/data/user/0/com.postype.play/shared_prefs/io.invertase.firebase.xml
+/data/user/0/com.postype.play/shared_prefs/io.invertase.firebase.xml.bak
+/data/user/0/com.postype.play/files/.gms-dynamite-code-cache
+/data/user/0/com.postype.play/databases/androidx.work.workdb
+/data/app/com.postype.play-Fr-<base64>/lib/arm64-v8a
+/data/user/0/com.postype.play/no_backup
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/userlog
+/data/user/0/com.postype.play/no_backup/androidx.work.workdb
+/data/user/0/com.postype.play/cache/data/user/<number>/com.postype.play/no_backup/androidx.work.workdb.lck
+/data/vendor/gpu/esx_config_com.postype.play.txt
+/data/misc/gpu/esx_config_com.postype.play.txt
+/data/user/0/com.postype.play/no_backup/androidx.work.workdb-wal
+/data/user/0/com.postype.play/no_backup/androidx.work.workdb-shm
+/data/user/0/com.postype.play/no_backup/androidx.work.workdb-journal
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/report
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libreactnative.so
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/start-time
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libc++_shared.so
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v1
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libdl.so
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libm.so
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/event<crash_event_seq>
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/user-data
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libc.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libc++_shared.so
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libandroid.so
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libjsi.so
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/reports/<md5>
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libjsi.so
+/data/user/0/com.postype.play/shared_prefs/com.google.android.gms.measurement.prefs.xml
+/data/user/0/com.postype.play/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libfbjni.so
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/liblog.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libfbjni.so
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/session.json
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/app.json
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/device.json
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/os.json
+/data/user/0/com.postype.play/files/phenotype_storage_info/shared/storage-info.pb
+/data/user/0/com.postype.play/files/phenotype/shared/com.google.android.gms.measurement#com.postype.play.pb
+/data/user/0/com.postype.play/shared_prefs/com.postype.play_preferences.xml
+/data/user/0/com.postype.play/shared_prefs/com.postype.play_preferences.xml.bak
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/.ae<number>
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/priority-reports/<md5>
+/data/user/0/com.postype.play/databases/google_app_measurement_local.db
+/data/user/0/com.postype.play/databases/google_app_measurement_local.db-wal
+/data/user/0/com.postype.play/databases/google_app_measurement_local.db-shm
+/data/user/0/com.postype.play/databases/google_app_measurement_local.db-journal
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/pending/<uuid>.dmp
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/pending/<uuid>.meta
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/new
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/supp.device_info
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/settings.dat
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/completed
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/attachments
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/keys
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/logs
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/metadata
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/session
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/app
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/device
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/os
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/minidump
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/open-sessions/<session>/native/user
+/data/user/0/com.postype.play/files/.com.google.firebase.crashlytics.files.v2:com.postype.play/native-reports/<md5>
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics-common.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnative.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermes.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermestooling.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/librnscreens.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libworklets.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreanimated.so
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.postype.play/app_webview/BrowserMetrics-spare.pma.tmp
+/data/user/0/com.postype.play/app_webview/BrowserMetrics-spare.pma
+/data/user/0/com.postype.play/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.postype.play/app_webview/BrowserMetrics
+/data/user/0/com.postype.play/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.postype.play/app_webview/pref_store
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.postype.play/databases/Database.db-journal
+/data/user/0/com.postype.play/databases/RKStorage-journal
+/data/user/0/com.postype.play/files/phenotype/shared/com.google.android.gms.clearcut_client#com.postype.play.pb
+/data/user/0/com.postype.play/cache/image_manager_disk_cache/<sha256>.<number>
+/data/user/0/com.postype.play/cache/image_manager_disk_cache/<sha256>.<number>.tmp
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/data/com.postype.play/app_webview/Default/Cookies-journal
+/data/data/com.postype.play/app_webview/Default
+/data/user/0/com.postype.play/cache/image_cache
+/data/user/0/com.postype.play/cache/image_cache/v2.ols100.<number>
+/data/data/com.postype.play/cache/image_cache
+/data/data/com.postype.play/cache/image_cache/v2.ols100.1
+/data/user/0/com.postype.play/cache/image_cache/v2.ols100.<number>/<number>/m797_7N3FuhsIIHE0kiyJVW-uCc.cnt
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libimagepipeline.so
+/data/app/com.postype.play-Fr-<base64>/lib/arm64/libjnigraphics.so
+/data/app/com.postype.play-Fr-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libimagepipeline.so
+/data/user/0/com.postype.play/databases/com.google.android.gms.ads.db
+/data/user/0/com.postype.play/shared_prefs/admob.xml
+/data/user/0/com.postype.play/shared_prefs/admob.xml.bak
+/data/user/0/com.postype.play/cache/volley/<number>
+/data/user/0/com.postype.play/cache/volley/<number>-<number>
+/data/user/0/com.postype.play/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat
+/data/misc/profiles/ref/com.postype.play/primary.prof
+/data/user/0/com.postype.play/files/profileInstalled
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.postype.play/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/data/com.postype.play/app_webview/Default/WebStorage/QuotaManager
+/data/data/com.postype.play/app_webview/Default/WebStorage/QuotaManager-journal
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/index
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/index-dir/the-real-index
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/CacheStorage/<sha1>/index.txt
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_0
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_1
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/CacheStorage/<sha1>
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_s
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache
+/data/user/0/com.postype.play/app_webview/Default/Service Worker/ScriptCache/index-dir/temp-index
+/data/data/com.postype.play/app_webview/Default/Shared Dictionary/db-journal
+/data/data/com.postype.play/app_webview/Default/Shared Dictionary
+/data/user/0/com.postype.play/app_pccache/<number>/<sha1>/oat/pcam.jar.cur.prof
+/data/data/com.postype.play/app_webview/Default/WebStorage

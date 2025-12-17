@@ -1,0 +1,15 @@
+﻿path,type
+/data/user/0/com.daumkakao.android.brunchapp,directory
+/data/user_de/0/com.daumkakao.android.brunchapp,directory
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/base.apk,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.ko.apk,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/oat/arm64/base.odex,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/oat/arm64/base.vdex,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/oat/arm64/base.art,file
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/lib/arm64,directory
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.daumkakao.android.brunchapp-2xTThQHwFF-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory

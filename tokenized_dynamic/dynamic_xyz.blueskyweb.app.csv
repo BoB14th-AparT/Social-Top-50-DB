@@ -1,0 +1,173 @@
+﻿path,type
+/data/user/0/xyz.blueskyweb.app,directory
+/data/user_de/0/xyz.blueskyweb.app,directory
+/data/app/xyz.blueskyweb.app-<base64>/base.apk,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.ko.apk,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.xxhdpi.apk,file
+/data/app/xyz.blueskyweb.app-<base64>/oat/arm64/base.odex,file
+/data/app/xyz.blueskyweb.app-<base64>/oat/arm64/base.vdex,file
+/data/app/xyz.blueskyweb.app-<base64>/oat/arm64/base.art,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64,directory
+/data/app/xyz.blueskyweb.app-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/xyz.blueskyweb.app-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/xyz.blueskyweb.app-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/xyz.blueskyweb.app,directory
+/data/misc/profiles/cur/0/xyz.blueskyweb.app/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/xyz.blueskyweb.app/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/xyz.blueskyweb.app/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/xyz.blueskyweb.app/primary.prof,file
+/data/user/0/xyz.blueskyweb.app/cache,directory
+/data/user_de/0/xyz.blueskyweb.app/code_cache,directory
+/data/user_de/0/xyz.blueskyweb.app/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/xyz.blueskyweb.app/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/xyz.blueskyweb.app/cache/sentry,directory
+/data/user/0/xyz.blueskyweb.app/cache/sentry/app_start_profiling_config,directory
+/data/user/0/xyz.blueskyweb.app/shared_prefs,directory
+/data/user/0/xyz.blueskyweb.app/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user_de/0/xyz.blueskyweb.app/shared_prefs,directory
+/data/user_de/0/xyz.blueskyweb.app/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/xyz.blueskyweb.app/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/no_backup,directory
+/data/user/0/xyz.blueskyweb.app/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/xyz.blueskyweb.app/cache/.clipboard,directory
+/data/user/0/xyz.blueskyweb.app/shared_prefs/expo.modules.devmenu.sharedpreferences.xml,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/expo.modules.devmenu.sharedpreferences.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/files,directory
+/data/user/0/xyz.blueskyweb.app/files/.expo-internal,directory
+/data/user/0/xyz.blueskyweb.app/shared_prefs/dev.expo.updates.prefs.xml,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/dev.expo.updates.prefs.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/dev.expo.EASSharedPreferences.xml,file
+/data/user/0/xyz.blueskyweb.app/shared_prefs/dev.expo.EASSharedPreferences.xml.bak,file
+/data/user/0/xyz.blueskyweb.app/files/okhttp,directory
+/data/user/0/xyz.blueskyweb.app/files/okhttp/journal,file
+/data/user/0/xyz.blueskyweb.app/files/okhttp/journal.tmp,file
+/data/user/0/xyz.blueskyweb.app/files/okhttp/journal.bkp,directory
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libreactnative.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libc++_shared.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libdl.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libm.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libc.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libc++_shared.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libandroid.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libjsi.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libjsi.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/libfbjni.so,file
+/data/app/xyz.blueskyweb.app-<base64>/lib/arm64/liblog.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libfbjni.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnative.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermes.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libhermestooling.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libexpo-modules-core.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsentry.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libsentry-android.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreactnativemmkv.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libworklets.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreanimated.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/librnscreens.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libimagepipeline.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnative-imagetranscoder.so,file
+/data/app/xyz.blueskyweb.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libavif_android.so,file
+/data/user/0/xyz.blueskyweb.app/cache/webview_xyz.blueskyweb.app,directory
+/data/user/0/xyz.blueskyweb.app/app_webview_xyz.blueskyweb.app,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crashpad,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/SafeBrowsing,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crash Reports,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crashpad/new,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crashpad/completed,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crashpad/pending,directory
+/data/user/0/xyz.blueskyweb.app/cache/WebView/Crashpad/attachments,directory
+/data/user/0/xyz.blueskyweb.app/app_webview,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/variations_stamp,file
+/data/user/0/xyz.blueskyweb.app/app_webview/webview_data.lock,file
+/data/user/0/xyz.blueskyweb.app/app_webview/BrowserMetrics,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/variations_seed,file
+/data/user/0/xyz.blueskyweb.app/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/xyz.blueskyweb.app/app_webview/pref_store,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/WebStorage,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/blob_storage,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Web Data,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Cookies-journal,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Cookies,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Web Data-journal,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/WebStorage/QuotaManager-journal,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/WebStorage/QuotaManager,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/LOCK,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/LOG,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/MANIFEST-<number>,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/CURRENT,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata/LOG,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/shared_proto_db/metadata/CURRENT,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/PersistentOriginTrials/LOCK,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/PersistentOriginTrials/LOG,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user_de/0/xyz.blueskyweb.app/cache/webview_xyz.blueskyweb.app,directory
+/data/user_de/0/xyz.blueskyweb.app/app_webview_xyz.blueskyweb.app,directory
+/data/user/0/xyz.blueskyweb.app/cache/http-cache/<md5>.<number>,file
+/data/user/0/xyz.blueskyweb.app/databases/RKStorage-journal,file
+/data/user/0/xyz.blueskyweb.app/databases,directory
+/data/user/0/xyz.blueskyweb.app/cache/http-cache/<md5>.<number>.tmp,file
+/data/user/0/xyz.blueskyweb.app/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/data/xyz.blueskyweb.app/app_webview/Default/Cookies-journal,file
+/data/data/xyz.blueskyweb.app/app_webview/Default,directory
+/data/user/0/xyz.blueskyweb.app/cache/sentry/<sha1>/.scope-cache/transaction.json,file
+/data/user/0/xyz.blueskyweb.app/cache/sentry/<sha1>/.scope-cache/trace.json,file
+/data/user/0/xyz.blueskyweb.app/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/xyz.blueskyweb.app/cache/thumbnails,directory
+/data/user/0/xyz.blueskyweb.app/cache/bsky-composer/..,directory
+/data/user/0/xyz.blueskyweb.app/cache/bsky-composer,directory
+/data/user/0/xyz.blueskyweb.app/cache/sentry/<sha1>,directory
+/data/user/0/xyz.blueskyweb.app/cache/sentry/<sha1>/session.json,file
+/data/user/0/xyz.blueskyweb.app/cache/sentry/<sha1>/<uuid>.envelope,directory
+/data/user/0/xyz.blueskyweb.app/app_webview/variations_seed_new,directory

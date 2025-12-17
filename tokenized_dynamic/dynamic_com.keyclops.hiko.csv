@@ -1,0 +1,70 @@
+﻿path
+/data/user/0/com.keyclops.hiko
+/data/user_de/0/com.keyclops.hiko
+/data/app/com.keyclops.hiko-<base64>/base.apk
+/data/app/com.keyclops.hiko-<base64>/split_config.arm64_v8a.apk
+/data/app/com.keyclops.hiko-<base64>/split_config.ko.apk
+/data/app/com.keyclops.hiko-<base64>/split_config.xxhdpi.apk
+/data/app/com.keyclops.hiko-<base64>/oat/arm64/base.odex
+/data/app/com.keyclops.hiko-<base64>/oat/arm64/base.vdex
+/data/app/com.keyclops.hiko-<base64>/oat/arm64/base.art
+/data/app/com.keyclops.hiko-<base64>/lib/arm64
+/data/app/com.keyclops.hiko-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.keyclops.hiko-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.keyclops.hiko-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.keyclops.hiko-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/misc/profiles/cur/0/com.keyclops.hiko
+/data/misc/profiles/cur/0/com.keyclops.hiko/config.xxhdpi.split.prof
+/data/misc/profiles/cur/0/com.keyclops.hiko/config.ko.split.prof
+/data/misc/profiles/cur/0/com.keyclops.hiko/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.keyclops.hiko/primary.prof
+/data/user/0/com.keyclops.hiko/cache
+/data/user_de/0/com.keyclops.hiko/code_cache
+/data/user_de/0/com.keyclops.hiko/code_cache/com.android.opengl.shaders_cache
+/data/user_de/0/com.keyclops.hiko/code_cache/com.android.skia.shaders_cache
+/data/user_de/0/com.keyclops.hiko/shared_prefs
+/data/user_de/0/com.keyclops.hiko/shared_prefs/com.google.firebase.common.prefs:<base64>.xml
+/data/user_de/0/com.keyclops.hiko/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak
+/data/user/0/com.keyclops.hiko/shared_prefs
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.android.gms.appid.xml
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.android.gms.appid.xml.bak
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.firebase.messaging.xml
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.firebase.messaging.xml.bak
+/data/user/0/com.keyclops.hiko/app_lib
+/data/user/0/com.keyclops.hiko/app_lib/libflutter.so
+/data/user/0/com.keyclops.hiko/no_backup
+/data/user/0/com.keyclops.hiko/no_backup/com.google.android.gms.appid-no-backup
+/data/user/0/com.keyclops.hiko/files
+/data/user/0/com.keyclops.hiko/files/generatefid.lock
+/data/user/0/com.keyclops.hiko/files/PersistedInstallation.<firebase_installation_b64>.json
+/data/app/com.keyclops.hiko-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libflutter.so
+/data/app/com.keyclops.hiko-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libapp.so
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.keyclops.hiko/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.keyclops.hiko/app_webview/pref_store
+/data/data/com.keyclops.hiko/app_webview/Default/Cookies-journal
+/data/data/com.keyclops.hiko/app_webview/Default
+/data/user/0/com.keyclops.hiko/databases/google_app_measurement_local.db
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.keyclops.hiko/app_webview/BrowserMetrics
+/data/user/0/com.keyclops.hiko/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.keyclops.hiko/app_webview/BrowserMetrics/BrowserMetrics-693D4B48-9B9.pma
+/data/user/0/com.keyclops.hiko/databases/google_app_measurement_local.db-wal
+/data/user/0/com.keyclops.hiko/databases/google_app_measurement_local.db-shm
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.keyclops.hiko/databases/google_app_measurement_local.db-journal
+/data/user/0/com.keyclops.hiko/files/phenotype_storage_info/shared/storage-info.pb
+/data/data/com.keyclops.hiko/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb
+/data/user/0/com.keyclops.hiko/files/phenotype/shared/com.google.android.gms.clearcut_client#com.keyclops.hiko.pb
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.android.gms.measurement.prefs.xml
+/data/user/0/com.keyclops.hiko/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak
+/data/user/0/com.keyclops.hiko/files/PersistedInstallation1344700578050838850tmp
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.keyclops.hiko/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.keyclops.hiko/files/.gms-dynamite-code-cache
+/data/user/0/com.keyclops.hiko/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb
+/data/data/com.keyclops.hiko/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb.tmp

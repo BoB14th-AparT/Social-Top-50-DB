@@ -1,0 +1,425 @@
+﻿path,type
+/data/user/0/com.heroines.heroines,directory
+/data/user_de/0/com.heroines.heroines,directory
+/data/app/com.heroines.heroines-<base64>/base.apk,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.heroines.heroines-<base64>/split_config.ko.apk,file
+/data/app/com.heroines.heroines-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.heroines.heroines-<base64>/oat/arm64/base.odex,file
+/data/app/com.heroines.heroines-<base64>/oat/arm64/base.vdex,file
+/data/app/com.heroines.heroines-<base64>/oat/arm64/base.art,file
+/data/app/com.heroines.heroines-<base64>/lib/arm64,directory
+/data/app/com.heroines.heroines-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.heroines.heroines-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.heroines.heroines-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/com.heroines.heroines,directory
+/data/misc/profiles/cur/0/com.heroines.heroines/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.heroines.heroines/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.heroines.heroines/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/com.heroines.heroines/primary.prof,file
+/data/user/0/com.heroines.heroines/cache,directory
+/data/user_de/0/com.heroines.heroines/code_cache,directory
+/data/user_de/0/com.heroines.heroines/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.heroines.heroines/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.heroines.heroines/shared_prefs,directory
+/data/user/0/com.heroines.heroines/files,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/reports,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/priority-reports,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/native-reports,directory
+/data/user/0/com.heroines.heroines/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_settings.xml.bak,file
+/data/user/0/com.heroines.heroines/no_backup,directory
+/data/user/0/com.heroines.heroines/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.heroines.heroines/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_activate.json,file
+/data/user/0/com.heroines.heroines/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_defaults.json,file
+/data/user/0/com.heroines.heroines/shared_prefs/FirebasePerfSharedPrefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/FirebasePerfSharedPrefs.xml.bak,file
+/data/user/0/com.heroines.heroines/files/frc_1:<firebase_project_number>:android:<firebase_app_instance_hex>_firebase_fetch.json,file
+/data/user/0/com.heroines.heroines/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user_de/0/com.heroines.heroines/shared_prefs,directory
+/data/user_de/0/com.heroines.heroines/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.heroines.heroines/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/com.crashlytics.settings.json,file
+/data/user/0/com.heroines.heroines/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb,file
+/data/data/com.heroines.heroines/files/datastore/firebase_session_<firebase_session>_settings.preferences_pb,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/initialization_marker,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/crash_marker,directory
+/data/user/0/com.heroines.heroines/databases,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>,directory
+/data/user/0/com.heroines.heroines/databases/com.google.android.datatransport.events,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native/pending,directory
+/data/user/0/com.heroines.heroines/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.heroines.heroines/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.heroines.heroines/files/generatefid.lock,file
+/data/user/0/com.heroines.heroines/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.heroines.heroines/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.inappmessaging.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.firebase.inappmessaging.xml.bak,file
+/data/user/0/com.heroines.heroines/databases/com.google.android.datatransport.events-journal,file
+/data/app/com.heroines.heroines-<base64>/lib/arm64-v8a,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/userlog,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/report,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/start-time,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.com.google.firebase.crashlytics,directory
+/data/user/0/com.heroines.heroines/files/.com.google.firebase.crashlytics-ndk,directory
+/data/user/0/com.heroines.heroines/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/internal-keys,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/event<crash_event_seq>,directory
+/data/user/0/com.heroines.heroines/files/phenotype_storage_info/shared/storage-info.pb,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines_preferences.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines_preferences.xml.bak,file
+/data/user/0/com.heroines.heroines/files/AppEventsLogger.persistedevents,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.naver.ads.flags.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.naver.ads.flags.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/user-data,directory
+/data/user/0/com.heroines.heroines/cache/NaverAdsServices,directory
+/data/user/0/com.heroines.heroines/files/phenotype/shared/com.google.android.gms.measurement#com.heroines.heroines.pb,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/aqs.<md5>,directory
+/data/user/0/com.heroines.heroines/shared_prefs/com.naver.gfpsdk.nac.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.naver.gfpsdk.nac.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/reports/<crash_report>,directory
+/data/user/0/com.heroines.heroines/cache/com.kakao.adfit.matrix.cache,file
+/data/user/0/com.heroines.heroines/cache/NaverAdsServices/gfp_init_response,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.kakao.adfit.preference.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.kakao.adfit.preference.xml.bak,file
+/data/user/0/com.heroines.heroines/files/audience_network.dex,file
+/data/user/0/com.heroines.heroines/databases/androidx.work.workdb,directory
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/keys,directory
+/data/user/0/com.heroines.heroines/no_backup/androidx.work.workdb,file
+/data/user/0/com.heroines.heroines/cache/data/user/<number>/com.heroines.heroines/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.heroines.heroines/shared_prefs/event_repository_prefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/event_repository_prefs.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native/device.json,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native/session.json,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native/app.json,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/native/os.json,file
+/data/user/0/com.heroines.heroines/databases/google_app_measurement_local.db,file
+/data/user/0/com.heroines.heroines/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.heroines.heroines/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.heroines.heroines/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.heroines.heroines/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.heroines.heroines/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.heroines.heroines/shared_prefs/OneSignal.xml,file
+/data/user/0/com.heroines.heroines/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.heroines.heroines/shared_prefs/OneSignal.xml.bak,file
+/data/user/0/com.heroines.heroines/databases/OneSignal.db,file
+/data/user/0/com.heroines.heroines/databases/OneSignal.db-wal,directory
+/data/user/0/com.heroines.heroines/databases/OneSignal.db-shm,directory
+/data/user/0/com.heroines.heroines/databases/OneSignal.db-journal,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-internal.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-internal.xml.bak,file
+/data/user/0/com.heroines.heroines/app_optimized,directory
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-install.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-install.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-attribution-data.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-attribution-data.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-info.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-info.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-alias.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-alias.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-attributes.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-attributes.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-attributes-ex.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-user-attributes-ex.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-device-alias.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/airbridge-device-alias.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/GTPlayerPurchases.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/GTPlayerPurchases.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.prefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.prefs.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.cores.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.cores.xml.bak,file
+/data/user/0/com.heroines.heroines/files/oat/audience_network.dex.cur.prof,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.offerwall.prefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.offerwall.prefs.xml.bak,file
+/data/user/0/com.heroines.heroines/databases/install_packages,file
+/data/user/0/com.heroines.heroines/databases/install_packages-wal,directory
+/data/user/0/com.heroines.heroines/databases/install_packages-shm,directory
+/data/user/0/com.heroines.heroines/databases/install_packages-journal,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.offerwall.lumberjack.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/co.adison.offerwall.lumberjack.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines.v2.playerprefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines.v2.playerprefs.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.heroines.heroines.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/buzzad.benefit.<number>.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/buzzad.benefit.<number>.xml.bak,file
+/data/user/0/com.heroines.heroines/cache/benefit,directory
+/data/user/0/com.heroines.heroines/cache/benefit/journal,file
+/data/user/0/com.heroines.heroines/cache/benefit/journal.tmp,file
+/data/user/0/com.heroines.heroines/cache/benefit/journal.bkp,directory
+/data/user/0/com.heroines.heroines/shared_prefs/UUID.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/UUID.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.buzzad.benefit.core.usercontext.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.buzzad.benefit.core.usercontext.xml.bak,file
+/data/user/0/com.heroines.heroines/files/cappedAds.txt,file
+/data/user/0/com.heroines.heroines/files/adsCappingInfo.txt,file
+/data/user/0/com.heroines.heroines/shared_prefs/FBAdPrefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/<number>.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/<number>.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/FBAdPrefs.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.bi.SharedPreference.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.bi.SharedPreference.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.buzzad.benefit.PREFERENCES_NAME.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.buzzvil.buzzad.benefit.PREFERENCES_NAME.xml.bak,file
+/data/user/0/com.heroines.heroines/cache/bi-database_benefit.lck,file
+/data/user/0/com.heroines.heroines/databases/bi-database_benefit,file
+/data/user/0/com.heroines.heroines/databases/bi-database_benefit-wal,file
+/data/user/0/com.heroines.heroines/databases/bi-database_benefit-shm,file
+/data/user/0/com.heroines.heroines/shared_prefs/configPrefs-v2.xml,file
+/data/user/0/com.heroines.heroines/databases/bi-database_benefit-journal,directory
+/data/user/0/com.heroines.heroines/shared_prefs/configPrefs-v2.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/BuzzBoosterPrefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/BuzzBoosterPrefs.xml.bak,file
+/data/user/0/com.heroines.heroines/databases/airbridge.db,file
+/data/user/0/com.heroines.heroines/databases/airbridge.db-wal,file
+/data/user/0/com.heroines.heroines/databases/airbridge.db-shm,file
+/data/user/0/com.heroines.heroines/databases/airbridge.db-journal,directory
+/data/user/0/com.heroines.heroines/shared_prefs/app_set_id_storage.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/app_set_id_storage.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.preferences.<applovin_pref_id>.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.preferences.<applovin_pref_id>.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/adpopcorn_parameter.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/adpopcorn_parameter.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.<number>.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.<number>.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/CHANNEL_PLUGIN_PRIVATE_DATA.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/CHANNEL_PLUGIN_PRIVATE_DATA.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/data/user/0/com.heroines.heroines/app_lib,directory
+/data/user/0/com.heroines.heroines/app_lib/libflutter.so,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.internal.btextras.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.internal.btextras.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.idfa.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.facebook.ads.idfa.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.shared.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/com.applovin.sdk.shared.xml.bak,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcrashlytics-common.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libflutter.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libapp.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libpglarmor.so,file
+/data/user/0/com.heroines.heroines/databases/com.im_10.<number>.<number>.db-journal,file
+/data/user/0/com.heroines.heroines/cache/webview_com.heroines.heroines,directory
+/data/user/0/com.heroines.heroines/app_webview_com.heroines.heroines,directory
+/data/user/0/com.heroines.heroines/cache/WebView,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Crashpad,directory
+/data/user/0/com.heroines.heroines/cache/WebView/SafeBrowsing,directory
+/data/user/0/com.heroines.heroines/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/com.heroines.heroines/cache/WebView/Crash Reports,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Crashpad/new,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Crashpad/completed,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Crashpad/pending,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Crashpad/attachments,directory
+/data/user/0/com.heroines.heroines/app_webview,directory
+/data/user/0/com.heroines.heroines/app_webview/Default,directory
+/data/user/0/com.heroines.heroines/app_webview/variations_stamp,directory
+/data/user/0/com.heroines.heroines/app_webview/webview_data.lock,directory
+/data/user/0/com.heroines.heroines/app_webview/BrowserMetrics,directory
+/data/user/0/com.heroines.heroines/app_webview/variations_seed,directory
+/data/user/0/com.heroines.heroines/app_webview/BrowserMetrics-spare.pma,directory
+/data/user/0/com.heroines.heroines/app_webview/pref_store,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/WebStorage,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/blob_storage,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Web Data,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Cookies-journal,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/VideoDecodeStats,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Cookies,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Web Data-journal,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/WebStorage/QuotaManager-journal,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/WebStorage/QuotaManager,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/<number>.ldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/LOG.old,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/CURRENT,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/MANIFEST-<number>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/LOG.old,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/CURRENT,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/shared_proto_db/metadata/<number>.ldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/<number>.ldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/<number>.log,file
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/LOG.old,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/CURRENT,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/MANIFEST-<number>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/PersistentOriginTrials/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/PersistentOriginTrials/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/PersistentOriginTrials/LOG.old,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/<number>.ldb,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/com.heroines.heroines/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/VideoDecodeStats/LOCK,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/VideoDecodeStats/LOG,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/com.heroines.heroines/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/com.heroines.heroines/cache/webview_com.heroines.heroines,directory
+/data/user_de/0/com.heroines.heroines/app_webview_com.heroines.heroines,directory
+/data/user/0/com.heroines.heroines/databases/ttopensdk.db-journal,directory
+/data/user/0/com.heroines.heroines/databases/track_manager_monitor.db-journal,directory
+/data/user/0/com.heroines.heroines/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.heroines.heroines/databases/track_manager_metrics_sdk.db-journal,directory
+/data/user/0/com.heroines.heroines/files/phenotype/shared/com.google.android.gms.clearcut_client#com.heroines.heroines.pb,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.heroines.heroines/lib,directory
+/data/user/0/com.heroines.heroines/shared_prefs/pcvmspf.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/pcvmspf.xml.bak,file
+/data/user/0/com.heroines.heroines/app_pccache,directory
+/data/user/0/com.heroines.heroines/app_pccache/<number>,directory
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>,directory
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>/pcam.jar,file
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>/pcbc,directory
+/data/user/0/com.heroines.heroines/databases/com.google.android.gms.ads.db,file
+/data/user/0/com.heroines.heroines/app_tmppccache,directory
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>/pcopt,directory
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>/oat/pcam.jar.cur.prof,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.heroines.heroines/cache/volley,directory
+/data/user/0/com.heroines.heroines/cache/volley/<number>,directory
+/data/user/0/com.heroines.heroines/cache/volley/<number>-<number>,directory
+/data/user/0/com.heroines.heroines/shared_prefs/admob.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/admob.xml.bak,file
+/data/user/0/com.heroines.heroines/shared_prefs/paid_storage_sp.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/paid_storage_sp.xml.bak,file
+/data/app/com.heroines.heroines-<base64>/lib/arm64/libunity.so,file
+/data/app/com.heroines.heroines-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libapminsighta.so,file
+/data/user/0/com.heroines.heroines/cache/booster-bi-event-database.lck,directory
+/data/user/0/com.heroines.heroines/files/apminsight/TrackInfo/<number>/<apminsight_id>,directory
+/data/user/0/com.heroines.heroines/databases/booster-bi-event-database,directory
+/data/user/0/com.heroines.heroines/databases/booster-bi-event-database-wal,directory
+/data/user/0/com.heroines.heroines/databases/booster-bi-event-database-shm,directory
+/data/user/0/com.heroines.heroines/databases/booster-bi-event-database-journal,directory
+/data/user/0/com.heroines.heroines/files/encrypt_statistics_file,directory
+/data/user/0/com.heroines.heroines/files/encrypt_statistics_file.bak,file
+/data/user/0/com.heroines.heroines/databases/pag_monitor.db-journal,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/data/com.heroines.heroines/app_webview/Default/WebStorage/QuotaManager,directory
+/data/user/0/com.heroines.heroines/app_webview/Default/IndexedDB/https_webview.pshift.me_0.indexeddb.leveldb/<number>.dbtmp,directory
+/data/data/com.heroines.heroines/app_webview/Default/WebStorage/QuotaManager-journal,directory
+/data/data/com.heroines.heroines/app_webview/Default/Cookies-journal,directory
+/data/data/com.heroines.heroines/app_webview/Default,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/com.heroines.heroines/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/data/com.heroines.heroines/app_webview/Default/WebStorage,directory
+/data/user/0/com.heroines.heroines/files/tt_sdk_event_net_state,directory
+/data/user/0/com.heroines.heroines/files/tt_sdk_event_net_state.bak,file
+/data/user/0/com.heroines.heroines/files/tt_sdk_event_db_state,directory
+/data/user/0/com.heroines.heroines/files/tt_sdk_event_db_state.bak,file
+/data/user/0/com.heroines.heroines/files/fiam_eligible_campaigns_cache_file,directory
+/data/user/0/com.heroines.heroines/files/phenotype_storage_info/shared/storage-info.pb.mobstore_tmp-<number>-<number>-<number>-<number>,directory
+/data/user_de/0/com.heroines.heroines/files,directory
+/data/user_de/0/com.heroines.heroines/files/phenotype_storage_info/shared/device-encrypted-storage-info.pb.mobstore_tmp-<number>-<number>-<number>-<number>,directory
+/data/user_de/0/com.heroines.heroines/files/phenotype_storage_info/shared/device-encrypted-storage-info.pb,directory
+/data/user/0/com.heroines.heroines/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.heroines.heroines/cache/benefit/<md5>.<number>,directory
+/data/user/0/com.heroines.heroines/cache/benefit/<md5>.<number>.tmp,file
+/data/user/0/com.heroines.heroines/cache/buzz-image-loader,directory
+/data/user/0/com.heroines.heroines/cache/buzz-image-loader/journal.bkp,directory
+/data/user/0/com.heroines.heroines/cache/buzz-image-loader/journal,directory
+/data/user/0/com.heroines.heroines/cache/buzz-image-loader/journal.tmp,file
+/data/user/0/com.heroines.heroines/cache/buzz-image-loader/<number>.<number>,directory
+/data/user/0/com.heroines.heroines/cache/lottie_network_cache,directory
+/data/user/0/com.heroines.heroines/cache/lottie_network_cache/lottie_cache_httpsserviceassetsbuzzvilcombuzzscreenpriority_contentsbuzz_native_part_mission_lottiejson.json,file
+/data/user/0/com.heroines.heroines/cache/lottie_network_cache/lottie_cache_httpsserviceassetsbuzzvilcombuzzscreenpriority_contentsbuzz_native_part_mission_lottiejson.zip,file
+/data/user/0/com.heroines.heroines/cache/lottie_network_cache/lottie_cache_httpsserviceassetsbuzzvilcombuzzscreenpriority_contentsbuzz_native_part_mission_lottiejson.temp.json,file
+/data/user/0/com.heroines.heroines/shared_prefs/AwOriginVisitLoggerPrefs.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/AwOriginVisitLoggerPrefs.xml.bak,file
+/data/user/0/com.heroines.heroines/files/.crashlytics.v3/com.heroines.heroines/open-sessions/<session>/userlog.tmp,file
+/data/user/0/com.heroines.heroines/app_pccache/<number>/<sha1>/pcam.jar!/libd70666BD7B1F2.so,file
+/data/user/0/com.heroines.heroines/files/tt_sp,directory
+/data/user/0/com.heroines.heroines/files/tt_sp.bak,file
+/data/user/0/com.heroines.heroines/databases/track_manager_monitor.db,file
+/data/user/0/com.heroines.heroines/databases/mbridge.msdk.db,file
+/data/user/0/com.heroines.heroines/databases/mbridge.msdk.db-wal,directory
+/data/user/0/com.heroines.heroines/databases/mbridge.msdk.db-shm,directory
+/data/user/0/com.heroines.heroines/databases/mbridge.msdk.db-journal,directory
+/data/user/0/com.heroines.heroines/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.heroines.heroines/primary.prof,directory
+/data/user/0/com.heroines.heroines/files/profileInstalled,directory
+/data/user/0/com.heroines.heroines/files/shoppingImageCacheKey.json,file
+/data/user/0/com.heroines.heroines/cache/event-database.lck,directory
+/data/user/0/com.heroines.heroines/databases/event-database,directory
+/data/user/0/com.heroines.heroines/databases/event-database-wal,directory
+/data/user/0/com.heroines.heroines/databases/event-database-shm,directory
+/data/user/0/com.heroines.heroines/databases/event-database-journal,directory
+/data/user/0/com.heroines.heroines/shared_prefs/FlutterSharedPreferences.xml,file
+/data/user/0/com.heroines.heroines/shared_prefs/FlutterSharedPreferences.xml.bak,file

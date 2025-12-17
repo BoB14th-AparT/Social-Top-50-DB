@@ -1,0 +1,252 @@
+﻿path,type
+/data/user/0/com.reppley.reppley,directory
+/data/user_de/0/com.reppley.reppley,directory
+/data/app/com.reppley.reppley-<base64>/base.apk,file
+/data/app/com.reppley.reppley-<base64>/split_config.arm64_v8a.apk,file
+/data/app/com.reppley.reppley-<base64>/split_config.ko.apk,file
+/data/app/com.reppley.reppley-<base64>/split_config.xxhdpi.apk,file
+/data/app/com.reppley.reppley-<base64>/oat/arm64/base.odex,file
+/data/app/com.reppley.reppley-<base64>/oat/arm64/base.vdex,file
+/data/app/com.reppley.reppley-<base64>/oat/arm64/base.art,file
+/data/app/com.reppley.reppley-<base64>/lib/arm64,directory
+/data/app/com.reppley.reppley-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.reppley.reppley-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/com.reppley.reppley-<base64>/split_config.ko.apk!/lib/arm64-v8a,directory
+/data/app/com.reppley.reppley-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/com.reppley.reppley,directory
+/data/misc/profiles/cur/0/com.reppley.reppley/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/com.reppley.reppley/config.ko.split.prof,directory
+/data/misc/profiles/cur/0/com.reppley.reppley/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/com.reppley.reppley/primary.prof,file
+/data/user/0/com.reppley.reppley/cache,directory
+/data/user_de/0/com.reppley.reppley/code_cache,directory
+/data/user_de/0/com.reppley.reppley/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.reppley.reppley/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.reppley.reppley/shared_prefs,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.reppley.reppley/databases,directory
+/data/user/0/com.reppley.reppley/databases/com.google.android.datatransport.events,file
+/data/user/0/com.reppley.reppley/files,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/reports,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/priority-reports,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/native-reports,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.reppley.reppley/databases/com.google.android.datatransport.events-wal,directory
+/data/user/0/com.reppley.reppley/databases/com.google.android.datatransport.events-shm,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.crashlytics.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.crashlytics.xml.bak,file
+/data/user/0/com.reppley.reppley/databases/com.google.android.datatransport.events-journal,file
+/data/user_de/0/com.reppley.reppley/shared_prefs,directory
+/data/user_de/0/com.reppley.reppley/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.reppley.reppley/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.reppley.reppley/no_backup,directory
+/data/user/0/com.reppley.reppley/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/com.crashlytics.settings.json,file
+/data/user/0/com.reppley.reppley/files/generatefid.lock,file
+/data/user/0/com.reppley.reppley/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/initialization_marker,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/crash_marker,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.auth.api.Store.<firebase_auth_store>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.auth.api.Store.<firebase_auth_store>.xml.bak,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>,directory
+/data/user/0/com.reppley.reppley/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/userlog,file
+/data/user/0/com.reppley.reppley/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.firebase.auth.internal.ProcessDeathHelper.xml.bak,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/report,file
+/data/user/0/com.reppley.reppley/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/start-time,file
+/data/user/0/com.reppley.reppley/databases/androidx.work.workdb,directory
+/data/user/0/com.reppley.reppley/no_backup/androidx.work.workdb,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/data/user/<number>/com.reppley.reppley/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.reppley.reppley/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.reppley.reppley/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.reppley.reppley/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/theme_prefs.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/theme_prefs.xml.bak,file
+/data/user/0/com.reppley.reppley/code_cache,directory
+/data/user/0/com.reppley.reppley/files/AppEventsLogger.persistedevents,file
+/data/user/0/com.reppley.reppley/shared_prefs/<md5>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/<md5>.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.ReferralInfo.xml.bak,file
+/data/user/0/com.reppley.reppley/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_<mixpanel_distinct_id>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI_<mixpanel_distinct_id>.xml.bak,file
+/data/user/0/com.reppley.reppley/files/phenotype/shared/com.google.android.gms.measurement#com.reppley.reppley.pb,file
+/data/user/0/com.reppley.reppley/databases/mixpanel,file
+/data/user/0/com.reppley.reppley/databases/mixpanel-wal,directory
+/data/user/0/com.reppley.reppley/databases/mixpanel-shm,directory
+/data/user/0/com.reppley.reppley/databases/mixpanel-journal,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_<mixpanel_distinct_id>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.MixpanelAPI.TimeEvents_<mixpanel_distinct_id>.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.mixpanel.android.mpmetrics.Mixpanel.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/benefit,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.reppley.reppley_preferences.xml,file
+/data/user/0/com.reppley.reppley/cache/benefit/journal,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.reppley.reppley_preferences.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/benefit/journal.tmp,file
+/data/user/0/com.reppley.reppley/cache/benefit/journal.bkp,directory
+/data/user/0/com.reppley.reppley/shared_prefs/buzzad.benefit.<number>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/buzzad.benefit.<number>.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/<number>.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/<number>.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.buzzvil.bi.SharedPreference.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.buzzvil.bi.SharedPreference.xml.bak,file
+/data/user/0/com.reppley.reppley/databases/google_app_measurement_local.db,file
+/data/user/0/com.reppley.reppley/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.reppley.reppley/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.reppley.reppley/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.reppley.reppley/cache/bi-database_benefit.lck,file
+/data/user/0/com.reppley.reppley/shared_prefs/buzz_entry_point_prefs.xml,file
+/data/user/0/com.reppley.reppley/databases/bi-database_benefit,file
+/data/user/0/com.reppley.reppley/shared_prefs/buzz_entry_point_prefs.xml.bak,file
+/data/user/0/com.reppley.reppley/databases/bi-database_benefit-wal,file
+/data/user/0/com.reppley.reppley/databases/bi-database_benefit-shm,file
+/data/user/0/com.reppley.reppley/databases/bi-database_benefit-journal,directory
+/data/user/0/com.reppley.reppley/shared_prefs/BuzzBoosterPrefs.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/BuzzBoosterPrefs.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/UUID.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/UUID.xml.bak,file
+/data/user/0/com.reppley.reppley/files/datastore/userProperties.preferences_pb,file
+/data/data/com.reppley.reppley/files/datastore/userProperties.preferences_pb,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/userlog.tmp,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/instrument,directory
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.MODEL_STORE.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.internal.MODEL_STORE.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.attributionTracking.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak,file
+/data/user/0/com.reppley.reppley/shared_prefs/appConfig.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/appConfig.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/reppley-db.lck,file
+/data/user/0/com.reppley.reppley/databases/reppley-db,file
+/data/user/0/com.reppley.reppley/databases/reppley-db-wal,file
+/data/user/0/com.reppley.reppley/databases/reppley-db-shm,file
+/data/user/0/com.reppley.reppley/databases/reppley-db-journal,directory
+/data/data/com.reppley.reppley/files/datastore/userProperties.preferences_pb.tmp,file
+/data/user/0/com.reppley.reppley/cache/event-database.lck,file
+/data/user/0/com.reppley.reppley/databases/event-database,file
+/data/user/0/com.reppley.reppley/databases/event-database-wal,file
+/data/user/0/com.reppley.reppley/databases/event-database-shm,file
+/data/user/0/com.reppley.reppley/databases/event-database-journal,directory
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache,directory
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache/journal.bkp,directory
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache/journal,file
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache/journal.tmp,file
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache/<sha256>.<number>,file
+/data/user/0/com.reppley.reppley/cache/image_manager_disk_cache/<sha256>.<number>.tmp,file
+/data/user/0/com.reppley.reppley/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat,file
+/data/misc/profiles/ref/com.reppley.reppley/primary.prof,file
+/data/user/0/com.reppley.reppley/files/profileInstalled,file
+/data/user/0/com.reppley.reppley/cache/booster-bi-event-database.lck,file
+/data/user/0/com.reppley.reppley/databases/booster-bi-event-database,file
+/data/user/0/com.reppley.reppley/databases/booster-bi-event-database-wal,file
+/data/user/0/com.reppley.reppley/databases/booster-bi-event-database-shm,file
+/data/user/0/com.reppley.reppley/databases/booster-bi-event-database-journal,directory
+/data/user/0/com.reppley.reppley/shared_prefs/avatar_prefs.xml,file
+/data/user/0/com.reppley.reppley/shared_prefs/avatar_prefs.xml.bak,file
+/data/user/0/com.reppley.reppley/cache/webview_com.reppley.reppley,directory
+/data/user/0/com.reppley.reppley/app_webview_com.reppley.reppley,directory
+/data/user/0/com.reppley.reppley/cache/WebView,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Crashpad,directory
+/data/user/0/com.reppley.reppley/cache/WebView/SafeBrowsing,directory
+/data/user/0/com.reppley.reppley/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/com.reppley.reppley/cache/WebView/Crash Reports,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Crashpad/new,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Crashpad/completed,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Crashpad/pending,directory
+/data/user/0/com.reppley.reppley/cache/WebView/Crashpad/attachments,directory
+/data/user/0/com.reppley.reppley/app_webview,directory
+/data/user/0/com.reppley.reppley/app_webview/Default,directory
+/data/user/0/com.reppley.reppley/app_webview/variations_stamp,file
+/data/user/0/com.reppley.reppley/app_webview/webview_data.lock,file
+/data/user/0/com.reppley.reppley/app_webview/BrowserMetrics,directory
+/data/user/0/com.reppley.reppley/app_webview/variations_seed_new,file
+/data/user/0/com.reppley.reppley/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/com.reppley.reppley/app_webview/pref_store,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/blob_storage,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Web Data,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Cookies-journal,file
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Cookies,file
+/data/user/0/com.reppley.reppley/app_webview/Default/Web Data-journal,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/LOCK,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/LOG,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/MANIFEST-<number>,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/CURRENT,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata/LOG,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/com.reppley.reppley/app_webview/Default/shared_proto_db/metadata/CURRENT,file
+/data/user/0/com.reppley.reppley/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/PersistentOriginTrials/LOCK,file
+/data/user/0/com.reppley.reppley/app_webview/Default/PersistentOriginTrials/LOG,file
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/com.reppley.reppley/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/com.reppley.reppley/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/com.reppley.reppley/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user_de/0/com.reppley.reppley/cache/webview_com.reppley.reppley,directory
+/data/user_de/0/com.reppley.reppley/app_webview_com.reppley.reppley,directory
+/data/user_de/0/com.reppley.reppley/code_cache/com.android.renderscript.cache,file
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/event<crash_event_seq>_,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/.ae1765707828439,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/open-sessions/<md5>/user-data,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/priority-reports/<md5>,directory
+/data/user/0/com.reppley.reppley/files/.com.google.firebase.crashlytics.files.v1/.ae1765708056978,directory

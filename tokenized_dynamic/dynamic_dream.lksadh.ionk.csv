@@ -1,0 +1,172 @@
+﻿path,type
+/data/user/0/dream.lksadh.ionk,directory
+/data/user_de/0/dream.lksadh.ionk,directory
+/data/app/dream.lksadh.ionk-<base64>/base.apk,file
+/data/app/dream.lksadh.ionk-<base64>/split_config.arm64_v8a.apk,file
+/data/app/dream.lksadh.ionk-<base64>/split_config.xxhdpi.apk,file
+/data/app/dream.lksadh.ionk-<base64>/oat/arm64/base.odex,file
+/data/app/dream.lksadh.ionk-<base64>/oat/arm64/base.vdex,file
+/data/app/dream.lksadh.ionk-<base64>/oat/arm64/base.art,file
+/data/app/dream.lksadh.ionk-<base64>/lib/arm64,directory
+/data/app/dream.lksadh.ionk-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/dream.lksadh.ionk-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a,directory
+/data/app/dream.lksadh.ionk-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a,directory
+/data/misc/profiles/cur/0/dream.lksadh.ionk,directory
+/data/misc/profiles/cur/0/dream.lksadh.ionk/config.xxhdpi.split.prof,directory
+/data/misc/profiles/cur/0/dream.lksadh.ionk/config.arm64_v8a.split.prof,directory
+/data/misc/profiles/cur/0/dream.lksadh.ionk/primary.prof,file
+/data/user/0/dream.lksadh.ionk/cache,directory
+/data/user_de/0/dream.lksadh.ionk/code_cache,directory
+/data/user_de/0/dream.lksadh.ionk/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/dream.lksadh.ionk/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/dream.lksadh.ionk/shared_prefs,directory
+/data/user/0/dream.lksadh.ionk/shared_prefs/language_uni_sp_file.xml,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/language_uni_sp_file.xml.bak,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/dc_ad_type_key.xml,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/dc_ad_type_key.xml.bak,file
+/storage/emulated/0/Android/data/dream.lksadh.ionk,directory
+/storage/emulated/0/Android/data/dream.lksadh.ionk/cache,directory
+/data/user/0/dream.lksadh.ionk/files,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/manifest.json,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/androidPrivacy.json,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/pdr.xml,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/pdr.xml.bak,file
+/storage/emulated/0/Android/data/dream.lksadh.ionk/apps/,directory
+/storage/emulated/0/Android/data/dream.lksadh.ionk/sitemap/,directory
+/storage/emulated/0/Android/data/dream.lksadh.ionk/cache/dcCrashDump,directory
+/data/app/dream.lksadh.ionk-<base64>/lib/arm64/libbreakpad-core.so,file
+/data/app/dream.lksadh.ionk-<base64>/lib/arm64/libweexcore.so,file
+/data/user/0/dream.lksadh.ionk/cache/webview_dream.lksadh.ionk,directory
+/data/user/0/dream.lksadh.ionk/app_webview_dream.lksadh.ionk,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/SafeBrowsing,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/font_unique_name_table.pb,file
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crash Reports,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/index,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search/snapshot.baf,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/No_Vary_Search/journal.baj,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/new,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/completed,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/pending,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Crashpad/attachments,directory
+/data/user/0/dream.lksadh.ionk/app_webview,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default,directory
+/data/user/0/dream.lksadh.ionk/app_webview/variations_stamp,file
+/data/user/0/dream.lksadh.ionk/app_webview/webview_data.lock,file
+/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics,directory
+/data/user/0/dream.lksadh.ionk/app_webview/variations_seed,file
+/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/dream.lksadh.ionk/app_webview/pref_store,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Web Data,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Cookies-journal,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Cookies,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Web Data-journal,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/MANIFEST-<number>,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOCK,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOG,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/<number>.log,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/LOG.old,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/CURRENT,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOCK,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/<number>.ldb,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOG,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/<number>.log,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/LOG.old,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/shared_proto_db/metadata/CURRENT,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/blob_storage/<uuid>,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOCK,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOG,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/PersistentOriginTrials/LOG.old,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOCK,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOG,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/<number>.log,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/LOG.old,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Local Storage/leveldb/CURRENT,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/LOCK,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/LOG,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/MANIFEST-<number>,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/<number>.log,file
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/CURRENT,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/db,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/db-journal,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index-dir,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index,directory
+/data/user/0/dream.lksadh.ionk/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user_de/0/dream.lksadh.ionk/cache/webview_dream.lksadh.ionk,directory
+/data/user_de/0/dream.lksadh.ionk/app_webview_dream.lksadh.ionk,directory
+/data/data/dream.lksadh.ionk/app_webview/Default/Cookies-journal,directory
+/data/data/dream.lksadh.ionk/app_webview/Default,directory
+/data/user/0/dream.lksadh.ionk/databases/DCStorage-journal,directory
+/data/user/0/dream.lksadh.ionk/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/dream.lksadh.ionk/databases,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/contacts.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/recommend-active.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/recommendList.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg2.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/goDetailBtn.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg3.png,file
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/colorTextBg4.png,file
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/dream.lksadh.ionk/files/phenotype_storage_info/shared/storage-info.pb,directory
+/data/user/0/dream.lksadh.ionk/files/phenotype/shared/com.google.android.gms.clearcut_client#dream.lksadh.ionk.pb,directory
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/message.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/message/chat.css,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/__uniappquill.js,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/__uniappview.html,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/index/index.css,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/message-active.png,file
+/data/user/0/dream.lksadh.ionk/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/user/0/dream.lksadh.ionk/app_webview/Default/Session Storage/<number>.dbtmp,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/empty.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/app-wxs.js,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/uni-app-view.umd.js,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/app.css,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/compass-active.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/compass.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/tabbar/mine-active.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon1.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon2.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon4.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon5.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon3.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/static/image/myFunIcon6.png,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/mine/setting.css,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/pages/mine/doc.css,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/www/assets/uniicons.89ed7d6d.ttf,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/appsflyer-data.xml,file
+/data/user/0/dream.lksadh.ionk/shared_prefs/appsflyer-data.xml.bak,file
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/isbackstage_dbfile,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/pauseConnection_dbfile,directory
+/data/user/0/dream.lksadh.ionk/files/AFRequestCache,directory
+/data/user/0/dream.lksadh.ionk/files/AFRequestCache/<number>,directory
+/data/user/0/dream.lksadh.ionk/files/apps/__UNI__F091AF7/dbfile/backstageTime_dbfile,directory

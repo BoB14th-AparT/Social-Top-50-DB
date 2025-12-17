@@ -1,0 +1,194 @@
+﻿path,type
+/data/user/0/com.blockchainvault,directory
+/data/user_de/0/com.blockchainvault,directory
+/data/app/com.blockchainvault-<base64>/lib/arm64,directory
+/data/app/com.blockchainvault-<base64>/base.apk!/lib/arm64-v8a,directory
+/data/app/com.blockchainvault-<base64>/base.apk,file
+/data/app/com.blockchainvault-<base64>/oat/arm64/base.odex,file
+/data/app/com.blockchainvault-<base64>/oat/arm64/base.vdex,file
+/data/app/com.blockchainvault-<base64>/oat/arm64/base.art,file
+/data/misc/profiles/cur/0/com.blockchainvault,directory
+/data/misc/profiles/cur/0/com.blockchainvault/primary.prof,file
+/data/user/0/com.blockchainvault/cache,directory
+/data/user_de/0/com.blockchainvault/code_cache,directory
+/data/user_de/0/com.blockchainvault/code_cache/com.android.opengl.shaders_cache,file
+/data/user_de/0/com.blockchainvault/code_cache/com.android.skia.shaders_cache,file
+/data/user/0/com.blockchainvault/files,directory
+/data/user/0/com.blockchainvault/shared_prefs,directory
+/data/user/0/com.blockchainvault/shared_prefs/com.google.firebase.messaging.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.google.firebase.messaging.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.appid.xml,file
+/data/user_de/0/com.blockchainvault/shared_prefs,directory
+/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:<base64>.xml,file
+/data/user_de/0/com.blockchainvault/shared_prefs/com.google.firebase.common.prefs:<base64>.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.appid.xml.bak,file
+/data/user/0/com.blockchainvault/no_backup,directory
+/data/user/0/com.blockchainvault/no_backup/com.google.android.gms.appid-no-backup,file
+/data/user/0/com.blockchainvault/databases,directory
+/data/user/0/com.blockchainvault/databases/androidx.work.workdb,directory
+/data/user/0/com.blockchainvault/files/audience_network.dex,file
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.appEventPreferences.xml,file
+/data/user/0/com.blockchainvault/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb,file
+/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.appEventPreferences.xml.bak,file
+/data/user/0/com.blockchainvault/cache/data/user/<number>/com.blockchainvault/no_backup/androidx.work.workdb.lck,file
+/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/FirebaseHeartBeat<firebase_installation_b64>.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak,file
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-wal,file
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-shm,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.AccessTokenManager.SharedPreferences.xml.bak,file
+/data/data/com.blockchainvault/files/datastore/FirebaseHeartBeat<firebase_installation_b64>.preferences_pb.tmp,file
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-journal,directory
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak,file
+/data/user/0/com.blockchainvault/app_optimized,directory
+/data/user/0/com.blockchainvault/files/.gms-dynamite-code-cache,directory
+/data/user/0/com.blockchainvault/files/AppEventsLogger.persistedevents,file
+/data/user/0/com.blockchainvault/shared_prefs/OneSignal.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/OneSignal.xml.bak,file
+/data/user/0/com.blockchainvault/databases/OneSignal.db,file
+/data/user/0/com.blockchainvault/databases/OneSignal.db-wal,directory
+/data/user/0/com.blockchainvault/databases/OneSignal.db-shm,directory
+/data/user/0/com.blockchainvault/databases/OneSignal.db-journal,file
+/data/user/0/com.blockchainvault/lib-main,directory
+/data/app/com.blockchainvault-<base64>/lib/arm64/libreactnative.so,file
+/data/user/0/com.blockchainvault/files/oat/audience_network.dex.cur.prof,file
+/data/user/0/com.blockchainvault/shared_prefs/GTPlayerPurchases.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/GTPlayerPurchases.xml.bak,file
+/data/user/0/com.blockchainvault/lib-main/dso_lock,directory
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.v2.playerprefs.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.v2.playerprefs.xml.bak,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libapminsighta.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libapminsightb.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libapplovin-native-crash-reporter.so,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault.xml.bak,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libappmodules.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libbuffer_pgl.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libc++_shared.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libdatastore_shared_counter.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libfbjni.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libfile_lock_pgl.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libhermes.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libhermestooling.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libimagepipeline.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libjsi.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libnative-filters.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libnative-imagetranscoder.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libnms.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libpglarmor.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libreact_codegen_safeareacontext.so,file
+/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.measurement.prefs.xml,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libreanimated.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libtobEmbedPagEncrypt.so,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libtt_ugen_layout.so,file
+/data/user/0/com.blockchainvault/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak,file
+/data/user/0/com.blockchainvault/files/cappedAds.txt,file
+/data/user/0/com.blockchainvault/files/adsCappingInfo.txt,file
+/data/app/com.blockchainvault-<base64>/lib/arm64/libworklets.so,file
+/data/user/0/com.blockchainvault/shared_prefs/FBAdPrefs.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/FBAdPrefs.xml.bak,file
+/data/user/0/com.blockchainvault/files/phenotype_storage_info/shared/storage-info.pb,file
+/data/user/0/com.blockchainvault/files/phenotype/shared/com.google.android.gms.measurement#com.blockchainvault.pb,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault_preferences.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.blockchainvault_preferences.xml.bak,file
+/data/user/0/com.blockchainvault/files/generatefid.lock,file
+/data/user/0/com.blockchainvault/files/PersistedInstallation.<firebase_installation_b64>.json,file
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db,file
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-wal,directory
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-shm,directory
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-journal,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.DataProcessingOptions.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.attributionTracking.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.sdk.attributionTracking.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.internal.btextras.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.internal.btextras.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.idfa.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.idfa.xml.bak,file
+/data/user/0/com.blockchainvault/shared_prefs/app_set_id_storage.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/app_set_id_storage.xml.bak,file
+/data/user/0/com.blockchainvault/databases/traceback.kv.db.remotedb-journal,file
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0,directory
+/data/user/0/com.blockchainvault/databases/track_manager_metrics_sdk.db-journal,file
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db,file
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-wal,directory
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-shm,directory
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db,file
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-wal,directory
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-shm,directory
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-journal,file
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-journal,file
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>,directory
+/data/user/0/com.blockchainvault/files/UnityAdsStorage-private-data.json,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/CURRENT,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-<number>,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb,directory
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/<number>.log,file
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/index.txt,file
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/index.txt.tmp,file
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/the-real-index,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/temp-index,directory
+/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOG,file
+/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOG.old,file
+/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats/LOCK,file
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_0,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_1,directory
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_s,directory
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db,file
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-wal,directory
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-shm,directory
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-journal,file
+/data/user/0/com.blockchainvault/databases/pag_monitor.db-journal,file
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob,directory
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0,directory
+/data/user/0/com.blockchainvault/app_webview/BrowserMetrics-spare.pma.tmp,file
+/data/user/0/com.blockchainvault/app_webview/BrowserMetrics-spare.pma,file
+/data/user/0/com.blockchainvault/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma,directory
+/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.<webview_profile>,directory
+/data/user/0/com.blockchainvault/app_webview/pref_store,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebo,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index,directory
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index,directory
+/data/user/0/com.blockchainvault/databases/com.im_10.<number>.<number>.db-journal,file
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index,directory
+/data/user/0/com.blockchainvault/app_webview/BrowserMetrics,directory
+/data/user/0/com.blockchainvault/files/phenotype/shared/com.google.android.gms.clearcut_client#com.blockchainvault.pb,directory
+/data/data/com.blockchainvault/app_webview/Default/Cookies-journal,file
+/data/data/com.blockchainvault/app_webview/Default,directory
+/data/data/com.blockchainvault/app_webview/Default/WebStorage,directory
+/data/user/0/com.blockchainvault/files/apminsight/TrackInfo/<number>/<apminsight_id>,file
+/data/user/0/com.blockchainvault/databases/ttopensdk.db-journal,file
+/data/user/0/com.blockchainvault/databases/metrics-db,file
+/data/user/0/com.blockchainvault/files/tt_sdk_event_net_state,file
+/data/user/0/com.blockchainvault/files/tt_sdk_event_net_state.bak,file
+/data/user/0/com.blockchainvault/files/tt_sdk_event_db_state,file
+/data/user/0/com.blockchainvault/files/tt_sdk_event_db_state.bak,file
+/data/user/0/com.blockchainvault/databases/traceback.kv.db.analytics-journal,file
+/data/user/0/com.blockchainvault/databases/RKStorage-journal,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml,file
+/data/user/0/com.blockchainvault/shared_prefs/com.facebook.ads.LOCAL_COUNTERS.xml.bak,file
+/data/data/com.blockchainvault/files/datastore,directory
